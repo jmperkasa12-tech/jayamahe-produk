@@ -377,11 +377,11 @@
     "id": 123,
     "name": "GZB001",
     "category": "Gazebo",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp -",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 200 x L 200 x T 300 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-1.jpg"
   },
   {
@@ -4138,5 +4138,60 @@
     "name": "testi",
     "category": "testi",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/testi3.png"
+  },
+    {
+    "id": 377,
+    "name": "GZB002",
+    "category": "Gazebo",
+    "price": "Rp -",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 200 x L 200 x T 350 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-2.jpg"
+  },
+  {
+    "id": 378,
+    "name": "GZB003",
+    "category": "Gazebo",
+    "price": "Rp -",
+    "stock": "Pre-order",
+    "material": "Kayu Kelapa ",
+    "finishing": "Salak Brown ",
+    "size": "P 250 x L 250 x T 350 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-3.jpg"
+  },
+  {
+    "id": 379,
+    "name": "GZB004",
+    "category": "Gazebo",
+    "price": "Rp -",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Salak Brown ",
+    "size": "P 200 x L 200 x T 300 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-4.jpg"
+  },
+  {
+    "id": 380,
+    "name": "GZB005",
+    "category": "Gazebo",
+    "price": "Rp -",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Salak Brown ",
+    "size": "P 120 x L 150 x T 300 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-5.jpg"
+  },
+  {
+    "id": 381,
+    "name": "GZB006",
+    "category": "Gazebo",
+    "price": "Rp -",
+    "stock": "Pre-order",
+    "material": "Kayu Kelapa",
+    "finishing": "Salak Brown ",
+    "size": "P 250 x L 250 x T 350 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-6.jpg"
   }
 ]
