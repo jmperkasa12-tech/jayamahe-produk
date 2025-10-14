@@ -4120,5 +4120,23 @@
     "finishing": "Natural Glosy",
     "size": "P 200 x L 200 X T 100 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-22.jpg"
-  }
+  },
+    {
+    "id": 374,
+    "name": "testi",
+    "category": "testi",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/testi1.png"
+  },
+      {
+    "id": 375,
+    "name": "testi",
+    "category": "testi",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/testi2.png"
+  },
+      {
+    "id": 376,
+    "name": "testi",
+    "category": "testi",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/testi3.png"
+  },
 ]
