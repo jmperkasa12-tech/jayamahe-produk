@@ -14,7 +14,7 @@
     "id": 77,
     "name": "BBL002",
     "category": "Bale Bale",
-    "price": "Rp 3.50.000",
+    "price": "Rp 3.500.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Cushion",
     "finishing": "Natural Brown + Duco",
@@ -69,7 +69,7 @@
     "id": 78,
     "name": "BBL007",
     "category": "Bale Bale",
-    "price": "Rp 3.800.0000]",
+    "price": "Rp 3.800.0000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
@@ -439,18 +439,18 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Cushion",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 56 x L 52 x  T 80 Cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-4.jpg"
   },
   {
     "id": 118,
     "name": "KCF005",
     "category": "Kursi Cafe",
-    "price": "Rp 500.000",
+    "price": "Rp 680.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Cushion",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 54 x  L 62 x  T 78 cm ",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-5.jpg"
   },
   {
@@ -461,7 +461,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 56 x  L 53 x  T 78 Cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-6.jpg"
   },
   {
@@ -471,8 +471,8 @@
     "price": "Rp 650.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Cushion + Rotan",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "finishing": "Black Glossy ",
+    "size": "P 58  x L 54 x T 75 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-7.jpg"
   },
   {
@@ -481,9 +481,9 @@
     "category": "Kursi Cafe",
     "price": "Rp 450.000",
     "stock": "Ready",
-    "material": "Kayu Jati Solid + Cushion",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Salak Brown ",
+    "size": "P  54 x L 52 x  T 80 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-8.jpg"
   },
   {
@@ -494,7 +494,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Cushion",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P  54 x L 52 x  T 80 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-9.jpg"
   },
   {
@@ -505,7 +505,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Cushion + Rotan",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 50 x L 52 x T 80 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-10.jpg"
   },
   {
@@ -516,7 +516,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 54 X  L 43 x  T 75 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-11.jpg"
   },
   {
@@ -525,9 +525,9 @@
     "category": "Kursi Cafe",
     "price": "Rp 490.000",
     "stock": "Pre-order",
-    "material": "Kayu Jati Solid",
+    "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 54 x  L 52 x  T 75 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-12.jpg"
   },
   {
@@ -538,7 +538,7 @@
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 43 x  L 48 x T 80 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-13.jpg"
   },
   {
@@ -549,7 +549,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Cushion + Rotan",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 57 x L 55 x T 75 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-14.jpg"
   },
   {
@@ -932,11 +932,12 @@
     "category": "Kursi Tamu",
     "price": "Rp 6.500.000",
     "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
     "size": [
-      "3 Seat: P 200 x L 70 x T 80 cm",
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "3 Seat: P 205 x L 60 x T 70 cm",
+      "1 Lonjor: P 180 x L 60 x T 70 cm",
+      "1 Seat: P 90 x L 60 x T 70 cm",
       "Meja: P 120 x L 60 x T 45 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-12.jpg"
@@ -945,13 +946,13 @@
     "id": 137,
     "name": "KTM013",
     "category": "Kursi Tamu",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
+    "price": "Rp 3.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "Salak Brown ",
     "size": [
-      "3 Seat: P 200 x L 70 x T 80 cm",
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "3 Seat: P 205 x L 60 x T 70 cm",
+      "1 Seat: P 90 x L 60 x T 70 cm",
       "Meja: P 120 x L 60 x T 45 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-13.jpg"
@@ -960,9 +961,9 @@
     "id": 138,
     "name": "KTM014",
     "category": "Kursi Tamu",
-    "price": "Rp 0",
+    "price": "Rp 12.500.000",
     "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "material": "Kayu Jati Solid + Cushion + Rotan",
     "finishing": "Natural Brown",
     "size": [
       "3 Seat: P 200 x L 70 x T 80 cm",
@@ -975,8 +976,8 @@
     "id": 139,
     "name": "KTM015",
     "category": "Kursi Tamu",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 2.900.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
@@ -990,9 +991,9 @@
     "id": 140,
     "name": "KTM016",
     "category": "Kursi Tamu",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 3.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
     "size": [
       "3 Seat: P 200 x L 70 x T 80 cm",
@@ -1005,8 +1006,8 @@
     "id": 141,
     "name": "KTM017",
     "category": "Kursi Tamu",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
@@ -1020,9 +1021,9 @@
     "id": 142,
     "name": "KTM018",
     "category": "Kursi Tamu",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 11.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
     "size": [
       "3 Seat: P 200 x L 70 x T 80 cm",
@@ -1035,9 +1036,9 @@
     "id": 143,
     "name": "KTM019",
     "category": "Kursi Tamu",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 6.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": [
       "3 Seat: P 200 x L 70 x T 80 cm",
@@ -1050,9 +1051,9 @@
     "id": 145,
     "name": "KTM020",
     "category": "Kursi Tamu",
-    "price": "Rp 0",
+    "price": "Rp 6.500.000",
     "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
     "size": [
       "3 Seat: P 200 x L 70 x T 80 cm",
@@ -1065,8 +1066,8 @@
     "id": 146,
     "name": "KTM021",
     "category": "Kursi Tamu",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 5.500.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
@@ -1080,10 +1081,10 @@
     "id": 147,
     "name": "KTM022",
     "category": "Kursi Tamu",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 2.900.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
+    "finishing": "Salak Brown ",
     "size": [
       "3 Seat: P 200 x L 70 x T 80 cm",
       "1 Seat: P 60 x L 70 x T 80 cm",
@@ -1095,10 +1096,10 @@
     "id": 148,
     "name": "KTM023",
     "category": "Kursi Tamu",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 6.500.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
+    "finishing": "Salak Brown ",
     "size": [
       "3 Seat: P 200 x L 70 x T 80 cm",
       "1 Seat: P 60 x L 70 x T 80 cm",
@@ -1110,9 +1111,9 @@
     "id": 149,
     "name": "KTM024",
     "category": "Kursi Tamu",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 5.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
     "size": [
       "3 Seat: P 200 x L 70 x T 80 cm",
@@ -1125,10 +1126,10 @@
     "id": 150,
     "name": "KTM025",
     "category": "Kursi Tamu",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
+    "finishing": "Black Glossy ",
     "size": [
       "3 Seat: P 200 x L 70 x T 80 cm",
       "1 Seat: P 60 x L 70 x T 80 cm",
@@ -1140,7 +1141,7 @@
     "id": 151,
     "name": "KTM026",
     "category": "Kursi Tamu",
-    "price": "Rp 0",
+    "price": "Rp 2.900.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
@@ -1155,13 +1156,13 @@
     "id": 152,
     "name": "KTM027",
     "category": "Kursi Tamu",
-    "price": "Rp 0",
+    "price": "Rp 2.900.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "3 Seat: P 200 x L 70 x T 80 cm",
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "2 Seat: P 125 x L 55 x T 85 cm",
+      "1 Seat: P 65 x L 55 x T 85 cm",
       "Meja: P 120 x L 60 x T 45 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-27.jpg"
@@ -1170,9 +1171,9 @@
     "id": 153,
     "name": "KTM028",
     "category": "Kursi Tamu",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 6.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
     "size": [
       "3 Seat: P 200 x L 70 x T 80 cm",
@@ -1185,12 +1186,11 @@
     "id": 161,
     "name": "KTR001",
     "category": "Kursi Teras",
-    "price": "Rp 0",
+    "price": "Rp 1.800.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "3 Seat: P 200 x L 70 x T 80 cm",
       "1 Seat: P 60 x L 70 x T 80 cm",
       "Meja: P 120 x L 60 x T 45 cm"
     ],
@@ -1200,275 +1200,350 @@
     "id": 172,
     "name": "KTR002",
     "category": "Kursi Teras",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 3.600.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-2.jpg"
   },
   {
     "id": 180,
     "name": "KTR003",
     "category": "Kursi Teras",
-    "price": "Rp 0",
+    "price": "Rp 3.300.000",
     "stock": "Ready",
-    "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Salak Brown ",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-3.jpg"
   },
   {
     "id": 181,
     "name": "KTR004",
     "category": "Kursi Teras",
-    "price": "Rp 0",
+    "price": "Rp 1.200.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-4.jpg"
   },
   {
     "id": 182,
     "name": "KTR005",
     "category": "Kursi Teras",
-    "price": "Rp 0",
+    "price": "Rp 1.200.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "finishing": "Salak Brown ",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-5.jpg"
   },
   {
     "id": 183,
     "name": "KTR006",
     "category": "Kursi Teras",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 1.600.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "finishing": "Black Glossy ",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-6.jpg"
   },
   {
     "id": 184,
     "name": "KTR007",
     "category": "Kursi Teras",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-7.jpg"
   },
   {
     "id": 185,
     "name": "KTR008",
     "category": "Kursi Teras",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 3.600.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "finishing": "Salak Brown ",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-8.jpg"
   },
   {
     "id": 186,
     "name": "KTR009",
     "category": "Kursi Teras",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "finishing": "Salak Brown ",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-9.jpg"
   },
   {
     "id": 162,
     "name": "KTR010",
     "category": "Kursi Teras",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 1.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-10.jpg"
   },
   {
     "id": 163,
     "name": "KTR011",
     "category": "Kursi Teras",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 2.400.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-11.jpg"
   },
   {
     "id": 164,
     "name": "KTR012",
     "category": "Kursi Teras",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-12.jpg"
   },
   {
     "id": 165,
     "name": "KTR013",
     "category": "Kursi Teras",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 1.600.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-13.jpg"
   },
   {
     "id": 166,
     "name": "KTR014",
     "category": "Kursi Teras",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 1.800.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-14.jpg"
   },
   {
     "id": 167,
     "name": "KTR015",
     "category": "Kursi Teras",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 1.600.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-15.jpg"
   },
   {
     "id": 168,
     "name": "KTR016",
     "category": "Kursi Teras",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 1.300.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-16.jpg"
   },
   {
     "id": 169,
     "name": "KTR017",
     "category": "Kursi Teras",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 1.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-17.jpg"
   },
   {
     "id": 170,
     "name": "KTR018",
     "category": "Kursi Teras",
-    "price": "Rp 0",
+    "price": "Rp 1.600.000",
     "stock": "Ready",
-    "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Salak Brown ",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-18.jpg"
   },
   {
     "id": 171,
     "name": "KTR019",
     "category": "Kursi Teras",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "price": "Rp 2.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Black Glossy ",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-19.jpg"
   },
   {
     "id": 173,
     "name": "KTR020",
     "category": "Kursi Teras",
-    "price": "Rp 0",
+    "price": "Rp 1.200.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-20.jpg"
   },
   {
     "id": 174,
     "name": "KTR021",
     "category": "Kursi Teras",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 1.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion + Rotan",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-21.jpg"
   },
   {
     "id": 175,
     "name": "KTR022",
     "category": "Kursi Teras",
-    "price": "Rp 0",
+    "price": "Rp 1.500.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "finishing": "Salak Brown ",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-22.jpg"
   },
   {
     "id": 176,
     "name": "KTR023",
     "category": "Kursi Teras",
-    "price": "Rp 0",
+    "price": "Rp 1.200.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-23.jpg"
   },
   {
     "id": 177,
     "name": "KTR024",
     "category": "Kursi Teras",
-    "price": "Rp 0",
+    "price": "Rp 1.600.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-24.jpg"
   },
   {
     "id": 178,
     "name": "KTR025",
     "category": "Kursi Teras",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 1.200.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-25.jpg"
   },
   {
     "id": 179,
     "name": "KTR026",
     "category": "Kursi Teras",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 3.600.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "finishing": "Salak Brown ",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-26.jpg"
   },
   {
@@ -1739,592 +1814,752 @@
     "id": 188,
     "name": "MJM001",
     "category": "Meja Makan",
-    "price": "Rp 0",
+    "price": "Rp 6.800.000",
     "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "material": "Kayu Trembesi Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 200 x L 80 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-1.jpg"
   },
   {
     "id": 199,
     "name": "MJM002",
     "category": "Meja Makan",
-    "price": "Rp 0",
+    "price": "Rp 3.500.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 120 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-2.jpg"
   },
   {
     "id": 210,
     "name": "MJM003",
     "category": "Meja Makan",
-    "price": "Rp 0",
+    "price": "Rp 3.500.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "finishing": "Salak Brown ",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 120 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-3.jpg"
   },
   {
     "id": 221,
     "name": "MJM004",
     "category": "Meja Makan",
-    "price": "Rp 0",
+    "price": "Rp 5.500.000",
     "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "material": "Kayu Trembesi Solid + Rotan ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 150 x L 60 x T 200 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-4.jpg"
   },
   {
     "id": 232,
     "name": "MJM005",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 9.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Trembesi Solid + Besi + Cushion",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 220 x L 90 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-5.jpg"
   },
   {
     "id": 237,
     "name": "MJM006",
     "category": "Meja Makan",
-    "price": "Rp 0",
+    "price": "Rp 2.400.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 90 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-6.jpg"
   },
   {
     "id": 238,
     "name": "MJM007",
     "category": "Meja Makan",
-    "price": "Rp 0",
+    "price": "Rp 4.600.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 160 x L 80 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-7.jpg"
   },
   {
     "id": 239,
     "name": "MJM008",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 4.000.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 160 x L 90 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-8.jpg"
   },
   {
     "id": 240,
     "name": "MJM009",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 4.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 80 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-9.jpg"
   },
   {
     "id": 189,
     "name": "MJM010",
     "category": "Meja Makan",
-    "price": "Rp 0",
+    "price": "Rp 3.500.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 120 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-10.jpg"
   },
   {
     "id": 190,
     "name": "MJM011",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 5.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      " 1 Bench : P 120 x L x T ",
+      "Meja: P 160 x L 80 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-11.jpg"
   },
   {
     "id": 191,
     "name": "MJM012",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 2.300.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "finishing": "Salak Brown ",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 90 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-12.jpg"
   },
   {
     "id": 192,
     "name": "MJM013",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 3.500.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 80 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-13.jpg"
   },
   {
     "id": 193,
     "name": "MJM014",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 4.000.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 160 x L 80 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-14.jpg"
   },
   {
     "id": 194,
     "name": "MJM015",
     "category": "Meja Makan",
-    "price": "Rp 0",
+    "price": "Rp 2.500.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 90 x L 90 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-15.jpg"
   },
   {
     "id": 195,
     "name": "MJM016",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 5.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion + Rotan",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 180 x L 90 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-16.jpg"
   },
   {
     "id": 196,
     "name": "MJM017",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 2.400.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 90 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-17.jpg"
   },
   {
     "id": 197,
     "name": "MJM018",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 4.000.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 160 x L 90 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-18.jpg"
   },
   {
     "id": 198,
     "name": "MJM019",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 2.400.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 90 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-19.jpg"
   },
   {
     "id": 200,
     "name": "MJM020",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 4.200.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 160 x L 90 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-20.jpg"
   },
   {
     "id": 201,
     "name": "MJM021",
     "category": "Meja Makan",
-    "price": "Rp 0",
+    "price": "Rp 2.600.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 160 x L 90 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-21.jpg"
   },
   {
     "id": 202,
     "name": "MJM022",
     "category": "Meja Makan",
-    "price": "Rp 0",
+    "price": "Rp 3.600.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 140 x L 80 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-22.jpg"
   },
   {
     "id": 203,
     "name": "MJM023",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 2.700.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 160 x L 90 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-23.jpg"
   },
   {
     "id": 204,
     "name": "MJM024",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 4.600.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "finishing": "Natural Brown + Gold Duco",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 200 x L 100 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-24.jpg"
   },
   {
     "id": 205,
     "name": "MJM025",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 3.500.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 80 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-25.jpg"
   },
   {
     "id": 206,
     "name": "MJM026",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 2.300.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "finishing": "Salak Brown ",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-26.jpg"
   },
   {
     "id": 207,
     "name": "MJM027",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 2.700.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "finishing": "Salak Brown ",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 160 x L 90 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-27.jpg"
   },
   {
     "id": 208,
     "name": "MJM028",
     "category": "Meja Makan",
-    "price": "Rp 0",
+    "price": "Rp 3.300.000",
     "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "material": "Kayu Trembesi Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 150 x L 65 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-28.jpg"
   },
   {
     "id": 209,
     "name": "MJM029",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 8.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 160 x L 80 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-29.jpg"
   },
   {
     "id": 211,
     "name": "MJM030",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 80 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-30.jpg"
   },
   {
     "id": 212,
     "name": "MJM031",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 2.400.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 90 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-31.jpg"
   },
   {
     "id": 213,
     "name": "MJM032",
     "category": "Meja Makan",
-    "price": "Rp 0",
+    "price": "Rp 3.800.000",
     "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "material": "Kayu Trembesi Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 150 x L 65 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-32.jpg"
   },
   {
     "id": 214,
     "name": "MJM033",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 6.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion + Rotan",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 160 x L 80 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-33.jpg"
   },
   {
     "id": 215,
     "name": "MJM034",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 3.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 80 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-34.jpg"
   },
   {
     "id": 216,
     "name": "MJM035",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 6.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 160 x L 80 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-35.jpg"
   },
   {
     "id": 217,
     "name": "MJM036",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 3.500.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 80 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-36.jpg"
   },
   {
     "id": 218,
     "name": "MJM037",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-37.jpg"
   },
   {
     "id": 219,
     "name": "MJM038",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 7.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Trembesi + Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 200 x L 80 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-38.jpg"
   },
   {
     "id": 220,
     "name": "MJM039",
     "category": "Meja Makan",
-    "price": "Rp 0",
+    "price": "Rp 6.800.000",
     "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "material": "Kayu Trembesi Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 200 x L 80 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-39.jpg"
   },
   {
     "id": 222,
     "name": "MJM040",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "price": "Rp 4.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Trembesi Solid",
+    "finishing": "Salak Brown ",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 150 x L 65 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-40.jpg"
   },
   {
     "id": 223,
     "name": "MJM041",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 80 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-41.jpg"
   },
   {
     "id": 224,
     "name": "MJM042",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 90 x L 90 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-42.jpg"
   },
   {
     "id": 225,
     "name": "MJM043",
     "category": "Meja Makan",
-    "price": "Rp 0",
+    "price": "Rp 2.800.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 100 x L 100 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-43.jpg"
   },
   {
     "id": 226,
     "name": "MJM044",
     "category": "Meja Makan",
-    "price": "Rp 0",
+    "price": "Rp 3.500.000",
     "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "material": "Kayu Trembesi + Jati Solid + Rotan ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 150 x L 65 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-44.jpg"
   },
   {
     "id": 227,
     "name": "MJM045",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 5.000.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 210 x L 100 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-45.jpg"
   },
   {
     "id": 228,
     "name": "MJM046",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 4.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Trembesi + Jati Solid + Rotan ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 150 x L 65 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-46.jpg"
   },
   {
     "id": 229,
     "name": "MJM047",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 4.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 180 x L 80 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-47.jpg"
   },
   {
     "id": 230,
     "name": "MJM048",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 5.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Trembesi + Jati Solid + Rotan ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 150 x L 65 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-48.jpg"
   },
   {
     "id": 231,
     "name": "MJM049",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 3.500.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 80 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-49.jpg"
   },
   {
     "id": 233,
     "name": "MJM050",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 80 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-50.jpg"
   },
   {
     "id": 234,
     "name": "MJM051",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "price": "Rp 16.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "Salak Brown ",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 220 x L 100 x T 80 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-51.jpg"
   },
   {
     "id": 235,
     "name": "MJM052",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 3.800.00",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 80 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-52.jpg"
   },
   {
     "id": 236,
     "name": "MJM053",
     "category": "Meja Makan",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 4.500.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "finishing": "Natural Brown + Black Glosy",
+    "size": [
+      "1 Seat: P 60 x L 70 x T 80 cm",
+      "Meja: P 120 x L 120 x T 75 cm"
+    ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-53.jpg"
   },
   {
     "id": 256,
     "name": "MJR001",
     "category": "Meja Rias",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
+    "price": "Rp 3.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
     "size": "P 120 x L 50 x T 200 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-1.jpg"
@@ -2333,44 +2568,44 @@
     "id": 267,
     "name": "MJR002",
     "category": "Meja Rias",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 3.000.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 100 x L 40 x T 180 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-2.jpg"
   },
   {
     "id": 269,
     "name": "MJR003",
     "category": "Meja Rias",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 3.000.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 100 x L 40 x T 180 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-3.jpg"
   },
   {
     "id": 270,
     "name": "MJR004",
     "category": "Meja Rias",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 3.600.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 130 x L 40 x T 180 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-4.jpg"
   },
   {
     "id": 271,
     "name": "MJR005",
     "category": "Meja Rias",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 2.600.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 90 x L 40 x T 75 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-5.jpg"
   },
   {
