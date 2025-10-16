@@ -2942,143 +2942,209 @@
     "id": 292,
     "name": "PTS001",
     "category": "Partisi",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 6.500.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 160 x L 45 x T 220 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-1.jpg"
   },
   {
     "id": 293,
     "name": "PTS002",
     "category": "Partisi",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 7.500.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 200 x L 45 x T 200 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-2.jpg"
   },
   {
     "id": 294,
     "name": "PTS003",
     "category": "Partisi",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 7.500.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 200 x L 45 x T 200 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-3.jpg"
   },
   {
     "id": 295,
     "name": "PTS004",
     "category": "Partisi",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 7.500.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 200 x L 60 x T 200 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-4.jpg"
   },
   {
     "id": 296,
     "name": "PTS005",
     "category": "Partisi",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 6.500.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 160 x L 45 x T 190 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-5.jpg"
   },
   {
     "id": 297,
     "name": "PTS006",
     "category": "Partisi",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 7.500.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 200 x L 45 x T 200 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-6.jpg"
   },
   {
     "id": 298,
     "name": "PTS007",
     "category": "Partisi",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 7.800.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 200 x L 50 x T 210 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-7.jpg"
   },
   {
     "id": 299,
     "name": "PTS008",
     "category": "Partisi",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 7.800.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": "P 200 x L 50 x T 210 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-8.jpg"
+  },
+      {
+    "id": 386,
+    "name": "PTS009",
+    "category": "Partisi",
+    "price": "Rp 7.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 200 x L 45 x T 200 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-9.jpg"
   },
   {
     "id": 300,
     "name": "SKT001",
     "category": "Sketsel",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 3.500.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": " L 250 x T 180 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-1.jpg"
   },
   {
     "id": 301,
     "name": "SKT002",
     "category": "Sketsel",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": " L 160 x T 180 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-2.jpg"
   },
   {
     "id": 302,
     "name": "SKT003",
     "category": "Sketsel",
-    "price": "Rp 0",
-    "stock": "Ready",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": " L 160 x T 180 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-3.jpg"
   },
   {
     "id": 303,
     "name": "SKT004",
     "category": "Sketsel",
-    "price": "Rp 0",
+    "price": "Rp 2.000.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": " L 160 x T 180 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-4.jpg"
   },
   {
     "id": 304,
     "name": "SKT005",
     "category": "Sketsel",
-    "price": "Rp 0",
+    "price": "Rp 2.000.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+    "size": " L 160 x T 180 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-5.jpg"
+  },
+    {
+    "id": 387,
+    "name": "SKT006",
+    "category": "Sketsel",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": " L 160 x T 180 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-5.jpg"
+  },
+    {
+    "id": 388,
+    "name": "SKT007",
+    "category": "Sketsel",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": " L 160 x T 180 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-5.jpg"
+  },
+    {
+    "id": 389,
+    "name": "SKT008",
+    "category": "Sketsel",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": " L 160 x T 180 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-5.jpg"
+  },
+    {
+    "id": 390,
+    "name": "SKT009",
+    "category": "Sketsel",
+    "price": "Rp 2.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": " L 200 x T 180 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-5.jpg"
+  },
+      {
+    "id": 390,
+    "name": "SKT010",
+    "category": "Sketsel",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": " L 160 x T 180 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-5.jpg"
   },
   {
@@ -3566,15 +3632,20 @@
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa.jpg"
   },
   {
-    "id": 349,
-    "name": "TTD008",
-    "category": "Tempat Tidur",
-    "price": "Rp 0",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-1.jpg"
+  "id": 349,
+  "name": "TTD008",
+  "category": "Tempat Tidur",
+  "price": "Mulai Rp 2.500.000",
+  "stock": "Ready",
+  "material": "Kayu Jati Solid",
+  "finishing": "Natural Brown",
+  "size": [
+    "120 x 200 cm — Rp 2.500.000",
+    "160 x 200 cm — Rp 3.300.000",
+    "180 x 200 cm — Rp 4.500.000",
+    "Custom ukuran bisa disesuaikan permintaan"
+  ],
+  "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-1.jpg"
   },
   {
     "id": 356,
@@ -3584,7 +3655,12 @@
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+  "size": [
+    "120 x 200 cm — Rp 2.500.000",
+    "160 x 200 cm — Rp 3.300.000",
+    "180 x 200 cm — Rp 4.500.000",
+    "Custom ukuran bisa disesuaikan permintaan"
+  ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-2.jpg"
   },
   {
@@ -3595,7 +3671,12 @@
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+  "size": [
+    "120 x 200 cm — Rp 2.500.000",
+    "160 x 200 cm — Rp 3.300.000",
+    "180 x 200 cm — Rp 4.500.000",
+    "Custom ukuran bisa disesuaikan permintaan"
+  ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-3.jpg"
   },
   {
@@ -3606,7 +3687,12 @@
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+  "size": [
+    "120 x 200 cm — Rp 2.500.000",
+    "160 x 200 cm — Rp 3.300.000",
+    "180 x 200 cm — Rp 4.500.000",
+    "Custom ukuran bisa disesuaikan permintaan"
+  ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-4.jpg"
   },
   {
@@ -3617,7 +3703,12 @@
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+  "size": [
+    "120 x 200 cm — Rp 2.500.000",
+    "160 x 200 cm — Rp 3.300.000",
+    "180 x 200 cm — Rp 4.500.000",
+    "Custom ukuran bisa disesuaikan permintaan"
+  ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-5.jpg"
   },
   {
@@ -3628,7 +3719,12 @@
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+  "size": [
+    "120 x 200 cm — Rp 2.500.000",
+    "160 x 200 cm — Rp 3.300.000",
+    "180 x 200 cm — Rp 4.500.000",
+    "Custom ukuran bisa disesuaikan permintaan"
+  ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-6.jpg"
   },
   {
@@ -3639,7 +3735,12 @@
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+  "size": [
+    "120 x 200 cm — Rp 2.500.000",
+    "160 x 200 cm — Rp 3.300.000",
+    "180 x 200 cm — Rp 4.500.000",
+    "Custom ukuran bisa disesuaikan permintaan"
+  ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-7.jpg"
   },
   {
@@ -3650,7 +3751,12 @@
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+  "size": [
+    "120 x 200 cm — Rp 2.500.000",
+    "160 x 200 cm — Rp 3.300.000",
+    "180 x 200 cm — Rp 4.500.000",
+    "Custom ukuran bisa disesuaikan permintaan"
+  ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-8.jpg"
   },
   {
@@ -3661,7 +3767,12 @@
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+  "size": [
+    "120 x 200 cm — Rp 2.500.000",
+    "160 x 200 cm — Rp 3.300.000",
+    "180 x 200 cm — Rp 4.500.000",
+    "Custom ukuran bisa disesuaikan permintaan"
+  ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-9.jpg"
   },
   {
@@ -3672,7 +3783,12 @@
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+  "size": [
+    "120 x 200 cm — Rp 2.500.000",
+    "160 x 200 cm — Rp 3.300.000",
+    "180 x 200 cm — Rp 4.500.000",
+    "Custom ukuran bisa disesuaikan permintaan"
+  ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-10.jpg"
   },
   {
@@ -3683,7 +3799,12 @@
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+  "size": [
+    "120 x 200 cm — Rp 2.500.000",
+    "160 x 200 cm — Rp 3.300.000",
+    "180 x 200 cm — Rp 4.500.000",
+    "Custom ukuran bisa disesuaikan permintaan"
+  ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-11.jpg"
   },
   {
@@ -3694,7 +3815,12 @@
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+  "size": [
+    "120 x 200 cm — Rp 2.500.000",
+    "160 x 200 cm — Rp 3.300.000",
+    "180 x 200 cm — Rp 4.500.000",
+    "Custom ukuran bisa disesuaikan permintaan"
+  ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-12.jpg"
   },
   {
@@ -3705,7 +3831,12 @@
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+  "size": [
+    "120 x 200 cm — Rp 2.500.000",
+    "160 x 200 cm — Rp 3.300.000",
+    "180 x 200 cm — Rp 4.500.000",
+    "Custom ukuran bisa disesuaikan permintaan"
+  ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-13.jpg"
   },
   {
@@ -3716,7 +3847,12 @@
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+  "size": [
+    "120 x 200 cm — Rp 2.500.000",
+    "160 x 200 cm — Rp 3.300.000",
+    "180 x 200 cm — Rp 4.500.000",
+    "Custom ukuran bisa disesuaikan permintaan"
+  ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-14.jpg"
   },
   {
@@ -3727,7 +3863,12 @@
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
+  "size": [
+    "120 x 200 cm — Rp 2.500.000",
+    "160 x 200 cm — Rp 3.300.000",
+    "180 x 200 cm — Rp 4.500.000",
+    "Custom ukuran bisa disesuaikan permintaan"
+  ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-15.jpg"
   },
   {
