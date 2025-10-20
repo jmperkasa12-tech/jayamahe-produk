@@ -1,5 +1,27 @@
 [
   {
+    "id": 401,
+    "name": "AYN001",
+    "category": "Ayunan",
+    "price": "Rp 2.400.000",
+    "stock": "Ready",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 200 x L 80 Cm ",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/ayunan-2.jpg"
+  },
+  {
+    "id": 402,
+    "name": "AYN002",
+    "category": "Ayunan",
+    "price": "Rp 2.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 200 x L 80 Cm ",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/ayunan-1.jpg"
+  },
+  {
     "id": 76,
     "name": "BBL001",
     "category": "Bale Bale",
