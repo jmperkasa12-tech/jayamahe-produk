@@ -1284,10 +1284,10 @@
     "material": "Kayu Jati Solid + Cushion + Rotan",
     "finishing": "Natural Brown",
     "size": [
-        "3 Seat = P 180 x L 85 x T 82",
-        "2 Seat = P 120 x L 85 x T 82",
+        "3 Seat = P 180 x L 85 x T 82 cm",
+        "2 Seat = P 120 x L 85 x T 82 cm",
         "1 Seat = P 80 x L 85 x T 82 cm",
-        "Meja = P 120 x L 58 x T 42"
+        "Meja = P 120 x L 58 x T 42 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-14.jpg"
   },
@@ -1511,8 +1511,8 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
-      "Meja: P 120 x L 60 x T 45 cm"
+      "1 Seat: P 60 x L 50 x T 80 cm",
+      "Meja: P 55 x L 55 x T 55 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-1.jpg"
   },
@@ -1525,8 +1525,8 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
-      "Meja: P 120 x L 60 x T 45 cm"
+      "1 Seat: P 60 x L 50 x T 80 cm",
+      "Meja: P 50 x L 50 x T 50 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-2.jpg"
   },
@@ -1554,8 +1554,8 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
-      "Meja: P 120 x L 60 x T 45 cm"
+      "1 Seat: P 50 x L 50 x T 75 cm",
+      "Meja: P 55 x L 55 x T 55 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-4.jpg"
   },
@@ -1568,8 +1568,8 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown ",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
-      "Meja: P 120 x L 60 x T 45 cm"
+      "1 Seat: P 53 x L 53 x T 55 cm",
+      "Meja: P 55 x L 50 x T 80 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-5.jpg"
   },
@@ -1610,8 +1610,8 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown ",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
-      "Meja: P 120 x L 60 x T 45 cm"
+      "1 Seat: P 60 x L 50 x T 80 cm",
+      "Meja: P 50 x L 50 x T 50 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-8.jpg"
   },
@@ -1624,7 +1624,8 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown ",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "2 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat : P 62 x L 50 x T 83",
       "Meja: P 120 x L 60 x T 45 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-9.jpg"
@@ -1652,8 +1653,8 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
-      "Meja: P 120 x L 60 x T 45 cm"
+      "1 Seat: P 55 x L 50 x T 80 cm",
+      "Meja: P 50 x L 50 x T 55 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-11.jpg"
   },
@@ -1666,8 +1667,8 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
-      "Meja: P 120 x L 60 x T 45 cm"
+      "1 Seat: P 60 x L 50 x T 80 cm",
+      "Meja: P 55 x L 55 x T 55 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-12.jpg"
   },
@@ -1778,8 +1779,8 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
-      "Meja: P 120 x L 60 x T 45 cm"
+      "1 Seat: P 55 x L 45 x T 80 cm",
+      "Meja: P 50 x L 60 x T 55 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-20.jpg"
   },
