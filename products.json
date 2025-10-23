@@ -5809,7 +5809,7 @@
   },
  {
     "id": 457,
-    "name": "MC006",
+    "name": "MC007",
     "category": "Meja Coffe",
     "price": "Rp 600.000",
     "stock": "Pre-order",
@@ -5817,6 +5817,221 @@
     "finishing": "Natural Glosy",
     "size": "P 50 x L 50 X T 45 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-7.jpg"
+  },
+ {
+    "id": 464,
+    "name": "MC008",
+    "category": "Meja Coffe",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Glosy",
+    "size": "P 60 x L 60 X T 45 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-8.jpg"
+  },
+ {
+    "id": 465,
+    "name": "MC009",
+    "category": "Meja Coffe",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Glosy",
+    "size": "P 80 x L 80 X T 55 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-9.jpg"
+  },
+ {
+    "id": 466,
+    "name": "MC009",
+    "category": "Meja Coffe",
+    "price": "Rp 800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Salak Brown ",
+    "size": "P 50 x L 50 X T 57 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-9.jpg"
+  },
+   {
+    "id": 467,
+    "name": "MCF001",
+    "category": "Meja Cafe",
+    "price": "Rp 1.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 120 x L 80 X T 75 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-1.jpg"
+  },
+   {
+    "id": 468,
+    "name": "MCF002",
+    "category": "Meja Cafe",
+    "price": "Rp 1.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 120 x L 80 X T 75 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-2.jpg"
+  },
+   {
+    "id": 469,
+    "name": "MCF003",
+    "category": "Meja Cafe",
+    "price": "Rp 1.300.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 80 x L 80 X T 75 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-3.jpg"
+  },
+   {
+    "id": 470,
+    "name": "MCF004",
+    "category": "Meja Cafe",
+    "price": "Rp 1.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 90 x L 90 X T 75 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-4.jpg"
+  },
+   {
+    "id": 471,
+    "name": "MCF005",
+    "category": "Meja Cafe",
+    "price": "Rp 1.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Besi  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 80 x L 80 X T 75 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-6.jpg"
+  },
+   {
+    "id": 472,
+    "name": "MCF006",
+    "category": "Meja Cafe",
+    "price": "Rp 1.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Besi  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 80 x L 80 X T 75 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-7.jpg"
+  },
+   {
+    "id": 473,
+    "name": "MCF007",
+    "category": "Meja Cafe",
+    "price": "Rp 1.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 120 x L 80 X T 75 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-8.jpg"
+  },
+   {
+    "id": 474,
+    "name": "MCF008",
+    "category": "Meja Cafe",
+    "price": "Rp 1.600.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid   ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 90 x L 90 X T 75 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-9.jpg"
+  },
+   {
+    "id": 475,
+    "name": "MCF009",
+    "category": "Meja Cafe",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid   ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 160 x L 80 X T 75 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-10.jpg"
+  },
+   {
+    "id": 476,
+    "name": "MCF010",
+    "category": "Meja Cafe",
+    "price": "Rp 3.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid   ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 160 x L 90 X T 75 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-11.jpg"
+  },
+   {
+    "id": 477,
+    "name": "MCF011",
+    "category": "Meja Cafe",
+    "price": "Rp 4.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Besi  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 180 x L 90 X T 75 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-12.jpg"
+  },
+   {
+    "id": 478,
+    "name": "MCF012",
+    "category": "Meja Cafe",
+    "price": "Rp 4.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Besi  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 180 x L 80 X T 75 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-13.jpg"
+  },
+   {
+    "id": 478,
+    "name": "MCF012",
+    "category": "Meja Cafe",
+    "price": "Rp 4.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Besi  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 180 x L 80 X T 75 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-14.jpg"
   },
   {
     "id": 374,
