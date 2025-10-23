@@ -5139,7 +5139,7 @@
     "id": 367,
     "name": "TTD001",
     "category": "Tempat Tidur",
-    "price": "Rp ",
+    "price": "Mulai Rp 2.500.000 ",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Glosy",
@@ -5147,7 +5147,7 @@
       "120 x 200 cm — Rp 2.500.000",
       "160 x 200 cm — Rp 3.300.000",
       "180 x 200 cm — Rp 4.500.000",
-      "Custom ukuran bisa disesuaikan permintaan"
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-16.jpg"
   },
@@ -5155,7 +5155,7 @@
     "id": 368,
     "name": "TTD002",
     "category": "Tempat Tidur",
-    "price": "Rp 600000",
+    "price": "Mulai Rp 2.500.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Glosy",
@@ -5163,7 +5163,7 @@
       "120 x 200 cm — Rp 2.500.000",
       "160 x 200 cm — Rp 3.300.000",
       "180 x 200 cm — Rp 4.500.000",
-      "Custom ukuran bisa disesuaikan permintaan"
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-17.jpg"
   },
@@ -5171,7 +5171,7 @@
     "id": 369,
     "name": "TTD003",
     "category": "Tempat Tidur",
-    "price": "Rp 600000",
+    "price": "Mulai Rp 2.500.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Glosy",
@@ -5179,7 +5179,7 @@
       "120 x 200 cm — Rp 2.500.000",
       "160 x 200 cm — Rp 3.300.000",
       "180 x 200 cm — Rp 4.500.000",
-      "Custom ukuran bisa disesuaikan permintaan"
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-18.jpg"
   },
@@ -5187,15 +5187,15 @@
     "id": 370,
     "name": "TTD004",
     "category": "Tempat Tidur",
-    "price": "Rp 600000",
+    "price": "Mulai Rp 2.500.000",
     "stock": "Pre-order",
-    "material": "Kayu Jati Solid",
+    "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Glosy",
     "size": [
       "120 x 200 cm — Rp 2.500.000",
       "160 x 200 cm — Rp 3.300.000",
       "180 x 200 cm — Rp 4.500.000",
-      "Custom ukuran bisa disesuaikan permintaan"
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-19.jpg"
   },
@@ -5203,7 +5203,7 @@
     "id": 371,
     "name": "TTD005",
     "category": "Tempat Tidur",
-    "price": "Rp 600000",
+    "price": "Mulai Rp 2.500.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Glosy",
@@ -5211,7 +5211,7 @@
       "120 x 200 cm — Rp 2.500.000",
       "160 x 200 cm — Rp 3.300.000",
       "180 x 200 cm — Rp 4.500.000",
-      "Custom ukuran bisa disesuaikan permintaan"
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-20.jpg"
   },
@@ -5227,7 +5227,7 @@
       "120 x 200 cm — Rp 2.500.000",
       "160 x 200 cm — Rp 3.300.000",
       "180 x 200 cm — Rp 4.500.000",
-      "Custom ukuran bisa disesuaikan permintaan"
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-1.jpg"
   },
@@ -5243,7 +5243,7 @@
       "120 x 200 cm — Rp 2.500.000",
       "160 x 200 cm — Rp 3.300.000",
       "180 x 200 cm — Rp 4.500.000",
-      "Custom ukuran bisa disesuaikan permintaan"
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-2.jpg"
   },
@@ -5251,15 +5251,15 @@
     "id": 357,
     "name": "TTD008",
     "category": "Tempat Tidur",
-    "price": "Mulai Rp 2.500.000",
+    "price": "Mulai Rp 3.000.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "120 x 200 cm — Rp 2.500.000",
-      "160 x 200 cm — Rp 3.300.000",
-      "180 x 200 cm — Rp 4.500.000",
-      "Custom ukuran bisa disesuaikan permintaan"
+      "120 x 200 cm — Rp 3.000.000",
+      "160 x 200 cm — Rp 3.800.000",
+      "180 x 200 cm — Rp 5.000.000",
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-3.jpg"
   },
@@ -5267,15 +5267,15 @@
     "id": 358,
     "name": "TTD009",
     "category": "Tempat Tidur",
-    "price": "Mulai Rp 2.500.000",
+    "price": "Mulai Rp 3.000.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "120 x 200 cm — Rp 2.500.000",
-      "160 x 200 cm — Rp 3.300.000",
-      "180 x 200 cm — Rp 4.500.000",
-      "Custom ukuran bisa disesuaikan permintaan"
+      "120 x 200 cm — Rp 3.000.000",
+      "160 x 200 cm — Rp 3.800.000",
+      "180 x 200 cm — Rp 5.000.000",
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-4.jpg"
   },
@@ -5291,7 +5291,7 @@
       "120 x 200 cm — Rp 2.500.000",
       "160 x 200 cm — Rp 3.300.000",
       "180 x 200 cm — Rp 4.500.000",
-      "Custom ukuran bisa disesuaikan permintaan"
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-5.jpg"
   },
@@ -5301,13 +5301,13 @@
     "category": "Tempat Tidur",
     "price": "Mulai Rp 2.500.000",
     "stock": "Pre-order",
-    "material": "Kayu Jati Solid",
+    "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": [
       "120 x 200 cm — Rp 2.500.000",
       "160 x 200 cm — Rp 3.300.000",
       "180 x 200 cm — Rp 4.500.000",
-      "Custom ukuran bisa disesuaikan permintaan"
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-6.jpg"
   },
@@ -5317,13 +5317,13 @@
     "category": "Tempat Tidur",
     "price": "Mulai Rp 2.500.000",
     "stock": "Pre-order",
-    "material": "Kayu Jati Solid",
+    "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": [
       "120 x 200 cm — Rp 2.500.000",
       "160 x 200 cm — Rp 3.300.000",
       "180 x 200 cm — Rp 4.500.000",
-      "Custom ukuran bisa disesuaikan permintaan"
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-7.jpg"
   },
@@ -5339,7 +5339,7 @@
       "120 x 200 cm — Rp 2.500.000",
       "160 x 200 cm — Rp 3.300.000",
       "180 x 200 cm — Rp 4.500.000",
-      "Custom ukuran bisa disesuaikan permintaan"
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-8.jpg"
   },
@@ -5349,13 +5349,13 @@
     "category": "Tempat Tidur",
     "price": "Mulai Rp 2.500.000",
     "stock": "Pre-order",
-    "material": "Kayu Jati Solid",
+    "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": [
       "120 x 200 cm — Rp 2.500.000",
       "160 x 200 cm — Rp 3.300.000",
       "180 x 200 cm — Rp 4.500.000",
-      "Custom ukuran bisa disesuaikan permintaan"
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-9.jpg"
   },
@@ -5365,13 +5365,13 @@
     "category": "Tempat Tidur",
     "price": "Mulai Rp 2.500.000",
     "stock": "Pre-order",
-    "material": "Kayu Jati Solid",
+    "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": [
       "120 x 200 cm — Rp 2.500.000",
       "160 x 200 cm — Rp 3.300.000",
       "180 x 200 cm — Rp 4.500.000",
-      "Custom ukuran bisa disesuaikan permintaan"
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-10.jpg"
   },
@@ -5387,7 +5387,7 @@
       "120 x 200 cm — Rp 2.500.000",
       "160 x 200 cm — Rp 3.300.000",
       "180 x 200 cm — Rp 4.500.000",
-      "Custom ukuran bisa disesuaikan permintaan"
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-11.jpg"
   },
@@ -5403,7 +5403,7 @@
       "120 x 200 cm — Rp 2.500.000",
       "160 x 200 cm — Rp 3.300.000",
       "180 x 200 cm — Rp 4.500.000",
-      "Custom ukuran bisa disesuaikan permintaan"
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-12.jpg"
   },
@@ -5419,7 +5419,7 @@
       "120 x 200 cm — Rp 2.500.000",
       "160 x 200 cm — Rp 3.300.000",
       "180 x 200 cm — Rp 4.500.000",
-      "Custom ukuran bisa disesuaikan permintaan"
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-13.jpg"
   },
@@ -5429,13 +5429,13 @@
     "category": "Tempat Tidur",
     "price": "Mulai Rp 2.500.000",
     "stock": "Pre-order",
-    "material": "Kayu Jati Solid",
+    "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": [
       "120 x 200 cm — Rp 2.500.000",
       "160 x 200 cm — Rp 3.300.000",
       "180 x 200 cm — Rp 4.500.000",
-      "Custom ukuran bisa disesuaikan permintaan"
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-14.jpg"
   },
@@ -5443,15 +5443,15 @@
     "id": 355,
     "name": "TTD020",
     "category": "Tempat Tidur",
-    "price": "Rp 0",
+    "price": "Mulai Rp 3.000.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "120 x 200 cm — Rp 2.500.000",
-      "160 x 200 cm — Rp 3.300.000",
-      "180 x 200 cm — Rp 4.500.000",
-      "Custom ukuran bisa disesuaikan permintaan"
+      "120 x 200 cm — Rp 3.000.000",
+      "160 x 200 cm — Rp 3.800.000",
+      "180 x 200 cm — Rp 5.000.000",
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-15.jpg"
   },
