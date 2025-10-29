@@ -706,17 +706,7 @@
     "size": " P 45 x  L 40 x  T 105 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-18.jpg"
   },
-  {
-    "id": 89,
-    "name": "KBR018",
-    "category": "Kursi Bar",
-    "price": "Rp 0",
-    "stock": "Pre-order",
-    "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-19.jpg"
-  },
+
   {
     "id": 98,
     "name": "KCF001",
