@@ -2587,6 +2587,17 @@
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-26.jpg"
   },
   {
+    "id": 486,
+    "name": "LMP026",
+    "category": "Lemari Pakaian",
+    "price": "Rp 5.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 150 x L 55 x T 210 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-27.jpg"
+  },
+  {
     "id": 66,
     "name": "LSP001",
     "category": "Lemari Sepatu",
