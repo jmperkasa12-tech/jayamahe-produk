@@ -29,7 +29,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 200 x L 80 Cm ",
+    "size": "P 200 x L 80 Cm x  T 75 Cm ",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-1.jpg"
   },
   {
@@ -40,7 +40,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Cushion",
     "finishing": "Natural Brown + Duco",
-    "size": "P 180 x L 60 Cm",
+    "size": "P 180 x L 60 x  T 75 Cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-10.jpg"
   },
   {
@@ -51,7 +51,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 200 x L 80 Cm",
+    "size": "P 200 x L 80 x  T 75 Cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-2.jpg"
   },
   {
@@ -62,7 +62,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Cushion",
     "finishing": "Natural Brown",
-    "size": "P 200 x L 80 Cm",
+    "size": "P 200 x L 80 x  T 75 Cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-3.jpg"
   },
   {
@@ -73,7 +73,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Cushion",
     "finishing": "Natural Brown",
-    "size": "P 200 x L 80 Cm",
+    "size": "P 200 x L 80 x  T 75 Cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-4.jpg"
   },
   {
@@ -84,7 +84,7 @@
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 200 x L 100 Cm ",
+    "size": "P 200 x L 100 x  T 75 Cm ",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-5.jpg"
   },
   {
@@ -96,8 +96,8 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "Bale Bale: P 200 x L 80  cm",
-      "Meja: P 120 x L 60 x T 45 cm"
+      "Bale Bale: P 200 x L 80  x  T 75 Cm",
+      "Meja: P 120 x L 60 x T 45 x  T 75 Cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-6.jpg"
   },
@@ -109,7 +109,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 200 x L 80 Cm ",
+    "size": "P 200 x L 80 x  T 75 Cm ",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-7.jpg"
   },
   {
@@ -120,7 +120,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 200 x L 80 Cm ",
+    "size": "P 200 x L 80 x  T 75 Cm ",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-12.jpg"
   },
   {
@@ -358,7 +358,7 @@
     "id": 16,
     "name": "BUF022",
     "category": "Buffet",
-    "price": "Rp 5.200.000",
+    "price": "Rp 4.600.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
@@ -408,6 +408,72 @@
     "finishing": "Natural Brown",
     "size": "P 150 x L 45 x T 65 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-27.jpg"
+  },
+  {
+    "id": 480,
+    "name": "BUF027",
+    "category": "Buffet",
+    "price": "Rp 4.600.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 200 x L 45 x T 70 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-28.jpg"
+  },
+  {
+    "id": 481,
+    "name": "BUF028",
+    "category": "Buffet",
+    "price": "Rp 2.300.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 150 x L 45 x T 65 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-29.jpg"
+  },
+  {
+    "id": 482,
+    "name": "BUF029",
+    "category": "Buffet",
+    "price": "Rp 5.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Brown",
+    "size": "P 200 x L 45 x T 70 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-30.jpg"
+  },
+  {
+    "id": 483,
+    "name": "BUF030",
+    "category": "Buffet",
+    "price": "Rp 3.900.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Brown",
+    "size": "P 180 x L 45 x T 65 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-31.jpg"
+  },
+  {
+    "id": 484,
+    "name": "BUF031",
+    "category": "Buffet",
+    "price": "Rp 2.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Brown",
+    "size": "P 150 x L 45 x T 65 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-32.jpg"
+  },
+  {
+    "id": 485,
+    "name": "BUF027",
+    "category": "Buffet",
+    "price": "Rp 3.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 150 x L 50 x T 90 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-33.jpg"
   },
   {
   "id": 123,
