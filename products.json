@@ -2892,7 +2892,7 @@
     "material": "Kayu Trembesi Solid",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 45 x L 45 x T 120 cm",
       "Meja: P 200 x L 80 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-1.jpg"
@@ -2934,7 +2934,7 @@
     "material": "Kayu Trembesi Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 40 x L 40 x T 107 cm",
       "Meja: P 150 x L 60 x T 200 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-4.jpg"
@@ -2948,7 +2948,7 @@
     "material": "Kayu Trembesi Solid + Besi + Cushion",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 52 x L 52 x T 80 cm",
       "Meja: P 220 x L 90 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-5.jpg"
@@ -2976,7 +2976,7 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 54 x L 52 x T 80 cm",
       "Meja: P 160 x L 80 x T 45 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-7.jpg"
@@ -2990,7 +2990,7 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 45 x L 50 x T 104 cm",
       "Meja: P 160 x L 90 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-8.jpg"
@@ -3001,10 +3001,10 @@
     "category": "Meja Makan",
     "price": "Rp 4.500.000",
     "stock": "Pre-order",
-    "material": "Kayu Jati Solid + Rotan ",
+    "material": "Kayu Jati Solid + Rotan + Cushion",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 63 x L 53 x T 83 cm",
       "Meja: P 120 x L 80 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-9.jpg"
@@ -3032,8 +3032,8 @@
     "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
-      " 1 Bench : P 120 x L x T ",
+      "1 Seat: P 54 x L 52 x T 80 cm",
+      " 1 Bench : P 120 x 30 x T 45 cm ",
       "Meja: P 160 x L 80 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-11.jpg"
@@ -3043,7 +3043,7 @@
     "name": "MJM012",
     "category": "Meja Makan",
     "price": "Rp 2.300.000",
-    "stock": "Pre-order",
+    "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown ",
     "size": [
@@ -3058,10 +3058,11 @@
     "category": "Meja Makan",
     "price": "Rp 3.500.000",
     "stock": "Pre-order",
-    "material": "Kayu Jati Solid",
+    "material": "Kayu Jati Solid + Rotan + Cushion",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 43 x L 41 x T 80 cm",
+      " 1 Bench : P 120 x 30 x T 45 cm ",
       "Meja: P 120 x L 80 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-13.jpg"
@@ -3075,7 +3076,7 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 45 x L 50 x T 104 cm",
       "Meja: P 160 x L 80 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-14.jpg"
@@ -3103,7 +3104,7 @@
     "material": "Kayu Jati Solid + Cushion + Rotan",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 45 x L 45 x T 80 cm",
       "Meja: P 180 x L 90 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-16.jpg"
@@ -3131,7 +3132,7 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 50 x L 50 x T 125 cm",
       "Meja: P 160 x L 90 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-18.jpg"
@@ -3159,7 +3160,7 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 50 x L 50 x T 125 cm",
       "Meja: P 160 x L 90 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-20.jpg"
@@ -3229,7 +3230,7 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 54 x L 52 x T 80 cm",
       "Meja: P 120 x L 80 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-25.jpg"
@@ -3257,7 +3258,7 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown ",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 45 x L 50 x T 104 cm",
       "Meja: P 160 x L 90 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-27.jpg"
@@ -3271,7 +3272,8 @@
     "material": "Kayu Trembesi Solid",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 50 x L 30 x T 45 cm",
+      "2 Seat : P 120 x L 30 x T 45 cm",
       "Meja: P 150 x L 65 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-28.jpg"
@@ -3299,7 +3301,7 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 58 x L 54 x T 80 cm",
       "Meja: P 120 x L 80 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-30.jpg"
@@ -3327,7 +3329,8 @@
     "material": "Kayu Trembesi Solid",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 43 x L 48 x T 80 cm",
+      "2 Seat : P 120 x L 30 x T 45 cm",
       "Meja: P 150 x L 65 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-32.jpg"
@@ -3341,7 +3344,7 @@
     "material": "Kayu Jati Solid + Cushion + Rotan",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 57 x L 55 x T 75 cm",
       "Meja: P 160 x L 80 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-33.jpg"
@@ -3355,7 +3358,7 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 43 x L 48 x T 80 cm",
       "Meja: P 120 x L 80 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-34.jpg"
@@ -3369,7 +3372,7 @@
     "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 45 x L 45 x T 85 cm",
       "Meja: P 160 x L 80 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-35.jpg"
@@ -3383,7 +3386,7 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 54 x L 52 x T 80 cm",
       "Meja: P 120 x L 80 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-36.jpg"
@@ -3397,7 +3400,7 @@
     "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 54 x L 52 x T 80 cm",
       "Meja: P 120 x L 60 x T 45 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-37.jpg"
@@ -3411,7 +3414,7 @@
     "material": "Kayu Trembesi + Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 58 x L 54 x T 80 cm",
       "Meja: P 200 x L 80 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-38.jpg"
@@ -3425,7 +3428,7 @@
     "material": "Kayu Trembesi Solid",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 45 x L 45 x T 120 cm",
       "Meja: P 200 x L 80 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-39.jpg"
@@ -3439,7 +3442,7 @@
     "material": "Kayu Trembesi Solid",
     "finishing": "Salak Brown ",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 45 x L 45 x T 120 cm",
       "Meja: P 150 x L 65 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-40.jpg"
@@ -3453,7 +3456,7 @@
     "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 54 x L 52 x T 80 cm",
       "Meja: P 120 x L 80 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-41.jpg"
@@ -3467,7 +3470,7 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 50 x L 40 x T 68 cm",
       "Meja: P 90 x L 90 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-42.jpg"
@@ -3495,7 +3498,7 @@
     "material": "Kayu Trembesi + Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 50 x L 40 x T 90 cm",
       "Meja: P 150 x L 65 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-44.jpg"
@@ -3509,7 +3512,8 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 56 x L 52 x T 80 cm",
+      "3 Seat: P 160 x L 30 x T 45 cm",
       "Meja: P 210 x L 100 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-45.jpg"
@@ -3523,7 +3527,7 @@
     "material": "Kayu Trembesi + Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 63 x L 53 x T 80 cm",
       "Meja: P 150 x L 65 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-46.jpg"
@@ -3537,7 +3541,8 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 50 x L 45 x T 80 cm",
+      " 1 Bench : P 120 x 30 x T 45 cm ",
       "Meja: P 180 x L 80 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-47.jpg"
@@ -3551,7 +3556,8 @@
     "material": "Kayu Trembesi + Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 63 x L 53 x T 80 cm",
+      " 1 Bench : P 120 x 30 x T 45 cm ",
       "Meja: P 150 x L 65 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-48.jpg"
@@ -3565,7 +3571,7 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 56 x L 52 x T 80 cm",
       "Meja: P 120 x L 80 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-49.jpg"
@@ -3579,7 +3585,7 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 58 x L 54 x T 80 cm",
       "Meja: P 120 x L 80 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-50.jpg"
@@ -3607,7 +3613,7 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 54 x L 52 x T 80 cm",
       "Meja: P 120 x L 80 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-52.jpg"
@@ -3621,10 +3627,24 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown + Black Glosy",
     "size": [
-      "1 Seat: P 60 x L 70 x T 80 cm",
+      "1 Seat: P 56 x L 52 x T 80 cm",
       "Meja: P 120 x L 120 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-53.jpg"
+  },
+  {
+    "id": 489,
+    "name": "MJM054",
+    "category": "Meja Makan",
+    "price": "Rp 2.900.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": [
+      "1 Seat: P 45 x L 50 x T 104 cm",
+      "Meja: P 160 x L 90 x T 75 cm"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-54.jpeg"
   },
   {
     "id": 256,
