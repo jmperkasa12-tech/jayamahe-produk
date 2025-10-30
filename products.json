@@ -113,6 +113,17 @@
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-7.jpg"
   },
   {
+    "id": 479,
+    "name": "BBL009",
+    "category": "Bale Bale",
+    "price": "Rp 2.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 200 x L 80 Cm ",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-12.jpg"
+  },
+  {
     "id": 1,
     "name": "BUF001",
     "category": "Buffet",
