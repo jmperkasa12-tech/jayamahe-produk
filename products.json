@@ -3644,7 +3644,11 @@
       "1 Seat: P 45 x L 50 x T 104 cm",
       "Meja: P 160 x L 90 x T 75 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-54.jpeg"
+    "images": [ 
+   "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-54.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-54.jpeg",
+  "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-54.jpeg" 
+ ]
   },
   {
     "id": 256,
