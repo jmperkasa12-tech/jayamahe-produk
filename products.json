@@ -4197,7 +4197,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 160 x L 45 x T 220 cm",
+    "size": "P 160 x L 45 x T 220 cm (Ukuran bisa custom sesuai permintaan)",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-1.jpg"
   },
   {
@@ -4208,7 +4208,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 200 x L 45 x T 200 cm",
+    "size": "P 200 x L 45 x T 200 cm (Ukuran bisa custom sesuai permintaan)",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-2.jpg"
   },
   {
@@ -4219,7 +4219,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 200 x L 45 x T 200 cm",
+    "size": "P 200 x L 45 x T 200 cm (Ukuran bisa custom sesuai permintaan)",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-3.jpg"
   },
   {
@@ -4230,7 +4230,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 200 x L 60 x T 200 cm",
+    "size": "P 200 x L 60 x T 200 cm (Ukuran bisa custom sesuai permintaan)",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-4.jpg"
   },
   {
@@ -4241,7 +4241,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 160 x L 45 x T 190 cm",
+    "size": "P 160 x L 45 x T 190 cm (Ukuran bisa custom sesuai permintaan)",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-5.jpg"
   },
   {
@@ -4252,7 +4252,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 200 x L 45 x T 200 cm",
+    "size": "P 200 x L 45 x T 200 cm (Ukuran bisa custom sesuai permintaan)",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-6.jpg"
   },
   {
@@ -4263,7 +4263,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 200 x L 50 x T 210 cm",
+    "size": "P 200 x L 50 x T 210 cm (Ukuran bisa custom sesuai permintaan)",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-7.jpg"
   },
   {
@@ -4274,7 +4274,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 200 x L 50 x T 210 cm",
+    "size": "P 200 x L 50 x T 210 cm (Ukuran bisa custom sesuai permintaan)",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-8.jpg"
   },
   {
@@ -4285,8 +4285,184 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 200 x L 45 x T 200 cm",
+    "size": "P 200 x L 45 x T 200 cm (Ukuran bisa custom sesuai permintaan)",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-9.jpg"
+  },
+  {
+    "id": 490,
+    "name": "PTS010",
+    "category": "Partisi",
+    "price": "Rp 7.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 200 x L 45 x T 200 cm (Ukuran bisa custom sesuai permintaan)",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-10.jpeg"
+  },
+  {
+    "id": 491,
+    "name": "PTS011",
+    "category": "Partisi",
+    "price": "Rp 6.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Salak Brown ",
+    "size": "P 160 x L 45 x T 200 cm (Ukuran bisa custom sesuai permintaan)",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-11.jpeg"
+  },
+  {
+    "id": 492,
+    "name": "PTS012",
+    "category": "Partisi",
+    "price": "Rp 10.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 210 x L 50 x T 210 cm (Ukuran bisa custom sesuai permintaan)",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-12.jpeg"
+  },
+  {
+    "id": 493,
+    "name": "PTS013",
+    "category": "Partisi",
+    "price": "Rp 17.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 250 x L 50 x T 210 cm (Ukuran bisa custom sesuai permintaan)",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-13.jpeg"
+  },
+  {
+    "id": 494,
+    "name": "PTS014",
+    "category": "Partisi",
+    "price": "Rp 7.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 170 x L 45 x T 180 cm (Ukuran bisa custom sesuai permintaan)",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-14.jpeg"
+  },
+  {
+    "id": 495,
+    "name": "PTS015",
+    "category": "Partisi",
+    "price": "Rp 9.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Salak Brown ",
+    "size": "P 200 x L 45 x T 200 cm (Ukuran bisa custom sesuai permintaan)",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-15.jpeg"
+  },
+  {
+    "id": 496,
+    "name": "PTS016",
+    "category": "Partisi",
+    "price": "Rp 6.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 160 x L 45 x T 200 cm (Ukuran bisa custom sesuai permintaan)",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-16.jpeg"
+  },
+  {
+    "id": 497,
+    "name": "PTS017",
+    "category": "Partisi",
+    "price": "Rp 6.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 200 x L 45 x T 180 cm (Ukuran bisa custom sesuai permintaan)",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-17.jpeg"
+  },
+  {
+    "id": 498,
+    "name": "PTS018",
+    "category": "Partisi",
+    "price": "Rp 4.200.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 120 x L 30 x T 200 cm (Ukuran bisa custom sesuai permintaan)",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-18.jpg"
+  },
+  {
+    "id": 499,
+    "name": "PTS019",
+    "category": "Partisi",
+    "price": "Rp 3.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 100 x L 30 x T 200 cm (Ukuran bisa custom sesuai permintaan)",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-19.jpg"
+  },
+  {
+    "id": 500,
+    "name": "PTS020",
+    "category": "Partisi",
+    "price": "Rp 4.200.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 120 x L 30 x T 200 cm (Ukuran bisa custom sesuai permintaan)",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-20.jpg"
+  },
+  {
+    "id": 501,
+    "name": "PTS021",
+    "category": "Partisi",
+    "price": "Rp 3.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 100 x L 30 x T 200 cm (Ukuran bisa custom sesuai permintaan)",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-21.jpg"
+  },
+  {
+    "id": 502,
+    "name": "PTS022",
+    "category": "Partisi",
+    "price": "Rp 4.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 120 x L 30 x T 200 cm (Ukuran bisa custom sesuai permintaan)",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-22.jpg"
+  },
+  {
+    "id": 503,
+    "name": "PTS023",
+    "category": "Partisi",
+    "price": "Rp 7.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 200 x L 45 x T 200 cm (Ukuran bisa custom sesuai permintaan)",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-23.jpg"
+  },
+  {
+    "id": 504,
+    "name": "PTS024",
+    "category": "Partisi",
+    "price": "Rp 15.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 240 x L 45 x T 220 cm (Ukuran bisa custom sesuai permintaan)",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-24.jpg"
+  },
+  {
+    "id": 505,
+    "name": "PTS025",
+    "category": "Partisi",
+    "price": "Rp 8.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 200 x L 45 x T 200 cm (Ukuran bisa custom sesuai permintaan)",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-25.jpg"
   },
   {
     "id": 300,
