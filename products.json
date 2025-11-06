@@ -116,12 +116,55 @@
     "id": 479,
     "name": "BBL009",
     "category": "Bale Bale",
-    "price": "Rp 2.400.000",
+    "price": "Rp 3.600.000",
     "stock": "Pre-order",
-    "material": "Kayu Jati Solid",
+    "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
     "size": "P 200 x L 80 x  T 75 Cm ",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-12.jpg"
+  },
+  {
+    "id": 506,
+    "name": "BBL010",
+    "category": "Bale Bale",
+    "price": "Rp 3.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "Natural Brown",
+    "size": "P 200 x L 80 x  T 75 Cm ",
+    "images":[
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-16.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-14.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-13.jpg"
+    ] 
+  },
+  {
+    "id": 507,
+    "name": "BBL011",
+    "category": "Bale Bale",
+    "price": "Rp 2.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown",
+    "size": "P 200 x L 80 x  T 75 Cm ",
+    "images":[
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-15.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-17.jpg"
+    ] 
+  },
+  {
+    "id": 508,
+    "name": "BBL010",
+    "category": "Bale Bale",
+    "price": "Rp 2.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown",
+    "size": "P 200 x L 80 x  T 75 Cm ",
+    "images":[
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-19.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-18.jpg"
+    ] 
   },
   {
     "id": 1,
