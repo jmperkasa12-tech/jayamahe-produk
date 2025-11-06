@@ -163,7 +163,7 @@
     "size": "P 200 x L 80 x  T 75 Cm ",
     "images":[
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-19.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-18.jpg"
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-14.jpg"
     ] 
   },
   {
@@ -579,11 +579,72 @@
     "category": "Gazebo",
     "price": "Rp -",
     "stock": "Pre-order",
-  "material": "Kayu Jati Solid / Kayu Kelapa (bisa request)",
+    "material": "Kayu Jati Solid / Kayu Kelapa (bisa request)",
     "finishing": "Salak Brown ",
-  "size": "Custom, bisa request mulai per meter (menyesuaikan kebutuhan)",
+    "size": "Custom, bisa request mulai per meter (menyesuaikan kebutuhan)",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-6.jpg"
   },
+  {
+    "id": 509,
+    "name": "GZB007",
+    "category": "Gazebo",
+    "price": "Rp -",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid / Kayu Kelapa (bisa request)",
+    "finishing": "Salak Brown ",
+    "size": "Custom, bisa request mulai per meter (menyesuaikan kebutuhan)",
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-7.jpg",
+              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-8.jpg",
+              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-9.jpg"
+]},
+  {
+    "id": 510,
+    "name": "GZB008",
+    "category": "Gazebo",
+    "price": "Rp -",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid / Kayu Kelapa (bisa request)",
+    "finishing": "Salak Brown ",
+    "size": "Custom, bisa request mulai per meter (menyesuaikan kebutuhan)",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-10.jpg"
+  },
+  {
+    "id": 511,
+    "name": "GZB009",
+    "category": "Gazebo",
+    "price": "Rp -",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid / Kayu Kelapa (bisa request)",
+    "finishing": "Salak Brown ",
+    "size": "Custom, bisa request mulai per meter (menyesuaikan kebutuhan)",
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-13.jpg",
+              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-11.jpg",
+              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-14.jpg"
+]},
+  {
+    "id": 512,
+    "name": "GZB010",
+    "category": "Gazebo",
+    "price": "Rp -",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid / Kayu Kelapa (bisa request)",
+    "finishing": "Salak Brown ",
+    "size": "Custom, bisa request mulai per meter (menyesuaikan kebutuhan)",
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-15.jpg",
+              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-16.jpg"
+]},
+  {
+    "id": 513,
+    "name": "GZB011",
+    "category": "Gazebo",
+    "price": "Rp -",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid / Kayu Kelapa (bisa request)",
+    "finishing": "Salak Brown ",
+    "size": "Custom, bisa request mulai per meter (menyesuaikan kebutuhan)",
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-17.jpg",
+              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-18.jpg"
+]},
   {
     "id": 41,
     "name": "JHS001",
