@@ -2432,6 +2432,218 @@
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-14.jpg"
   },
   {
+    "id": 514,
+    "name": "LMH015",
+    "category": "Lemari Hias",
+    "price": "Rp 7.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown + Gold Duco",
+    "size": "P 160 x  L 50 x  T 230 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-15.jpg"
+  },
+  {
+    "id": 515,
+    "name": "LMH016",
+    "category": "Lemari Hias",
+    "price": "Rp 6.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "WHite Duco + Gold ",
+    "size": "P  120 x L 40 x  T 200 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-16.jpg"
+  },
+   {
+    "id": 516,
+    "name": "LMH017",
+    "category": "Lemari Hias",
+    "price": "Rp 2.700.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": "P  80 x L 55 x T 210 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-17.jpg"
+  },
+   {
+    "id": 517,
+    "name": "LMH018",
+    "category": "Lemari Hias",
+    "price": "Rp 2.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": "P  60 x L 45 x T 200 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-18.jpg"
+  },
+   {
+    "id": 518,
+    "name": "LMH019",
+    "category": "Lemari Hias",
+    "price": "Rp 20.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Gold Duco",
+    "size": "P  250 x L 45 x T 270 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-19.jpg"
+  },
+   {
+    "id": 519,
+    "name": "LMH020",
+    "category": "Lemari Hias",
+    "price": "Rp 12.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "WHite Duco + Gold ",
+    "size":[
+      "Buffet : P 160 X L 45 X T 80 Cm",
+      "Lemari 1 Pintu kaca : P 55 X L 45 X T 210 Cm"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-20.jpg"
+  },
+   {
+    "id": 520,
+    "name": "LMH021",
+    "category": "Lemari Hias",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Salak Brown ",
+    "size": "P  100 x L 45 x T 185 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-21.jpg"
+  },
+   {
+    "id": 521,
+    "name": "LMH022",
+    "category": "Lemari Hias",
+    "price": "Rp 5.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": "P  65 x L 65 x T 220 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-22.jpg"
+  },
+   {
+    "id": 522,
+    "name": "LMH023",
+    "category": "Lemari Hias",
+    "price": "Rp 6.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": "P  190 x L 45 x T 200 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-23.jpg"
+  },
+   {
+    "id": 523,
+    "name": "LMH024",
+    "category": "Lemari Hias",
+    "price": "Rp 13.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": "P  200 x L 50 x T 220 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-24.jpg"
+  },
+   {
+    "id": 524,
+    "name": "LMH025",
+    "category": "Lemari Hias",
+    "price": "Rp 12.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Salak Brown ",
+    "size": "P  200 x L 45 x T 230 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-25.jpg"
+  },
+   {
+    "id": 525,
+    "name": "LMH026",
+    "category": "Lemari Hias",
+    "price": "Rp 4.700.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": "P  150 x L 50 x T 200 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-26.jpg"
+  },
+   {
+    "id": 526,
+    "name": "LMH027",
+    "category": "Lemari Hias",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": "P  100 x L 45 x T 185 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-27.jpg"
+  },
+   {
+    "id": 527,
+    "name": "LMH028",
+    "category": "Lemari Hias",
+    "price": "Rp 4.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": "P  150 x L 50 x T 200 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-28.jpg"
+  },
+   {
+    "id": 528,
+    "name": "LMH029",
+    "category": "Lemari Hias",
+    "price": "Rp 4.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": "P  150 x L 50 x T 200 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-29.jpg"
+  },
+   {
+    "id": 529,
+    "name": "LMH030",
+    "category": "Lemari Hias",
+    "price": "Rp 10.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": "P  170 x L 45 x T 200 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-30.jpg"
+  },
+   {
+    "id": 530,
+    "name": "LMH031",
+    "category": "Lemari Hias",
+    "price": "Rp 3.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Duco",
+    "size": "P  70 x L 40 x T 180 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-31.jpg"
+  },
+   {
+    "id": 532,
+    "name": "LMH032",
+    "category": "Lemari Hias",
+    "price": "Rp 4.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Duco",
+    "size": "P  150 x L 40 x T 200 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-32.jpg"
+  },
+   {
+    "id": 533,
+    "name": "LMH033",
+    "category": "Lemari Hias",
+    "price": "Rp 3.300.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Duco",
+    "size": "P  90 x L 40 X T 190 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-32.jpg"
+  },
+  {
     "id": 42,
     "name": "LMP001",
     "category": "Lemari Pakaian",
