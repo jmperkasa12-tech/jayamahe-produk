@@ -74,7 +74,9 @@
     "material": "Kayu Jati Solid + Cushion",
     "finishing": "Natural Brown",
     "size": "P 200 x L 80 x  T 75 Cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-4.jpg"
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-4.jpg",
+    "best": true
+
   },
   {
     "id": 78,
@@ -908,7 +910,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown ",
     "size": "P 54 x  L 52 x  T 80 Cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-2.jpeg"
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-2.jpeg",
+    "best": true
+
   },
   {
     "id": 116,
@@ -1496,7 +1500,8 @@
       "1 Seat: P 60 x L 60 x T 80 cm",
       "Meja: P 120 x L 60 x T 45 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-1.jpg"
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-1.jpg",
+    "best": true
   },
   {
     "id": 144,
@@ -3380,7 +3385,8 @@
       "2 Seat : P 120 x L 30 x T 45 cm",
       "Meja: P 150 x L 65 x T 75 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-28.jpg"
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-28.jpg",
+    "best": true
   },
   {
     "id": 209,
@@ -3535,7 +3541,8 @@
       "1 Seat: P 45 x L 45 x T 120 cm",
       "Meja: P 200 x L 80 x T 75 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-39.jpg"
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-39.jpg",
+    "best": true
   },
   {
     "id": 222,
