@@ -1912,6 +1912,133 @@
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-28.jpg"
   },
   {
+    "id": 576,
+    "name": "KTM029",
+    "category": "Kursi Tamu",
+    "price": "Rp 32.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "Natural Brown",
+    "size": [
+      "3 Seat: P 180 x L 80 x T 125 cm",
+      "2 Seat : P 137 x L 80 x T 125 cm",
+      "1 Seat: P 60 x L 80 x T 125 cm",
+      "Meja: P 150 x L 80 x T 45 cm"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-29.png"
+  },
+  {
+    "id": 577,
+    "name": "KTM030",
+    "category": "Kursi Tamu",
+    "price": "Rp 40.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "Natural Brown",
+    "size": [
+      "3 Seat: P 180 x L 80 x T 125 cm",
+      "2 Seat : P 137 x L 80 x T 125 cm",
+      "1 Seat: P 60 x L 80 x T 125 cm",
+      "Meja: P 150 x L 80 x T 45 cm"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-30.jpg"
+  },
+  {
+    "id": 578,
+    "name": "KTM031",
+    "category": "Kursi Tamu",
+    "price": "Rp29.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "Natural Brown",
+    "size": [
+      "3 Seat: P 180 x L 80 x T 125 cm",
+      "2 Seat : P 137 x L 80 x T 125 cm",
+      "1 Seat: P 60 x L 80 x T 125 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-31.jpg"
+  },
+  {
+    "id": 579,
+    "name": "KTM032",
+    "category": "Kursi Tamu",
+    "price": "Rp 35.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "Gold Duco",
+    "size": [
+      "3 Seat: P 200 x L 80 x T 120 cm",
+      "2 Seat : P 137 x L 80 x T 120 cm",
+      "1 Seat: P 60 x L 80 x T 120 cm",
+      "Meja: P 120 x L 60 x T 50 cm"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-32.jpg"
+  },
+  {
+    "id": 580,
+    "name": "KTM033",
+    "category": "Kursi Tamu",
+    "price": "Rp 13.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "3 Seat: P 200 x L 80 x T 120 cm",
+      "1 Seat: P 60 x L 80 x T 120 cm",
+      "Meja: P 80 x L 60 x T 50 cm"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-33.png"
+  },
+  {
+    "id": 581,
+    "name": "KTM034",
+    "category": "Kursi Tamu",
+    "price": "Rp 17.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "Gold Duco",
+    "size": [
+      "Sudut L : P (300x180)  x L 80  x T 120 cm",
+      "Meja: P 120 x L 60 x T 50 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-34.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-35.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-36.jpg"]
+  },
+  {
+    "id": 582,
+    "name": "KTM035",
+    "category": "Kursi Tamu",
+    "price": "Rp 14.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "Sudut L : P (235x170)  x L 80  x T 100 cm",
+      "Meja: P 120 x L 60 x T 60 cm"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-37.jpg"
+  },
+    {
+    "id": 583,
+    "name": "KTM034",
+    "category": "Kursi Tamu",
+    "price": "Rp 35.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "White Duco + Gold ",
+    "size": [
+      "3 Seat = P 180 x L 85 x T 82 cm",
+      "2 Seat : P 120 x L 30 x T 45 cm",
+      "1 Seat : P 62 x L 50 x T 83",
+      "Meja: P 120 x L 60 x T 50 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-34.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-35.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-36.jpg"]
+  },
+  {
     "id": 161,
     "name": "KTR001",
     "category": "Kursi Teras",
@@ -4321,6 +4448,51 @@
       "Meja: P 120 x L 90 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-68.jpg"
+},
+    {
+    "id": 573,
+    "name": "MJM065",
+    "category": "Meja Makan",
+    "price": "Rp 22.000.0000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion  ",
+    "finishing": "Ivory + Gold  Duco ",
+    "size": [
+      "1 Seat: P 68 x L 66 x T 116 cm",
+      "Meja: P 220 x L 110 x T 75 cm"
+    ],
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-69.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-70.jpg"
+  ]
+},
+    {
+    "id": 574,
+    "name": "MJM065",
+    "category": "Meja Makan",
+    "price": "Rp 16.000.0000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion  ",
+    "finishing": "Gold Duco",
+    "size": [
+      "1 Seat: P 68 x L 66 x T 116 cm",
+      "Meja: P 200 x L 100 x T 75 cm"
+    ],
+    "image": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-71.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-72.jpg"]
+},
+    {
+    "id": 575,
+    "name": "MJM066",
+    "category": "Meja Makan",
+    "price": "Rp 14.000.0000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion + Marmer ",
+    "finishing": "Silver Duco ",
+    "size": [
+      "1 Seat: P 59 x L 58 x T 82 cm",
+      "Meja: P 120 x L 90 x T 75 cm"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-73.jpg"
 },
   {
     "id": 256,
