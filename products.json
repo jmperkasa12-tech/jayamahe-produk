@@ -2022,21 +2022,165 @@
   },
     {
     "id": 583,
-    "name": "KTM034",
+    "name": "KTM036",
     "category": "Kursi Tamu",
     "price": "Rp 35.000.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Cushion ",
     "finishing": "White Duco + Gold ",
     "size": [
-      "3 Seat = P 180 x L 85 x T 82 cm",
-      "2 Seat : P 120 x L 30 x T 45 cm",
-      "1 Seat : P 62 x L 50 x T 83",
-      "Meja: P 120 x L 60 x T 50 cm"
+      "3 Seat = P 180 x L 85 x T 125 cm",
+      "2 Seat : P 120 x L 30 x T 125 cm",
+      "1 Seat : P 62 x L 50 x T 125",
+      "Meja: P 150 x L 80 x T 50 cm"
     ],
-    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-34.jpg",
-    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-35.jpg",
-    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-36.jpg"]
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-38.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-39.jpg"
+  ]
+  },
+  {
+    "id": 584,
+    "name": "KTM037",
+    "category": "Kursi Tamu",
+    "price": "Rp 35.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "White Duco + Gold ",
+    "size": [
+      "3 Seat = P 180 x L 85 x T 125 cm",
+      "2 Seat : P 120 x L 30 x T 125 cm",
+      "1 Seat : P 62 x L 50 x T 125",
+      "Meja: P 150 x L 80 x T 50 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-40.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-41.jpg",
+       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-42.jpg"
+  ]
+  },
+  {
+    "id": 585,
+    "name": "KTM038",
+    "category": "Kursi Tamu",
+    "price": "Rp 12.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "Salak Brown ",
+    "size": [
+      "3 Seat = P 180 x L 85 x T 125 cm",
+      "2 Seat : P 120 x L 30 x T 125 cm",
+      "1 Seat : P 62 x L 50 x T 125",
+      "Meja: P 150 x L 80 x T 50 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-43.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-44.jpg"
+  ]
+  },
+  {
+    "id": 586,
+    "name": "KTM039",
+    "category": "Kursi Tamu",
+    "price": "Rp 19.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "Salak Brown ",
+    "size": [
+      "3 Seat = P 180 x L 85 x T 125 cm",
+      "2 Seat : P 120 x L 30 x T 125 cm",
+      "1 Seat : P 62 x L 50 x T 125",
+      "Meja: P 150 x L 80 x T 50 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-45.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-46.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-47.jpg"
+  ]
+  },
+  {
+    "id": 587,
+    "name": "KTM040",
+    "category": "Kursi Tamu",
+    "price": "Rp 32.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "Gold Duco",
+    "size": [
+      "3 Seat = P 180 x L 85 x T 160 cm",
+      "2 Seat : P 120 x L 30 x T 160 cm",
+      "1 Seat : P 62 x L 50 x T 160",
+      "Meja: P 150 x L 80 x T 50 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-48.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-49.jpg"
+  ]
+  },
+  {
+    "id": 588,
+    "name": "KTM041",
+    "category": "Kursi Tamu",
+    "price": "Rp 25.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "Gold Duco",
+    "size": [
+      "3 Seat = P 180 x L 85 x T 160 cm",
+      "1 Seat : P 62 x L 50 x T 160",
+      "Meja: P 150 x L 80 x T 50 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-50.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-51.png"
+  ]
+  },
+  {
+    "id": 589,
+    "name": "KTM042",
+    "category": "Kursi Tamu",
+    "price": "Rp 45.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "Gold Duco",
+    "size": [
+      "3 Seat = P 180 x L 85 x T 125 cm",
+      "2 Seat : P 120 x L 30 x T 125 cm",
+      "1 Seat : P 62 x L 50 x T 125",
+      "Meja: P 150 x L 80 x T 50 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-53.png",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-54.jpg"
+  ]
+  },
+    {
+    "id": 590,
+    "name": "KTM043",
+    "category": "Kursi Tamu",
+    "price": "Rp 33.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "Gold Duco",
+    "size": [
+      "3 Seat = P 180 x L 85 x T 125 cm",
+      "2 Seat : P 120 x L 30 x T 125 cm",
+      "1 Seat : P 62 x L 50 x T 125",
+      "Meja: P 150 x L 80 x T 50 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-55.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-56.jpg"
+  ]
+  },
+    {
+    "id": 590,
+    "name": "KTM043",
+    "category": "Kursi Tamu",
+    "price": "Rp 62.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "Gold Duco",
+    "size": [
+      "3 Seat = P 180 x L 85 x T 125 cm",
+      "2 Seat : P 120 x L 30 x T 125 cm",
+      "1 Seat : P 62 x L 50 x T 125",
+      "Meja: P 150 x L 80 x T 50 cm"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-57.jpg"
+  
   },
   {
     "id": 161,
