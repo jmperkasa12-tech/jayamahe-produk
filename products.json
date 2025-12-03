@@ -2254,8 +2254,8 @@
   ]
   },
         {
-    "id": 595,
-    "name": "KTM047",
+    "id": 596,
+    "name": "KTM048",
     "category": "Kursi Tamu",
     "price": "Rp 5.800.000",
     "stock": "Pre-order",
@@ -3468,6 +3468,48 @@
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-46.jpg",
             
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-47.png"
+    ]
+  },
+    {
+    "id": 599,
+    "name": "LMP044",
+    "category": "Lemari Pakaian",
+    "price": "Rp 8.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown + Gold Duco",
+    "size": "P 200 x L 60 x T 230 Cm — Bisa custom ukuran",
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-49.jpg",
+            
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-50.jpg"
+    ]
+  },
+    {
+    "id": 600,
+    "name": "LMP045",
+    "category": "Lemari Pakaian",
+    "price": "Rp 7.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown + Gold Duco",
+    "size": "P 160 x L 60 x T 230 Cm — Bisa custom ukuran",
+    "image":
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-51.jpg"
+  },
+    {
+    "id": 601,
+    "name": "LMP046",
+    "category": "Lemari Pakaian",
+    "price": "Rp 8.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": "P 210 x L 60 x T 210 Cm — Bisa custom ukuran",
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-52.jpg",
+            
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-53.jpg"
     ]
   },
   {
@@ -4689,7 +4731,7 @@
     "material": "Kayu Jati Solid + Cushion  ",
     "finishing": "Ivory + Gold  Duco ",
     "size": [
-      "1 Seat: P 68 x L 66 x T 116 cm",
+      "1 Seat: P 68 x L 66 x T 135 cm",
       "Meja: P 220 x L 110 x T 75 cm"
     ],
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-69.jpg",
@@ -4698,32 +4740,66 @@
 },
     {
     "id": 574,
-    "name": "MJM065",
+    "name": "MJM066",
     "category": "Meja Makan",
     "price": "Rp 16.000.0000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Cushion  ",
     "finishing": "Gold Duco",
     "size": [
-      "1 Seat: P 68 x L 66 x T 116 cm",
-      "Meja: P 200 x L 100 x T 75 cm"
+      "1 Seat: P 68 x L 66 x T 130 cm",
+      "Meja: P 200 x L 100 x T 80 cm"
     ],
     "image": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-71.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-72.jpg"]
 },
     {
     "id": 575,
-    "name": "MJM066",
+    "name": "MJM067",
     "category": "Meja Makan",
     "price": "Rp 14.000.0000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Cushion + Marmer ",
     "finishing": "Silver Duco ",
     "size": [
-      "1 Seat: P 59 x L 58 x T 82 cm",
-      "Meja: P 120 x L 90 x T 75 cm"
+      "1 Seat: P 67 x L 66 x T 125 cm",
+      "Meja: P 200 x L 100 x T 83 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-73.jpg"
+},
+    {
+    "id": 597,
+    "name": "MJM068",
+    "category": "Meja Makan",
+    "price": "Rp 16.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "White Duco + Gold ",
+    "size": [
+      "1 Seat: P 68 x L 66 x T 130 cm",
+      "Meja: P 200 x L 100 x T 80 cm"
+    ],
+    "images": [ 
+   "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-74.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-75.jpg"]
+},
+    {
+    "id": 598,
+    "name": "MJM069",
+    "category": "Meja Makan",
+    "price": "Rp 4.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "Salak Brown ",
+    "size": [
+      "1 Seat: P 46 x L 45 x T 103 cm",
+      "Meja: P 160 x L 100 x T 75 cm"
+    ],
+    "images": [ 
+   "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-76.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-77.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-78.jpg"
+    ]
 },
   {
     "id": 256,
@@ -5547,7 +5623,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": " L 250 x T 180 cm",
+    "size": " P 250 x T 180 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-1.jpg"
   },
   {
@@ -5558,7 +5634,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": " L 160 x T 180 cm",
+    "size": " P 160 x T 180 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-2.jpg"
   },
   {
@@ -5569,7 +5645,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": " L 160 x T 180 cm",
+    "size": " P 160 x T 180 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-3.jpg"
   },
   {
@@ -5577,10 +5653,10 @@
     "name": "SKT004",
     "category": "Sketsel",
     "price": "Rp 2.000.000",
-    "stock": "Ready",
+    "stock": "P",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": " L 160 x T 180 cm",
+    "size": " P 160 x T 180 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-4.jpg"
   },
   {
@@ -5588,10 +5664,10 @@
     "name": "SKT005",
     "category": "Sketsel",
     "price": "Rp 2.000.000",
-    "stock": "Ready",
+    "stock": "P",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": " L 160 x T 180 cm",
+    "size": " P 160 x T 180 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-5.jpg"
   },
   {
@@ -5602,7 +5678,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": " L 160 x T 180 cm",
+    "size": " P 160 x T 180 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-6.jpg"
   },
   {
@@ -5613,7 +5689,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": " L 160 x T 180 cm",
+    "size": " P 160 x T 180 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-7.jpg"
   },
   {
@@ -5624,7 +5700,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": " L 160 x T 180 cm",
+    "size": " P 160 x T 180 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-8.jpg"
   },
   {
@@ -5635,7 +5711,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": " L 200 x T 180 cm",
+    "size": " P 200 x T 180 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-9.jpg"
   },
   {
@@ -5646,8 +5722,198 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": " L 160 x T 180 cm",
+    "size": " P 160 x T 180 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-10.jpg"
+  },
+  {
+    "id": 602,
+    "name": "SKT011",
+    "category": "Sketsel",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Salak Brown ",
+    "size": " P 160 x T 180 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-11.jpg"
+  },
+  {
+    "id": 603,
+    "name": "SKT012",
+    "category": "Sketsel",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": " P 160 x T 180 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-12.jpg"
+  },
+  {
+    "id": 604,
+    "name": "SKT013",
+    "category": "Sketsel",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": " P 160 x T 180 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-13.jpg"
+  },
+  {
+    "id": 605,
+    "name": "SKT014",
+    "category": "Sketsel",
+    "price": "Rp 4.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": " P 200 x T 200 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-14.jpg",
+              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-15.jpg"]
+  },
+  {
+    "id": 606,
+    "name": "SKT015",
+    "category": "Sketsel",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": " P 160 x T 180 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-16.jpg",
+              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-17.jpg",
+              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-18.jpg"
+              ]
+  },
+  {
+    "id": 607,
+    "name": "SKT016",
+    "category": "Sketsel",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Brown",
+    "size": " P 150 x T 170 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-19.jpg",
+              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-20.jpg"]
+  },
+  {
+    "id": 608,
+    "name": "SKT017",
+    "category": "Sketsel",
+    "price": "Rp 4.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": " P 160 x T 250 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-21.jpg",
+              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-22.jpg",
+              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-23.jpg"
+              ]
+  },
+  {
+    "id": 609,
+    "name": "SKT018",
+    "category": "Sketsel",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Black Glossy ",
+    "size": " P 150 x T 170 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-24.jpg",
+              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-25.jpg"]
+  },
+  {
+    "id": 610,
+    "name": "SKT019",
+    "category": "Sketsel",
+    "price": "Rp 1.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": " P 132 x T 200 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-26.jpg",
+              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-27.jpg"]
+  },
+  {
+    "id": 611,
+    "name": "SKT020",
+    "category": "Sketsel",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Brown ",
+    "size": " P 150 x T 180 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-28.jpg"
+  },
+   {
+    "id": 612,
+    "name": "SKT021",
+    "category": "Sketsel",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Black Glossy ",
+    "size": " P 160 x T 180 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-29.jpg"
+  },
+  {
+    "id": 613,
+    "name": "SKT022",
+    "category": "Sketsel",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Brown ",
+    "size": " P 160 x T 180 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-30.jpg",
+              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-31.jpg"]
+  },
+   {
+    "id": 614,
+    "name": "SKT023",
+    "category": "Sketsel",
+    "price": "Rp 5.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Brown ",
+    "size": " P 70 x T 180 cm & P 90 XT 150 Cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-32.jpg"
+  },
+   {
+    "id": 615,
+    "name": "SKT024",
+    "category": "Sketsel",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Brown ",
+    "size": " P 157 x T 180 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-33.jpg"
+  },
+  {
+    "id": 616,
+    "name": "SKT025",
+    "category": "Sketsel",
+    "price": "Rp 1.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": " P 132 x T 200 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-34.jpg",
+              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-35.jpg",
+               "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-36.jpg" 
+            ]
+  },
+   {
+    "id": 617,
+    "name": "SKT026",
+    "category": "Sketsel",
+    "price": "Rp 5.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Salak Brown ",
+    "size": " P 200 x T 180 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-37.jpg"
   },
   {
     "id": 305,
