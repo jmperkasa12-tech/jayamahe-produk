@@ -7833,6 +7833,130 @@
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-14.jpg"
   },
+   {
+    "id": 608,
+    "name": "BK001",
+    "category": "Bingkai Cermin",
+    "price": "Rp 850.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 60 x T 80  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-1.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-2.jpg"
+  ]
+  },
+     {
+    "id": 609,
+    "name": "BK002",
+    "category": "Bingkai Cermin",
+    "price": "Rp 850.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Black Glossy ",
+    "size": [
+      "P 60 x T 80  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-3.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-4.png"
+  ]
+  },
+   {
+    "id": 610,
+    "name": "BK003",
+    "category": "Bingkai Cermin",
+    "price": "Rp 850.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 60 x T 80  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-5.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-6.png"
+  ]
+  },
+   {
+    "id": 611,
+    "name": "BK004",
+    "category": "Bingkai Cermin",
+    "price": "Rp 850.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 60 x T 80  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-7.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-8.png"
+  ]
+  },
+   {
+    "id": 612,
+    "name": "BK005",
+    "category": "Bingkai Cermin",
+    "price": "Rp 850.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 60 x T 80  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-9.png",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-10.png"
+  ]
+  },
+   {
+    "id": 613,
+    "name": "BK006",
+    "category": "Bingkai Cermin",
+    "price": "Rp 850.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 60 x T 80  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-11.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-12.jpg"
+  ]
+  },
+   {
+    "id": 614,
+    "name": "BK007",
+    "category": "Bingkai Cermin",
+    "price": "Rp 850.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 60 x T 80  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-13.jpg"
+  },
+   {
+    "id": 615,
+    "name": "BK008",
+    "category": "Bingkai Cermin",
+    "price": "Rp 850.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 60 x T 80  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-14.png"
+  },
   {
     "id": 374,
     "name": "testi",
