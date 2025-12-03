@@ -7957,6 +7957,156 @@
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-14.png"
   },
+   {
+    "id": 616,
+    "name": "HD001",
+    "category": " Hiasan Dinding",
+    "price": "Rp 1.200.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 60 x T 75  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-1.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-2.jpg"]
+  },
+   {
+    "id": 617,
+    "name": "HD002",
+    "category": " Hiasan Dinding",
+    "price": "Rp 1.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 100 x T 60  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-3.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-4.jpg"]
+  },
+   {
+    "id": 618,
+    "name": "HD003",
+    "category": " Hiasan Dinding",
+    "price": "Rp 2.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 100 x T 150  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-5.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-6.jpg"]
+  },
+   {
+    "id": 619,
+    "name": "HD004",
+    "category": " Hiasan Dinding",
+    "price": "Rp 1.100.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 40 x T 40  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-7.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-8.jpg"]
+  },
+   {
+    "id": 620,
+    "name": "HD005",
+    "category": " Hiasan Dinding",
+    "price": "Rp 1.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 140 x T 60  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-9.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-10.jpg"]
+  },
+   {
+    "id": 621,
+    "name": "HD006",
+    "category": " Hiasan Dinding",
+    "price": "Rp 1.150.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 70 x T 70  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-11.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-12.jpg"]
+  },
+  {
+    "id": 622,
+    "name": "HD007",
+    "category": " Hiasan Dinding",
+    "price": "Rp 1.600.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 70 x T 65  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-13.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-14.jpg"]
+  },
+  {
+    "id": 623,
+    "name": "HD008",
+    "category": " Hiasan Dinding",
+    "price": "Rp 1.200.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 80 x T 60  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-15.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-16.jpg"]
+  },
+   {
+    "id": 624,
+    "name": "HD009",
+    "category": " Hiasan Dinding",
+    "price": "Rp 1.100.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 60 x T 60  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-17.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-18.jpg"]
+  },
+     {
+    "id": 625,
+    "name": "HD010",
+    "category": " Hiasan Dinding",
+    "price": "Rp 1.150.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 60 x T 60  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-19.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-20.jpg"]
+  },
   {
     "id": 374,
     "name": "testi",
