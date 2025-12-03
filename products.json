@@ -8,7 +8,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown ",
     "size": "P 120 x L 50 x T 200 Cm ",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/ayunan-1.jpg"
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/ayunan-1.jpg",
+                "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/ayunan-1.jpg" 
+  ]
   },
   {
     "id": 402,
@@ -19,7 +21,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 120 x L 50 x T 200 Cm ",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/ayunan-2.jpg"
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/ayunan-2.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/ayunan-2.jpg"
+  ]
   },
   {
     "id": 76,
@@ -30,7 +34,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 200 x L 80 Cm x  T 75 Cm ",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-1.jpg"
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-1.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-1.jpg"
+  ]
   },
   {
     "id": 77,
@@ -41,7 +47,9 @@
     "material": "Kayu Jati Solid + Cushion",
     "finishing": "Natural Brown + Duco",
     "size": "P 180 x L 60 x  T 75 Cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-10.jpg"
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-10.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-10.jpg"
+  ]
   },
   {
     "id": 78,
@@ -52,7 +60,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 200 x L 80 x  T 75 Cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-2.jpg"
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-2.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-2.jpg"
+  ]
   },
   {
     "id": 78,
@@ -63,7 +73,9 @@
     "material": "Kayu Jati Solid + Cushion",
     "finishing": "Natural Brown",
     "size": "P 200 x L 80 x  T 75 Cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-3.jpg"
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-3.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-3.jpg"
+  ]
   },
   {
     "id": 78,
@@ -74,7 +86,9 @@
     "material": "Kayu Jati Solid + Cushion",
     "finishing": "Natural Brown",
     "size": "P 200 x L 80 x  T 75 Cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-4.jpg",
+    "images": [ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-4.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-4.jpg" 
+  ]
     "best": true
 
   },
@@ -87,7 +101,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 200 x L 100 x  T 75 Cm ",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-5.jpg"
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-5.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-5.jpg"
+  ]
   },
   {
     "id": 78,
@@ -101,7 +117,9 @@
       "Bale Bale: P 200 x L 80  x  T 75 Cm",
       "Meja: P 120 x L 60 x T 45 x  T 75 Cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-6.jpg"
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-6.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-6.jpg"
+  ]
   },
   {
     "id": 78,
@@ -112,7 +130,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 200 x L 80 x  T 75 Cm ",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-7.jpg"
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-7.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-7.jpg"
+  ]
   },
   {
     "id": 479,
@@ -123,7 +143,9 @@
     "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
     "size": "P 200 x L 80 x  T 75 Cm ",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-12.jpg"
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-12.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-12.jpg"
+  ]
   },
   {
     "id": 506,
@@ -2268,6 +2290,22 @@
       "Meja: P 100 x L 50 x T 40 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-67.jpg"
+  },
+        {
+    "id": 626,
+    "name": "KTM048",
+    "category": "Kursi Tamu",
+    "price": "Rp 3.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "Sudut L : P (240x180) x L 55 x T 85 cm",
+      "Meja: P 100 x L 50 x T 40 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-68.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-69.jpg"
+  ]
   },
   {
     "id": 161,
