@@ -3561,6 +3561,52 @@
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-53.jpg"
     ]
   },
+    {
+    "id": 638,
+    "name": "LMP047",
+    "category": "Lemari Pakaian",
+    "price": "Rp 7.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Brown ",
+    "size": "P 100 x L 50 x T 200 Cm — Bisa custom ukuran",
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-54.jpg",
+            
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-55.jpg"
+    ]
+  },
+    {
+    "id": 639,
+    "name": "LMP048",
+    "category": "Lemari Pakaian",
+    "price": "Rp 6.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Brown ",
+    "size": "P 100 x L 50 x T 190 Cm — Bisa custom ukuran",
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-56.jpg",
+            
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-57.jpg"
+    ]
+  },
+    {
+    "id": 640,
+    "name": "LMP049",
+    "category": "Lemari Pakaian",
+    "price": "Rp 6.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Brown ",
+    "size": "P 100 x L 50 x T 200 Cm — Bisa custom ukuran",
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-58.jpg",
+            
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-59.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-60.jpg"
+    ]
+  },
   {
     "id": 66,
     "name": "LSP001",
@@ -6257,6 +6303,19 @@
                "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-36.jpg" 
             ]
   },
+  {
+    "id": 637,
+    "name": "SKT026",
+    "category": "Sketsel",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Black Glossy ",
+    "size": " P 150 x T 170 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-38.jpg",
+              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-39.jpg"
+  ]
+  },
    {
     "id": 617,
     "name": "SKT026",
@@ -7706,6 +7765,29 @@
     "finishing": "Natural Glosy",
     "size": "P 100 x L 45 X T 200 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-9.jpg"
+  },
+    {
+    "id": 635,
+    "name": "RH010",
+    "category": "Rak hias",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Natural Glosy",
+    "size": "P 80 x L 40 X T 160 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-10.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-11.jpg"]
+  },
+    {
+    "id": 636,
+    "name": "RH010",
+    "category": "Rak hias",
+    "price": "Rp 4.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Natural Glosy",
+    "size": "P 100 x L 40 X T 190 cm",
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-12.jpg"
   },
        {
     "id": 441,
