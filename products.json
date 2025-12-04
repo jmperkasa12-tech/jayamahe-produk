@@ -3570,7 +3570,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 90 x L 40 x T 120 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-1.jpg"
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-1.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-31.jpg"
+  ]
   },
   {
     "id": 68,
@@ -3603,7 +3605,8 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 90 x L 40 x T 110 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-4.jpg"
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-4.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-33.jpg"]
   },
   {
     "id": 71,
@@ -3625,7 +3628,8 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 120 x L 35 x T 140 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-6.jpg"
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-6.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-8.jpg"]
   },
   {
     "id": 73,
@@ -3642,12 +3646,14 @@
     "id": 74,
     "name": "LSP008",
     "category": "Lemari Sepatu",
-    "price": "Rp 3.00.000",
+    "price": "Rp 2.500.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 120 x L 50 x T 200 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-8.jpg"
+    "finishing": "Salak Brown ",
+    "size": "P 80 x L 40 x T 90 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-11.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-12.jpg"
+  ]
   },
   {
     "id": 75,
@@ -3669,7 +3675,114 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 90 x L 40 x T 120 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-10.jpg"
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-10.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-32.jpg"]
+  },
+  {
+    "id": 627,
+    "name": "LSP011",
+    "category": "Lemari Sepatu",
+    "price": "Rp 2.300.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Brown ",
+    "size": "P 65 x L 35 x T 100 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-13.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-14.jpg"
+  ]
+  },
+  {
+    "id": 628,
+    "name": "LSP012",
+    "category": "Lemari Sepatu",
+    "price": "Rp 3.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Brown ",
+    "size": "P 95 x L 40 x T 100 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-15.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-16.jpg"
+  ]
+  },
+    {
+    "id": 629,
+    "name": "LSP013",
+    "category": "Lemari Sepatu",
+    "price": "Rp 4.200.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Brown ",
+    "size": "P 120 x L 50 x T 100 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-17.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-18.jpg"
+  ]
+  },
+  {
+    "id": 630,
+    "name": "LSP014",
+    "category": "Lemari Sepatu",
+    "price": "Rp 3.600.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": "P 80 x L 35 x T 140 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-19.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-20.jpg"
+  ]
+  },
+  {
+    "id": 631,
+    "name": "LSP014",
+    "category": "Lemari Sepatu",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Brown ",
+    "size": "P 100 x L 40 x T 120 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-21.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-22.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-23.jpg"
+  ]
+  },
+  {
+    "id": 632,
+    "name": "LSP015",
+    "category": "Lemari Sepatu",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Brown ",
+    "size": "P 80 x L 40 x T 100 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-24.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-25.jpg"
+  ]
+  },
+  {
+    "id": 633,
+    "name": "LSP016",
+    "category": "Lemari Sepatu",
+    "price": "Rp 4.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Salak Brown ",
+    "size": "P 90 x L 35 x T 130 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-26.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-27.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-28.jpg"
+  ]
+  },
+    {
+    "id": 634,
+    "name": "LSP017",
+    "category": "Lemari Sepatu",
+    "price": "Rp 4.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Salak Brown ",
+    "size": "P 130 x L 40 x T 110 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-29.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-30.jpg"
+  ]
   },
   {
     "id": 276,
@@ -8083,6 +8196,7 @@
     "finishing": "Natural Brown ",
     "size": [
       "P 60 x T 80  cm",
+      "P 80 X T 90 cm",
       "Custom ukuran bisa disesuaikan permintaan"
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-1.jpg",
@@ -8099,6 +8213,7 @@
     "finishing": "Black Glossy ",
     "size": [
       "P 60 x T 80  cm",
+      "P 80 X T 90 cm",
       "Custom ukuran bisa disesuaikan permintaan"
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-3.jpg",
@@ -8115,6 +8230,7 @@
     "finishing": "Natural Brown ",
     "size": [
       "P 60 x T 80  cm",
+            "P 80 X T 90 cm",
       "Custom ukuran bisa disesuaikan permintaan"
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-5.jpg",
@@ -8131,6 +8247,7 @@
     "finishing": "Natural Brown ",
     "size": [
       "P 60 x T 80  cm",
+            "P 80 X T 90 cm",
       "Custom ukuran bisa disesuaikan permintaan"
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-7.jpg",
@@ -8147,6 +8264,7 @@
     "finishing": "Natural Brown ",
     "size": [
       "P 60 x T 80  cm",
+            "P 80 X T 90 cm",
       "Custom ukuran bisa disesuaikan permintaan"
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-9.png",
@@ -8163,6 +8281,7 @@
     "finishing": "Natural Brown ",
     "size": [
       "P 60 x T 80  cm",
+            "P 80 X T 90 cm",
       "Custom ukuran bisa disesuaikan permintaan"
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-11.jpg",
@@ -8179,6 +8298,7 @@
     "finishing": "Natural Brown ",
     "size": [
       "P 60 x T 80  cm",
+            "P 80 X T 90 cm",
       "Custom ukuran bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-13.jpg"
@@ -8193,6 +8313,7 @@
     "finishing": "Natural Brown ",
     "size": [
       "P 60 x T 80  cm",
+            "P 80 X T 90 cm",
       "Custom ukuran bisa disesuaikan permintaan"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-cermin-14.png"
