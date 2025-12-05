@@ -6008,12 +6008,84 @@
     "id": 411,
     "name": "NKS009",
     "category": "Nakas",
-    "price": "Rp 1.00.000",
+    "price": "Rp 1.000.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": "P 45 x L 40 x T 60 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-9.jpg"
+  },
+    {
+    "id": 675,
+    "name": "NKS010",
+    "category": "Nakas",
+    "price": "Rp 950.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Brown",
+    "size": "P 45 x L 40 x T 55 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-11.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-12.jpg"]
+  },
+    {
+    "id": 676,
+    "name": "NKS011",
+    "category": "Nakas",
+    "price": "Rp 1.200.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Brown",
+    "size": "P 50 x L 50 x T 55 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-13.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-14.jpg"]
+  },
+    {
+    "id": 677,
+    "name": "NKS012",
+    "category": "Nakas",
+    "price": "Rp 1.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Salak Brown ",
+    "size": "P 40 x L 40 x T 50 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-15.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-16.jpg"]
+  },
+    {
+    "id": 678,
+    "name": "NKS012",
+    "category": "Nakas",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Salak Brown ",
+    "size": "P 50 x L 40 x T 55 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-17.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-18.jpg"]
+  },
+    {
+    "id": 679,
+    "name": "NKS013",
+    "category": "Nakas",
+    "price": "Rp 1.300.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Salak Brown ",
+    "size": "P 50 x L 40 x T 55 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-19.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-20.jpg"]
+  },
+    {
+    "id": 680,
+    "name": "NKS013",
+    "category": "Nakas",
+    "price": "Rp 1.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Salak Brown ",
+    "size": "P 50 x L 40 x T 65 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-21.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-22.jpg"]
   },
   {
     "id": 292,
@@ -7944,6 +8016,40 @@
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-32.jpg"
   },
   {
+    "id": 673,
+    "name": "TTD032",
+    "category": "Tempat Tidur",
+    "price": "Mulai Rp 3.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Brown",
+    "size": [
+      "120 x 200 cm — Rp 3.000.000",
+      "160 x 200 cm — Rp 3.800.000",
+      "180 x 200 cm — Rp 5.000.000",
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-33.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-34.jpg"]
+  },
+  {
+    "id": 674,
+    "name": "TTD033",
+    "category": "Tempat Tidur",
+    "price": "Mulai Rp 3.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan ",
+    "finishing": "Natural Brown",
+    "size": [
+      "120 x 200 cm — Rp 3.000.000",
+      "160 x 200 cm — Rp 3.800.000",
+      "180 x 200 cm — Rp 5.000.000",
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-35.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-36.jpg"]
+  },
+  {
     "id": 403,
     "name": "RH001",
     "category": "Rak hias",
@@ -8064,6 +8170,18 @@
     "finishing": "Natural Glosy",
     "size": "P 100 x L 40 X T 190 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-12.jpg"
+  },
+    {
+    "id": 672,
+    "name": "RH010",
+    "category": "Rak hias",
+    "price": "Rp 2.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Natural Glosy",
+    "size": "P 50 x L 50 X T 160 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-13.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-14.jpg"]
   },
        {
     "id": 441,
@@ -8885,6 +9003,51 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-27.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-28.jpg"]
+  },
+     {
+    "id": 669,
+    "name": "LG001",
+    "category": "Lounger",
+    "price": "Rp 3.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Besi",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 200 x L 70 x T 70 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-1.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-2.jpg"]
+  },
+     {
+    "id": 670,
+    "name": "LG002",
+    "category": "Lounger",
+    "price": "Rp 3.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 200 x L 60 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-3.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-4.jpg"]
+  },
+     {
+    "id": 671,
+    "name": "LG003",
+    "category": "Lounger",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 200 x L 80 x T 35 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-5.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-6.jpg"]
   },
   {
     "id": 374,
