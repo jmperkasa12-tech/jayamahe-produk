@@ -8826,6 +8826,66 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-19.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-20.jpg"]
   },
+     {
+    "id": 665,
+    "name": "HD011",
+    "category": "Hiasan Dinding",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 120 x T 60  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-21.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-22.jpg"]
+  },
+       {
+    "id": 666,
+    "name": "HD012",
+    "category": "Hiasan Dinding",
+    "price": "Rp 2.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 140 x T 60  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-23.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-24.jpg"]
+  },
+     {
+    "id": 667,
+    "name": "HD012",
+    "category": "Hiasan Dinding",
+    "price": "Rp 2.700.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 90 x T 90  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-25.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-26.jpg"]
+  },
+     {
+    "id": 668,
+    "name": "HD013",
+    "category": "Hiasan Dinding",
+    "price": "Rp 2.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 140 x T 60  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-27.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-28.jpg"]
+  },
   {
     "id": 374,
     "name": "testi",
