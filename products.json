@@ -2701,6 +2701,74 @@
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-95.jpeg"
   ]
   },
+ {
+    "id": 701,
+    "name": "KTM055",
+    "category": "Kursi Tamu",
+    "price": "Rp 5.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Natural Brown ",
+    "size": [
+      "Sudut L : P (280 x 180) x L 55 x T 80 cm",
+      "1 Seat = P 70 x L 55 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-80.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-81.jpg"
+  ]
+  },
+ {
+    "id": 702,
+    "name": "KTM056",
+    "category": "Kursi Tamu",
+    "price": "Rp 7.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Salak Brown ",
+    "size": [
+      "Sudut L : P (280 x 180) x L 55 x T 80 cm",
+      "1 Seat = P 70 x L 55 x T 80 cm",
+      "Meja: P 120 x L 120 x T 45 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-82.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-83.jpg"
+  ]
+  },
+ {
+    "id": 703,
+    "name": "KTM057",
+    "category": "Kursi Tamu",
+    "price": "Rp 5.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Natural Brown ",
+    "size": [
+      "Sudut L : P (280 x 180) x L 55 x T 80 cm",
+      "1 Seat = P 70 x L 55 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-84.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-85.jpg"
+  ]
+  },
+ {
+    "id": 704,
+    "name": "KTM058",
+    "category": "Kursi Tamu",
+    "price": "Rp 6.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Natural Brown ",
+    "size": [
+      "Sudut L : P (280 x 180) x L 55 x T 80 cm",
+      "1 Seat = P 70 x L 55 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-86.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-87.jpg"
+  ]
+  },  
   {
     "id": 161,
     "name": "KTR001",
