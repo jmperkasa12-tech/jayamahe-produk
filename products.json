@@ -2595,6 +2595,113 @@
   ]
   },
   {
+    "id": 695,
+    "name": "KTM049",
+    "category": "Kursi Tamu",
+    "price": "Rp 5.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown ",
+    "size": [
+      "Sudut L : P (240x180) x L 55 x T 85 cm",
+      "Meja: P 100 x L 100 x T 40 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-70.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-71.jpg"
+  ]
+  },
+  {
+    "id": 696,
+    "name": "KTM050",
+    "category": "Kursi Tamu",
+    "price": "Rp 5.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Salak Brown ",
+    "size": [
+      "3 Seat = P 180 x L 50 x T 90 cm",
+      "2 Seat : P 120 x L 50 x T 90 cm",
+      "1 Seat = P 60 x L 59 x T 90 cm",
+      "Meja: P 100 x L 50 x T 40 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-72.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-73.jpg"
+  ]
+  },
+  {
+    "id": 697,
+    "name": "KTM051",
+    "category": "Kursi Tamu",
+    "price": "Rp 5.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Natural Brown ",
+    "size": [
+      "3 Seat = P 196 x L 65 x T 76 cm",
+      "2 Seat : P 147 x L 60 x T 76  cm",
+      "1 Seat = P 86 x L 67 x T 76 cm",
+      "Meja: P 100 x L 53 x T 43 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-74.png",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-75.jpg"
+  ]
+  },
+ {
+    "id": 698,
+    "name": "KTM052",
+    "category": "Kursi Tamu",
+    "price": "Rp 6.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Natural Brown ",
+    "size": [
+      "3 Seat = P 160 x L 60 x T 75 cm",
+      "2 Seat : P 130 x L 60 x T 75  cm",
+      "1 Seat = P 86 x L 60 x T 75 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-76.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-77.jpg"
+  ]
+  },
+ {
+    "id": 699,
+    "name": "KTM053",
+    "category": "Kursi Tamu",
+    "price": "Rp 6.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Natural Brown ",
+    "size": [
+      "3 Seat = P 180 x L 80 x T 70 cm",
+      "2 Seat : P 120 x L 80 x T 70  cm",
+      "1 Seat = P 70 x L 80 x T 70 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-78.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-79.jpg"
+  ]
+  },
+ {
+    "id": 700,
+    "name": "KTM054",
+    "category": "Kursi Tamu",
+    "price": "Rp 6.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Natural Brown ",
+    "size": [
+      "3 Seat = P 180 x L 55 x T 80 cm",
+      "2 Seat : P 120 x L 55 x T 80  cm",
+      "1 Seat = P 70 x L 55 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-93.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-94.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-95.jpeg"
+  ]
+  },
+  {
     "id": 161,
     "name": "KTR001",
     "category": "Kursi Teras",
