@@ -1106,6 +1106,78 @@
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-5.jpg"
   },
   {
+    "id": 714,
+    "name": "JHS006",
+    "category": "Jam Hias",
+    "price": "Rp 2.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown + Gold Duco",
+    "size": "P 60 x L 35 x T 180 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-6.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-7.jpg"
+]},
+  {
+    "id": 715,
+    "name": "JHS007",
+    "category": "Jam Hias",
+    "price": "Rp 2.600.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown + Gold Duco",
+    "size": "P 60 x L 35 x T 180 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-8.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-9.jpg"
+]},
+  {
+    "id": 716,
+    "name": "JHS008",
+    "category": "Jam Hias",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown + Gold Duco",
+    "size": "P 90 x L 35 x T 215 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-10.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-11.jpg"
+]},
+  {
+    "id": 715,
+    "name": "JHS009",
+    "category": "Jam Hias",
+    "price": "Rp 2.900.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 65 x L 33 x T 190 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-12.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-13.jpeg"
+]},
+  {
+    "id": 716,
+    "name": "JHS010",
+    "category": "Jam Hias",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 65 x L 30 x T 205 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-14.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-15.jpg"
+]},
+  {
+    "id": 717,
+    "name": "JHS011",
+    "category": "Jam Hias",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 80 x L 30 x T 200 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-16.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-17.jpg"
+]},
+  {
     "id": 79,
     "name": "KBR001",
     "category": "Kursi Bar",
