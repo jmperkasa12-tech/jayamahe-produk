@@ -131,7 +131,7 @@
     "id": 78,
     "name": "BBL007",
     "category": "Bale Bale",
-    "price": "Rp 3.800.0000",
+    "price": "Rp 3.800.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
@@ -209,6 +209,90 @@
     "images":[
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-19.jpg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-18.jpg"
+    ] 
+  },
+  {
+    "id": 707,
+    "name": "BBL011",
+    "category": "Bale Bale",
+    "price": "Rp 2.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown",
+    "size": "P 200 x L 80 x  T 75 Cm ",
+    "images":[
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-20.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-21.jpg"
+    ] 
+  },
+  {
+    "id": 708,
+    "name": "BBL012",
+    "category": "Bale Bale",
+    "price": "Rp 2.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  ",
+    "finishing": "Natural Brown",
+    "size": "P 200 x L 80 x  T 75 Cm ",
+    "images":[
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-22.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-23.jpg"
+    ] 
+  },
+  {
+    "id": 709,
+    "name": "BBL013",
+    "category": "Bale Bale",
+    "price": "Rp 2.700.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion ",
+    "finishing": "Natural Brown",
+    "size": "P 180 x L 80 x  T 75 Cm ",
+    "images":[
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-24.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-25.jpg"
+    ] 
+  },
+    {
+    "id": 710,
+    "name": "BBL014",
+    "category": "Bale Bale",
+    "price": "Rp 2.200.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 180 x L 60 x  T 75 Cm ",
+    "images":[
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-26.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-27.jpg"
+    ] 
+  },
+    {
+    "id": 711,
+    "name": "BBL015",
+    "category": "Bale Bale",
+    "price": "Rp 2.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 200 x L 80 x  T 75 Cm ",
+    "images":[
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-28.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-29.jpg"
+    ] 
+  },
+    {
+    "id": 712,
+    "name": "BBL015",
+    "category": "Bale Bale",
+    "price": "Rp 3.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Salak Brown ",
+    "size": "P 200 x L 75 x  T 75 Cm ",
+    "images":[
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-30.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-31.jpg"
     ] 
   },
   {
