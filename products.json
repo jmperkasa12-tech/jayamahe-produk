@@ -3302,6 +3302,128 @@
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-26.jpg"
   },
   {
+    "id": 718,
+    "name": "KTR027",
+    "category": "Kursi Teras",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Natural Brown ",
+    "size": [
+      "2 Seat : P 128 x L 40 x T 67 cm",
+      "1 Seat: P 60 x L 40 x T 67 cm",
+      "Meja: P 50 x L 50 x T 50 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-27.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-28.jpg"
+]},
+  {
+    "id": 719,
+    "name": "KTR028",
+    "category": "Kursi Teras",
+    "price": "Rp 1.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Natural Brown ",
+    "size": [
+      "1 Seat: P 45 x L 45 x T 80 cm",
+      "Meja: P 50 x L 50 x T 55 cm"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-27.jpg"
+  },
+    {
+    "id": 720,
+    "name": "KTR029",
+    "category": "Kursi Teras",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Salak Brown",
+    "size": [
+      "2 Seat : P 120 x L 45 x T 80 cm",
+      "1 Seat: P 45 x L 45 x T 80 cm",
+      "Meja: P 110 x L 55 x T 45 cm"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-30.jpg"
+},
+  {
+    "id": 721,
+    "name": "KTR030",
+    "category": "Kursi Teras",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion + Rotan",
+    "finishing": "Natural Brown ",
+    "size": [
+      "2 Seat : P 120 x L 40 x T 67 cm",
+      "1 Seat: P 45 x L 45 x T 85 cm",
+      "Meja: P 120 x L 50 x T 50 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-31.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-32.jpg"
+]},
+  {
+    "id": 722,
+    "name": "KTR031",
+    "category": "Kursi Teras",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": [
+      "1 Seat: P 45 x L 45 x T 85 cm",
+      "Meja: P 100 x L 50 x T 80 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-33.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-34.jpg"
+]},
+  {
+    "id": 723,
+    "name": "KTR032",
+    "category": "Kursi Teras",
+    "price": "Rp 1.600.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": [
+      "1 Seat: P 50 x L 50 x T 90 cm",
+      "Meja: P 50 x L 50 x T 55 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-35.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-35.jpg"
+]},
+  {
+    "id": 724,
+    "name": "KTR033",
+    "category": "Kursi Teras",
+    "price": "Rp 2.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": [
+      "1 Seat: P 44 x L 58 x T 80 cm",
+      "Meja: P 50 x L 50 x T 55 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-37.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-38.jpg"
+]},
+  {
+    "id": 725,
+    "name": "KTR034",
+    "category": "Kursi Teras",
+    "price": "Rp 3.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": [
+      "2 Seat : P 120 x L 50 x T 80 cm",
+      "1 Seat: P 60 x L 50 x T 80 cm",
+      "Meja: P 120 x L 40 x T 75 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-39.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-40.jpg"
+]},
+    {
     "id": 27,
     "name": "LMH001",
     "category": "Lemari Hias",
