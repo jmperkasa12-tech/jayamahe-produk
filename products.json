@@ -3128,38 +3128,40 @@
     "material": "Kayu Jati Solid +Cushion",
     "finishing": "Natural Brown ",
     "size": [
-      "Sudut L : P (220 x 140) x L 70 x T 75 cm",
+      "Sudut L : P (220 x 140) x L 70 x T 75 cm"
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-99.jpg"
 }, 
- {
-    "id": 746,
-    "name": "KTM068",
-    "category": "Kursi Tamu",
-    "price": "Rp 6.000.000",
-    "stock": "Pre-order",
-    "material": "Kayu Jati Solid +Cushion",
-    "finishing": "Natural Brown ",
-    "size": [
-      "Sudut L : P (190 x 190) x L 80 x T 75 cm",
-    ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-100.jpg"
-}, 
- {
-    "id": 747,
-    "name": "KTM069",
-    "category": "Kursi Tamu",
-    "price": "Rp 3.000.000",
-    "stock": "Pre-order",
-    "material": "Kayu Jati Solid +Cushion",
-    "finishing": "Natural Brown ",
-    "size": [
-      "2 Seat : P 116 x L 56 x T 74 cm",
-      "1 Seat : P 56 x L 50 x T 74",
-      "Meja : P 120 x L 55 x T 45 cm"
-    ],
-    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-101.jpg",
-    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-102.jpg"]
+{
+  "id": 746,
+  "name": "KTM068",
+  "category": "Kursi Tamu",
+  "price": "Rp 6.000.000",
+  "stock": "Pre-order",
+  "material": "Kayu Jati Solid + Cushion",
+  "finishing": "Natural Brown",
+  "size": [
+    "Sudut L : P (190 x 190) x L 80 x T 75 cm"
+  ],
+  "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-100.jpg"
+},
+{
+  "id": 747,
+  "name": "KTM069",
+  "category": "Kursi Tamu",
+  "price": "Rp 3.000.000",
+  "stock": "Pre-order",
+  "material": "Kayu Jati Solid + Cushion",
+  "finishing": "Natural Brown",
+  "size": [
+    "2 Seat : P 116 x L 56 x T 74 cm",
+    "1 Seat : P 56 x L 50 x T 74",
+    "Meja : P 120 x L 55 x T 45 cm"
+  ],
+  "images": [
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-101.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-102.jpg"
+  ]
 },
   {
     "id": 161,
