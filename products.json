@@ -1840,7 +1840,7 @@
     "size": "P 65 X  L 45 X T 72  cm ",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-44.jpg"
   },
-      {
+    {
     "id": 436,
     "name": "KCF0044",
     "category": "Kursi Cafe",
@@ -1851,7 +1851,7 @@
     "size": "P 75 X  L 60 X T 90  cm ",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-45.jpg"
   },
-        {
+    {
     "id": 437,
     "name": "KCF0045",
     "category": "Kursi Cafe",
@@ -1862,6 +1862,18 @@
     "size": "P 54 x  L 52 x  T 75 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-46.jpg"
   },
+    {
+    "id": 741,
+    "name": "KCF0046",
+    "category": "Kursi Cafe",
+    "price": "Rp 1.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Natural Brown ",
+    "size": "P 65 x  L 65 x  T 70 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-47.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-48.jpg"
+]},
   {
     "id": 124,
     "name": "KGY001",
@@ -6081,6 +6093,22 @@
    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-100.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-101.jpg"]
 },
+    {
+    "id": 739,
+    "name": "MJM081",
+    "category": "Meja Makan",
+    "price": "Rp 4.900.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Salak Brown",
+    "size": [
+      "1 Seat: P 60 x L 58 x T 110 cm",
+      "Meja: P 160 x L 90 x T 75 cm"
+    ],
+    "images": [ 
+   "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-102.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-103.jpg"]
+},
   {
     "id": 256,
     "name": "MJR001",
@@ -8755,6 +8783,23 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-35.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-36.jpg"]
   },
+    {
+    "id": 742,
+    "name": "TTD034",
+    "category": "Tempat Tidur",
+    "price": "Mulai Rp 3.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown + Gold Duco",
+    "size": [
+      "120 x 200 cm — Rp 3.000.000",
+      "160 x 200 cm — Rp 3.800.000",
+      "180 x 200 cm — Rp 5.000.000",
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-37.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-38.jpg"]
+  },
   {
     "id": 403,
     "name": "RH001",
@@ -9754,6 +9799,21 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-5.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-6.jpg"]
+  },
+   {
+    "id": 740,
+    "name": "LG004",
+    "category": "Lounger",
+    "price": "Rp 1.900.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Anyaman Sintetis",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 200 x L 80 x T 70 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-7.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-8.jpg"]
   },
     {
     "id": 681,
