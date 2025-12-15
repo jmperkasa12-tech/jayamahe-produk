@@ -1469,9 +1469,8 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": " P 38 x  L 38 x  T 88 cm",
-    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-33.jpeg",
-    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-34.jpg"
-]},
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-33.jpeg"
+},
   {
     "id": 756,
     "name": "KBR026",
