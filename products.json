@@ -1187,7 +1187,7 @@
     "finishing": "Natural Brown",
     "size": "P 45 x L 45 x T 105 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-1.jpg"
-  },
+     },
   {
     "id": 90,
     "name": "KBR002",
@@ -1197,8 +1197,9 @@
     "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
     "size": "P 45 x L 45 x T 105 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-2.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-2.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-57.jpg"
+]},
   {
     "id": 91,
     "name": "KBR003",
@@ -1208,8 +1209,9 @@
     "material": "Kayu Jati Solid + Rotan",
     "finishing": "Natural Brown",
     "size": "P 40 x L 40 x T 115 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-3.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-3.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-55.jpg"
+]},
   {
     "id": 92,
     "name": "KBR004",
@@ -1230,8 +1232,9 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Black Glossy ",
     "size": "P 45 x L 40 x T 100 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-5.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-5.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-37.jpg"
+]},
   {
     "id": 94,
     "name": "KBR006",
@@ -1241,8 +1244,9 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": "P 43 x L 52 x T 90 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-6.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-6.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-54.jpg"
+]},
   {
     "id": 95,
     "name": "KBR007",
@@ -1252,8 +1256,9 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": "P 40 x L 40 x T 115 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-7.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-7.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-3.jpg"
+]},
   {
     "id": 96,
     "name": "KBR008",
@@ -1263,8 +1268,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P  45 x 40 x 75 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-8.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-8.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-53.jpg"
+]},
   {
     "id": 97,
     "name": "KBR009",
@@ -1274,8 +1280,9 @@
     "material": "Kayu Jati Solid + Cushion + Rotan",
     "finishing": "Black Glossy ",
     "size": "P 45 x L 45 x T 115 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-9.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-9.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-56.jpeg"
+]},
   {
     "id": 80,
     "name": "KBR010",
@@ -1285,8 +1292,9 @@
     "material": "Kayu Jati Solid + Cushion + Rotan",
     "finishing": "Salak Brown ",
     "size": "P 40 x L 40 x T 115 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-10.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-10.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-51.jpeg"
+]},
   {
     "id": 81,
     "name": "KBR011",
@@ -1307,8 +1315,9 @@
     "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
     "size": "P 47 x L 40 x T 100 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-12.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-12.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-50.jpg"
+]},
   {
     "id": 83,
     "name": "KBR013",
@@ -1318,8 +1327,9 @@
     "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
     "size": " P 47 x L 53 x T 103 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-13.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-13.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-52.jpg"
+]},
   {
     "id": 84,
     "name": "KBR014",
@@ -1351,8 +1361,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 55 x L 45 x T 110 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-16.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-16.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-47.jpg"
+]},
   {
     "id": 88,
     "name": "KBR017",
@@ -1362,9 +1373,81 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": " P 45 x  L 40 x  T 105 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-18.jpg"
-  },
-
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-18.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-46.jpg"
+]},
+  {
+    "id": 748,
+    "name": "KBR018",
+    "category": "Kursi Bar",
+    "price": "Rp 450.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": " P 35 x  L 35 x  T 90 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-19.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-20.jpeg"
+]},
+  {
+    "id": 749,
+    "name": "KBR019",
+    "category": "Kursi Bar",
+    "price": "Rp 550.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": " P 50 x  L 50 x  T 120 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-21.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-22.jpg"
+]},
+  {
+    "id": 750,
+    "name": "KBR020",
+    "category": "Kursi Bar",
+    "price": "Rp 1.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Natural Brown",
+    "size": " P 45 x  L 45 x  T 90 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-23.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-24.jpg"
+]},
+  {
+    "id": 751,
+    "name": "KBR021",
+    "category": "Kursi Bar",
+    "price": "Rp 700.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Salak Brown",
+    "size": " P 44 x  L 44 x  T 88 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-25.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-26.jpg"
+]},
+  {
+    "id": 752,
+    "name": "KBR022",
+    "category": "Kursi Bar",
+    "price": "Rp 1.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Salak Brown",
+    "size": " P 46 x  L 51 x  T 100 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-27.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-28.jpeg"
+]},
+  {
+    "id": 753,
+    "name": "KBR023",
+    "category": "Kursi Bar",
+    "price": "Rp 700.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Salak Brown",
+    "size": " P 50 x  L 47 x  T 106 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-29.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-30.jpg"
+]},
   {
     "id": 98,
     "name": "KCF001",
