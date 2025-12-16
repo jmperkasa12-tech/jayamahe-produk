@@ -1575,8 +1575,9 @@
     "material": "Kayu Jati Solid + Cushion",
     "finishing": "Natural Brown",
     "size": "P 56 x L 52 x  T 80 Cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-4.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-4.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-62.jpeg"
+ ] },
   {
     "id": 118,
     "name": "KCF005",
@@ -1597,8 +1598,9 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": "P 56 x  L 53 x  T 78 Cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-6.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-6.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-60.jpeg"
+ ] },
   {
     "id": 120,
     "name": "KCF007",
@@ -1608,8 +1610,9 @@
     "material": "Kayu Jati Solid + Cushion + Rotan",
     "finishing": "Black Glossy ",
     "size": "P 58  x L 54 x T 75 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-7.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-7.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-59.jpeg"
+]},
   {
     "id": 121,
     "name": "KCF008",
@@ -1630,8 +1633,9 @@
     "material": "Kayu Jati Solid + Cushion",
     "finishing": "Natural Brown",
     "size": "P  54 x L 52 x  T 80 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-9.jpeg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-9.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-61.jpeg"
+ ] },
   {
     "id": 99,
     "name": "KCF010",
@@ -1685,8 +1689,9 @@
     "material": "Kayu Jati Solid + Cushion + Rotan",
     "finishing": "Natural Brown",
     "size": "P 57 x L 55 x T 75 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-14.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-14.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-57.jpeg"
+]},
   {
     "id": 104,
     "name": "KCF015",
@@ -1696,8 +1701,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 45 x  L 45 x T 85 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-15.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-15.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-56.jpeg"
+]},
   {
     "id": 105,
     "name": "KCF016",
@@ -1707,8 +1713,9 @@
     "material": "Kayu Jati Solid + Cushion",
     "finishing": "Natural Brown",
     "size": " P 56 x  L 53 x  T 78 cm ",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-16.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-16.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-58.jpeg"
+ ] },
   {
     "id": 106,
     "name": "KCF017",
@@ -1751,8 +1758,9 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": "P 63 x L 53 x  T 85 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-20.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-20.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-55.jpeg"
+]},
   {
     "id": 111,
     "name": "KCF021",
@@ -1762,8 +1770,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 54 X  L 43 x  T 75 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-21.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-21.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-54.jpeg"
+]},
   {
     "id": 112,
     "name": "KCF022",
@@ -1773,8 +1782,9 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": "P  64 x  L 60 x T 60 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-22.jpeg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-22.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-53.jpeg"
+]},
   {
     "id": 113,
     "name": "KCF023",
@@ -1795,8 +1805,9 @@
     "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown",
     "size": "P 54 x  L 50 xT 75  cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-24.jpeg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-24.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-52.jpeg"
+ ] },
     {
     "id": 417,
     "name": "KCF0025",
@@ -1905,8 +1916,9 @@
     "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown ",
     "size": "P 40 X  L 44 X T 79  cm ",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-34.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-34.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-51.jpeg"
+]},
   {
     "id": 427,
     "name": "KCF0035",
@@ -1971,8 +1983,9 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown ",
     "size": "P 60 X  L 70 X T 85  cm ",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-41.jpeg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-41.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-50.jpeg"
+ ] },
       {
     "id": 433,
     "name": "KCF0041",
@@ -1982,8 +1995,9 @@
     "material": "Kayu Jati Solid + Cushion ",
     "finishing": "Natural Brown ",
     "size": "P 55 X  L 50 X T 80  cm ",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-42.jpeg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-42.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-49.jpeg"
+]},
   {
     "id": 434,
     "name": "KCF0042",
