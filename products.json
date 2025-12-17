@@ -10190,6 +10190,94 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-7.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-8.jpg"]
   },
+     {
+    "id": 767,
+    "name": "LG005",
+    "category": "Lounger",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Salak Brown ",
+    "size": [
+      "P 200 x L 60 x T 70 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-9.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-10.jpg"]
+  },
+       {
+    "id": 768,
+    "name": "LG006",
+    "category": "Lounger",
+    "price": "Rp 2.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan Sintetis",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 200 x L 70 x T 80 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-11.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-12.jpg"]
+  },
+    {
+    "id": 769,
+    "name": "LG007",
+    "category": "Lounger",
+    "price": "Rp 3.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan Sintetis",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 180 x L 80 x T 80 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-13.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-14.jpg"]
+  },
+     {
+    "id": 770,
+    "name": "LG008",
+    "category": "Lounger",
+    "price": "Rp 3.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 200 x L 80 x T 35 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-15.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-16.jpeg"]
+  }, 
+      {
+    "id": 771,
+    "name": "LG009",
+    "category": "Lounger",
+    "price": "Rp 1.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 180 x L 70 x T 80 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-17.jpeg"
+  },
+      {
+    "id": 772,
+    "name": "LG010",
+    "category": "Lounger",
+    "price": "Rp 1.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": [
+      "P 200 x L 70 x T 80 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-18.jpeg"
+  },
     {
     "id": 681,
     "name": "MR001",
