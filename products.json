@@ -3369,6 +3369,101 @@
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-102.jpg"
   ]
 },
+{
+  "id": 761,
+  "name": "KTM070",
+  "category": "Kursi Tamu",
+  "price": "Rp 7.500.000",
+  "stock": "Pre-order",
+  "material": "Kayu Jati Solid + Cushion",
+  "finishing": "Natural Brown",
+  "size": [
+    "Sudut L : P (220 x 160) x L 70 x T 75 cm",
+    "Meja : P 120 x L 55 x T 45 cm"
+  ],
+  "images": [
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-120.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-121.jpg"
+  ]
+},
+{
+  "id": 762,
+  "name": "KTM071",
+  "category": "Kursi Tamu",
+  "price": "Rp 6.000.000",
+  "stock": "Pre-order",
+  "material": "Kayu Jati Solid + Cushion",
+  "finishing": "Salak Brown ",
+  "size": [
+    "Sudut L : P (250 x 160) x L 70 x T 75 cm",
+    "Meja : P 120 x L 55 x T 45 cm"
+  ],
+  "images": [
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-122.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-123.jpeg"
+  ]
+},
+{
+  "id": 763,
+  "name": "KTM072",
+  "category": "Kursi Tamu",
+  "price": "Rp 9.000.000",
+  "stock": "Pre-order",
+  "material": "Kayu Jati Solid + Cushion",
+  "finishing": "Natural Brown",
+  "size": [
+    "Sudut L : P (220 x 160) x L 80 x T 75 cm",
+    "Meja : P 120 x L 55 x T 45 cm"
+  ],
+  "images": [
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-124.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-125.jpeg"
+  ]
+},
+{
+  "id": 764,
+  "name": "KTM073",
+  "category": "Kursi Tamu",
+  "price": "Rp 5.000.000",
+  "stock": "Pre-order",
+  "material": "Kayu Jati Solid + Cushion",
+  "finishing": "Natural Brown",
+  "size": 
+    "Sudut L : P (220 x 160) x L 70 x T 75 cm",
+  "images": [
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-126.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-127.jpg"
+  ]
+},
+{
+  "id": 765,
+  "name": "KTM074",
+  "category": "Kursi Tamu",
+  "price": "Rp 5.000.000",
+  "stock": "Pre-order",
+  "material": "Kayu Jati Solid + Cushion",
+  "finishing": "Natural Brown",
+  "size": 
+    "Sudut L : P (220 x 160) x L 70 x T 75 cm",
+  "images": [
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-128.png",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-129.png"
+  ]
+},
+{
+  "id": 766,
+  "name": "KTM075",
+  "category": "Kursi Tamu",
+  "price": "Rp 5.500.000",
+  "stock": "Pre-order",
+  "material": "Kayu Jati Solid + Cushion",
+  "finishing": "Natural Brown",
+  "size": "Sudut L : P (235 x 160) x L 70 x T 75 cm",
+  "images": [
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-130.png",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-131.png"
+  ]
+},
   {
     "id": 161,
     "name": "KTR001",
