@@ -1532,6 +1532,54 @@
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-45.jpg"
 ]},
   {
+    "id": 773,
+    "name": "KBR031",
+    "category": "Kursi Bar",
+    "price": "Rp 600.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Besi",
+    "finishing": "Natural Brown",
+    "size": " P 51 x L 51 x T 94 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-65.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-66.jpeg"
+]},
+  {
+    "id": 774,
+    "name": "KBR032",
+    "category": "Kursi Bar",
+    "price": "Rp 600.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Besi",
+    "finishing": "Salak Brown",
+    "size": " P 51 x L 51 x T 94 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-65.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-66.jpeg"
+]},
+  {
+    "id": 775,
+    "name": "KBR033",
+    "category": "Kursi Bar",
+    "price": "Rp 600.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Salak Brown",
+    "size": " P 51 x L 51 x T 94 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-69.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-70.jpeg"
+]},
+  {
+    "id": 775,
+    "name": "KBR033",
+    "category": "Kursi Bar",
+    "price": "Rp 600.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Salak Brown",
+    "size": " P 51 x L 51 x T 94 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-69.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-bar-70.jpeg"
+]},
+  {
     "id": 98,
     "name": "KCF001",
     "category": "Kursi Cafe",
