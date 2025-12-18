@@ -2368,6 +2368,18 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-47.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-48.jpg"
 ]},
+    {
+    "id": 796,
+    "name": "KCF0047",
+    "category": "Kursi Cafe",
+    "price": "Rp 1.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Natural Brown ",
+    "size": "P 65 x  L 65 x  T 70 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-47.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-48.jpg"
+]},
   {
     "id": 124,
     "name": "KGY001",
