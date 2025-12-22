@@ -3909,8 +3909,9 @@
       "1 Seat: P 60 x L 50 x T 80 cm",
       "Meja: P 50 x L 55 x T 55 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-2.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-2.jpg",
+             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-57.jpeg"
+]},
   {
     "id": 180,
     "name": "KTR003",
@@ -3938,8 +3939,9 @@
       "1 Seat: P 50 x L 50 x T 75 cm",
       "Meja: P 55 x L 55 x T 55 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-4.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-4.jpg",
+             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-23.jpg"
+]},
   {
     "id": 182,
     "name": "KTR005",
@@ -3966,8 +3968,9 @@
       "1 Seat: P 60 x L 70 x T 80 cm",
       "Meja: P 120 x L 60 x T 45 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-6.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-6.jpg",
+             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-56.jpg"
+]},
   {
     "id": 184,
     "name": "KTR007",
@@ -3980,8 +3983,9 @@
       "1 Seat: P 55 x L 45 x T 80 cm",
       "Meja: P 50 x L 50 x T 55  cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-7.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-7.jpg",
+         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-45.jpeg"
+]},
   {
     "id": 185,
     "name": "KTR008",
@@ -3994,8 +3998,9 @@
       "1 Seat: P 60 x L 50 x T 80 cm",
       "Meja: P 50 x L 55 x T 70 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-8.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-8.jpg",
+         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-53.jpg"
+]},
   {
     "id": 186,
     "name": "KTR009",
@@ -4009,8 +4014,9 @@
       "1 Seat : P 62 x L 50 x T 80",
       "Meja: P 120 x L 60 x T 45 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-9.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-9.jpg",
+             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-55.jpg"
+]},
   {
     "id": 162,
     "name": "KTR010",
@@ -4023,8 +4029,9 @@
       "1 Seat: P 52 x L 55 x T 77 cm",
       "Meja: P 50 x L 50 x T 55 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-10.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-10.jpg",
+             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-54.png"
+]},
   {
     "id": 163,
     "name": "KTR011",
@@ -4037,8 +4044,9 @@
       "1 Seat: P 55 x L 50 x T 80 cm",
       "Meja: P 50 x L 50 x T 55 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-11.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-11.jpg",
+         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-52.jpeg"
+]},
   {
     "id": 164,
     "name": "KTR012",
@@ -4051,8 +4059,9 @@
       "1 Seat: P 60 x L 50 x T 80 cm",
       "Meja: P 55 x L 55 x T 70 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-12.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-12.jpg",
+         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-42.jpeg"
+]},
   {
     "id": 165,
     "name": "KTR013",
@@ -4079,8 +4088,9 @@
       "1 Seat: P 50 x L 40 x T 75 cm",
       "Meja: P 50 x L 50 x T 40 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-14.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-14.jpg",
+         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-51.jpg"
+]},
   {
     "id": 167,
     "name": "KTR015",
@@ -4093,8 +4103,9 @@
       "1 Seat: P 60 x L 50 x T 80 cm",
       "Meja: P 50 x L 50 x T 55 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-15.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-15.jpg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-41.jpeg"
+ ] },
   {
     "id": 168,
     "name": "KTR016",
@@ -4107,8 +4118,9 @@
       "1 Seat: P 58 x L 44 x T 80 cm",
       "Meja: P 50 x L 50 x T 50 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-16.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-16.jpg",
+         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-50.jpg"
+]},
   {
     "id": 169,
     "name": "KTR017",
@@ -4149,8 +4161,9 @@
       "1 Seat: P 45 x L 40 x T 80 cm",
       "Meja: P 60 x L 60 x T 75 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-19.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-19.jpg",
+         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-43.jpeg"
+]},
   {
     "id": 173,
     "name": "KTR020",
@@ -4191,8 +4204,9 @@
       "1 Seat: P 62 x L 48 x T 90 cm",
       "Meja: P 53 x L 53 x T 53 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-22.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-22.jpg",
+         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-49.jpg"
+]},
   {
     "id": 176,
     "name": "KTR023",
@@ -4205,8 +4219,9 @@
       "1 Seat: P 50 x L 50 x T 77 cm",
       "Meja: P 55 x L 55 x T 55 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-23.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-23.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-4.jpg"
+]},
   {
     "id": 177,
     "name": "KTR024",
@@ -4233,8 +4248,9 @@
       "1 Seat: P 45 x L 40 x T 75 cm",
       "Meja: P 50 x L 50 x T 55 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-25.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-25.jpg",
+         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-47.jpg"
+]},
   {
     "id": 179,
     "name": "KTR026",
@@ -4277,7 +4293,7 @@
       "1 Seat: P 45 x L 45 x T 80 cm",
       "Meja: P 50 x L 50 x T 55 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-27.jpg"
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-29.jpg"
   },
     {
     "id": 720,
@@ -4292,8 +4308,9 @@
       "1 Seat: P 45 x L 45 x T 80 cm",
       "Meja: P 110 x L 55 x T 45 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-30.jpg"
-},
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-30.jpg",
+         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-46.jpg"
+]},
   {
     "id": 721,
     "name": "KTR030",
@@ -4338,7 +4355,7 @@
       "Meja: P 50 x L 50 x T 55 cm"
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-35.jpg",
-    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-35.jpg"
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-48.jpg"
 ]},
   {
     "id": 724,
