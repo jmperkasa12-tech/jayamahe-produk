@@ -9627,8 +9627,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown ",
     "size": "P 100 x L 40 X T 190 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-1.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-1.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-16.jpeg"
+]},
   {
     "id": 404,
     "name": "RH002",
@@ -9649,8 +9650,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown ",
     "size": "P 80 x L 36 X T 200 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-3.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-3.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-17.jpeg"
+]},
     {
     "id": 406,
     "name": "RH004",
@@ -9671,8 +9673,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Glosy",
     "size": "P 100 x L 40 X T 190 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-5.png"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-5.png",
+   "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-18.jpeg"
+]},
     {
     "id": 408,
     "name": "RH006",
@@ -9682,8 +9685,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Glosy",
     "size": "P 150 x L 40 X T 170 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-6.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-6.jpg",
+       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-9.jpeg"
+]},
     {
     "id": 409,
     "name": "RH007",
@@ -9693,8 +9697,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Glosy",
     "size": "P 55 x L 40 X T 180 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-7.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-7.jpg",
+       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-20.jpeg"
+]},
       {
     "id": 438,
     "name": "RH008",
@@ -9704,8 +9709,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Glosy",
     "size": "P 90 x L 45 X T 200 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-8.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-8.jpg",
+       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-21.jpeg"
+]},
       {
     "id": 439,
     "name": "RH009",
@@ -9715,8 +9721,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Glosy",
     "size": "P 100 x L 45 X T 200 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-9.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-9.jpg",
+       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-22.jpeg"
+]},
     {
     "id": 635,
     "name": "RH010",
