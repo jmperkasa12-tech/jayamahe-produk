@@ -9082,8 +9082,9 @@
       "180 x 200 cm — Rp 4.500.000",
       "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-16.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-16.jpg",
+             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-59.jpeg"
+]},
   {
     "id": 368,
     "name": "TTD002",
@@ -9130,8 +9131,9 @@
       "180 x 200 cm — Rp 4.500.000",
       "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-19.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-19.jpg",
+             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-58.jpeg"
+ ] },
   {
     "id": 371,
     "name": "TTD005",
@@ -9146,8 +9148,9 @@
       "180 x 200 cm — Rp 4.500.000",
       "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-20.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-20.jpg",
+             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-57.jpeg"
+]},
   {
     "id": 349,
     "name": "TTD006",
@@ -9162,8 +9165,9 @@
       "180 x 200 cm — Rp 4.500.000",
       "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-1.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-1.jpg",
+             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-56.jpeg"
+ ] },
   {
     "id": 356,
     "name": "TTD007",
@@ -9178,8 +9182,9 @@
       "180 x 200 cm — Rp 4.500.000",
       "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-2.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-2.jpg",
+             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-55.jepg"
+]},
   {
     "id": 357,
     "name": "TTD008",
@@ -9194,8 +9199,9 @@
       "180 x 200 cm — Rp 5.000.000",
       "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-3.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-3.jpg",
+             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-54.jpg"
+]},
   {
     "id": 358,
     "name": "TTD009",
@@ -9235,15 +9241,16 @@
     "price": "Mulai Rp 2.500.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Rotan ",
-    "finishing": "Natural Brown",
+    "finishing": "Black Glossy",
     "size": [
       "120 x 200 cm — Rp 2.500.000",
       "160 x 200 cm — Rp 3.300.000",
       "180 x 200 cm — Rp 4.500.000",
       "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-6.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-6.jpg",
+             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-49.jpeg"
+ ] },
   {
     "id": 361,
     "name": "TTD012",
@@ -9290,8 +9297,9 @@
       "180 x 200 cm — Rp 4.500.000",
       "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-9.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-9.jpg",
+             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-48.jpeg"
+]},
   {
     "id": 350,
     "name": "TTD015",
@@ -9306,8 +9314,9 @@
       "180 x 200 cm — Rp 4.500.000",
       "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-10.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-10.jpg",
+             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-47.jpg"
+ ] },
   {
     "id": 351,
     "name": "TTD016",
@@ -9322,8 +9331,9 @@
       "180 x 200 cm — Rp 4.500.000",
       "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-11.jpg"
-  },
+    "image": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-11.jpg",
+             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-46.jpeg"
+]},
   {
     "id": 352,
     "name": "TTD017",
@@ -9338,8 +9348,9 @@
       "180 x 200 cm — Rp 4.500.000",
       "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-12.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-12.jpg",
+             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-45.jpeg"
+ ] },
   {
     "id": 353,
     "name": "TTD018",
@@ -9354,8 +9365,9 @@
       "180 x 200 cm — Rp 4.500.000",
       "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-13.jpg"
-  },
+    "imagse":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-13.jpg",
+             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-44.jpg"
+ ] },
   {
     "id": 354,
     "name": "TTD019",
@@ -9370,8 +9382,9 @@
       "180 x 200 cm — Rp 4.500.000",
       "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-14.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-14.jpg",
+             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-43.jpeg"
+]},
   {
     "id": 355,
     "name": "TTD020",
@@ -9386,8 +9399,9 @@
       "180 x 200 cm — Rp 5.000.000",
       "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-15.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-15.jpg",
+         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-42.jpg"
+ ] },
   {
     "id": 540,
     "name": "TTD021",
@@ -9450,8 +9464,9 @@
       "180 x 200 cm — Rp 5.000.000",
       "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-24.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-24.jpg",
+         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-41.jpeg"
+]},
   {
     "id": 545,
     "name": "TTD025",
@@ -9485,8 +9500,9 @@
       "180 x 200 cm — Rp 5.000.000",
       "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-27.png"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-27.png",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-40.jpeg"
+]},
   {
     "id": 547,
     "name": "TTD027",
@@ -9533,7 +9549,7 @@
       "180 x 200 cm — Rp 5.000.000",
       "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-29.jpg"
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-30.jpg"
   },
   {
     "id": 550,
@@ -9565,8 +9581,9 @@
       "180 x 200 cm — Rp 5.000.000",
       "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-32.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-32.jpg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-39.jpeg"
+ ] },
   {
     "id": 673,
     "name": "TTD032",
