@@ -10112,8 +10112,9 @@
       "P 120 x L 80 X T 75 cm",
       "Custom ukuran bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-1.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-1.jpg",
+            "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-48.jpg"
+]},
    {
     "id": 468,
     "name": "MCF002",
@@ -10140,8 +10141,9 @@
       "P 80 x L 80 X T 75 cm",
       "Custom ukuran bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-3.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-3.jpg",
+            "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-47.jpg"
+ ] },
    {
     "id": 470,
     "name": "MCF004",
@@ -10154,8 +10156,9 @@
       "P 90 x L 90 X T 75 cm",
       "Custom ukuran bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-4.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-4.jpg",
+            "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-46.jpg"
+ ] },
    {
     "id": 471,
     "name": "MCF005",
@@ -10168,8 +10171,9 @@
       "P 80 x L 80 X T 75 cm",
       "Custom ukuran bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-6.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-6.jpg",
+            "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-45.jpg"
+]},
    {
     "id": 472,
     "name": "MCF006",
@@ -10196,8 +10200,9 @@
       "P 120 x L 80 X T 75 cm",
       "Custom ukuran bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-8.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-8.jpg",
+            "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-44.jpg"
+ ] },
    {
     "id": 474,
     "name": "MCF008",
@@ -10210,8 +10215,9 @@
       "P 90 x L 90 X T 75 cm",
       "Custom ukuran bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-9.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-9.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-43.jpg"
+]},
    {
     "id": 475,
     "name": "MCF009",
@@ -10238,8 +10244,9 @@
       "P 160 x L 90 X T 75 cm",
       "Custom ukuran bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-11.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-11.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-42.jpg"
+]},
    {
     "id": 477,
     "name": "MCF011",
@@ -10252,8 +10259,9 @@
       "P 180 x L 90 X T 75 cm",
       "Custom ukuran bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-12.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-12.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-41.jpg"
+]},
    {
     "id": 478,
     "name": "MCF012",
@@ -10266,8 +10274,9 @@
       "P 180 x L 80 X T 75 cm",
       "Custom ukuran bisa disesuaikan permintaan"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-13.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-13.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-39.jpeg"
+ ] },
    {
     "id": 479,
     "name": "MCF013",
