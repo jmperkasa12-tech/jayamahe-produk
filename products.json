@@ -9955,8 +9955,9 @@
     "material": "Kayu Jati Solid  ",
     "finishing": "Natural Glosy",
     "size": "P 55 x L 55 X T 55 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-1.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-1.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-23.jpeg"
+ ] },
  {
     "id": 453,
     "name": "MC002",
@@ -9966,8 +9967,9 @@
     "material": "Kayu Jati Solid + Besi  ",
     "finishing": "Natural Glosy",
     "size": "P 60 x L 60 X T 55 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-2.jpg"
-  }, 
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-2.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-24.jpeg"
+ ] }, 
  {
     "id": 454,
     "name": "MC003",
@@ -9977,8 +9979,9 @@
     "material": "Kayu Jati Solid   ",
     "finishing": "Natural Glosy",
     "size": "P 50 x L 50 X T 50 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-3.jpg"
-  }, 
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-3.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-22.jpeg"
+]}, 
  {
     "id": 455,
     "name": "MC004",
@@ -9988,8 +9991,9 @@
     "material": "Kayu Jati Solid   ",
     "finishing": "Natural Glosy",
     "size": "P 55 x L 55 X T 55 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-4.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-4.jpg",  
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-21.jpeg"
+]},
  {
     "id": 456,
     "name": "MC005",
@@ -9999,8 +10003,9 @@
     "material": "Kayu Jati Solid   ",
     "finishing": "Natural Glosy",
     "size": "P 55 x L 55 X T 55 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-5.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-5.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-20.jpeg"
+ ] },
  {
     "id": 457,
     "name": "MC006",
@@ -10010,8 +10015,9 @@
     "material": "Kayu Jati Solid   ",
     "finishing": "Natural Glosy",
     "size": "P 60 x L 60 X T 80 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-6.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-6.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-19.jpeg"
+]},
  {
     "id": 457,
     "name": "MC007",
@@ -10032,8 +10038,9 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Glosy",
     "size": "P 60 x L 60 X T 45 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-8.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-8.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-18.jpeg"
+]},
  {
     "id": 465,
     "name": "MC009",
@@ -10043,19 +10050,56 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Glosy",
     "size": "P 80 x L 80 X T 55 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-9.jpg"
-  },
+    "images":["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-9.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-11.jpeg"
+ ] },
  {
     "id": 466,
-    "name": "MC009",
+    "name": "MC010",
     "category": "Meja Coffe",
     "price": "Rp 800.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Salak Brown ",
     "size": "P 50 x L 50 X T 57 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-9.jpg"
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-10.jpg"
   },
+   {
+    "id": 817,
+    "name": "MC011",
+    "category": "Meja Coffe",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Natural Glosy",
+    "size": "P 100 x L 55 X T 45 cm",
+    "images":["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-12.jepg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-13.jpeg"
+ ] },
+    {
+    "id": 818,
+    "name": "MC012",
+    "category": "Meja Coffe",
+    "price": "Rp 700.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Glosy",
+    "size": "P 50 x L 50 X T 45 cm",
+    "images":["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-15.jepg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-14.jpeg"
+ ] },
+     {
+    "id": 819,
+    "name": "MC013",
+    "category": "Meja Coffe",
+    "price": "Rp 850.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Glosy",
+    "size": "P 50 x L 50 X T 45 cm",
+    "images":["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-17.jepg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-16.jpeg"
+ ] },
    {
     "id": 467,
     "name": "MCF001",
