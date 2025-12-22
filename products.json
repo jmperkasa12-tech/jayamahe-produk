@@ -515,7 +515,7 @@
     "finishing": "Salak Brown",
     "size": "P 150 x L 45 x T 60 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-20.jpg",
-        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-88.jpeg"
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-88.jpg"
 ]},
   {
     "id": 14,
@@ -549,9 +549,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 200 x L 40 x T 60 cm",
-    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-23.jpg",
-        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-86.jpeg"
-]},
+    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-23.jpg"
+        
+},
   {
     "id": 17,
     "name": "BUF023",
@@ -562,7 +562,7 @@
     "finishing": "Natural Brown",
     "size": "P 150 x L 45 x T 80 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-24.jpg",
-        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-85.jpeg"
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-86.jpeg"
 ]},
   {
     "id": 18,
@@ -573,8 +573,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown",
     "size": "P 150 x L 45 x T 80 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-25.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-25.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-85.jpeg"
+]},
   {
     "id": 19,
     "name": "BUF025",
@@ -619,7 +620,7 @@
     "finishing": "Natural Brown",
     "size": "P 150 x L 45 x T 65 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-29.jpg",
-        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-83.jpeg"
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-99.jpg"
 ]},
   {
     "id": 482,
@@ -631,7 +632,7 @@
     "finishing": "Natural Brown",
     "size": "P 200 x L 45 x T 70 cm",
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-30.jpg",
-        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-82.jpeg"
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-83.jpeg"
 ]},
   {
     "id": 483,
@@ -642,8 +643,9 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": "P 180 x L 45 x T 65 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-31.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-31.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-82.jpeg"
+]},
   {
     "id": 484,
     "name": "BUF031",
