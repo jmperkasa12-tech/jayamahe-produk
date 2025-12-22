@@ -7369,8 +7369,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 90 x L 40 x T 75 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-1.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-1.jpg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-29.jpg"
+]},
   {
     "id": 250,
     "name": "NKS002",
@@ -7380,8 +7381,9 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": "P 50 x L 40 x T 60 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-2.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-2.jpg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-28.jpg"
+]},
   {
     "id": 251,
     "name": "NKS003",
@@ -7391,8 +7393,9 @@
     "material": "Kayu Jati Solid ",
     "finishing": "Natural Brown",
     "size": "P 50 x L 40 x T 65 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-3.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-3.jpg",
+ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-27.jpg"
+]},
   {
     "id": 252,
     "name": "NKS004",
@@ -7402,8 +7405,9 @@
     "material": "Kayu Jati Solid  + Rotan",
     "finishing": "Natural Brown",
     "size": "P 50 x L 40 x T 60 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-4.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-4.jpg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-26.jpg"
+]},
   {
     "id": 253,
     "name": "NKS005",
@@ -7424,8 +7428,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 50 x L 40 x T 60 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-6.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-6.jpg",
+ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-25.jpeg"
+]},
   {
     "id": 255,
     "name": "NKS007",
@@ -7435,8 +7440,9 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": "P 50 x L 40 x T 60 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-7.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-7.jpg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-24.jpeg"
+]},
     {
     "id": 410,
     "name": "NKS008",
@@ -7446,8 +7452,9 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": "P 55 x L 40 x T 55 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-8.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-8.jpg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-23.jpeg"
+]},
       {
     "id": 411,
     "name": "NKS009",
