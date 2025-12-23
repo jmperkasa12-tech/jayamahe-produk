@@ -4790,8 +4790,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 160 x L 55 x T 200 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-1.jpg"
-  },
+    "images":["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-1.jpg",
+            "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-76.jpg"
+]},
   {
     "id": 53,
     "name": "LMP002",
@@ -4812,8 +4813,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 160 x L 50 x T 210 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-3.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-3.jpg",
+            "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-75.jpg"
+]},
   {
     "id": 60,
     "name": "LMP004",
@@ -4834,8 +4836,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 100 x L 50 x T 190 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-5.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-5.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-61.jpg"
+]},
   {
     "id": 62,
     "name": "LMP006",
@@ -4867,8 +4870,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 150 x L 50 x T 200 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-8.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-8.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-68.jpg"
+ ] },
   {
     "id": 65,
     "name": "LMP009",
@@ -4889,8 +4893,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 100 x L 50 x T 210 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-10.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-10.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-67.jpg"
+]},
   {
     "id": 44,
     "name": "LMP011",
@@ -4900,8 +4905,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 100 x L 50 x T 210 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-11.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-11.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-66.jpg"
+]},
   {
     "id": 45,
     "name": "LMP012",
@@ -4933,8 +4939,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 100 x L 50 x T 210 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-14.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-14.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-64.jpg"
+]},
   {
     "id": 48,
     "name": "LMP015",
@@ -4944,8 +4951,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 150 x L 55 x T 210 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-15.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-15.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-63.jpg"
+]},
   {
     "id": 49,
     "name": "LMP016",
@@ -4977,8 +4985,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 160 x L 60 x T 200 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-19.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-19.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-69.jpg"
+]},
   {
     "id": 52,
     "name": "LMP020",
@@ -5010,8 +5019,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 120 x L 60 x T 220 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-23.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-23.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-62.jpg"
+]},
   {
     "id": 56,
     "name": "LMP023",
@@ -5065,8 +5075,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown ",
     "size": "P 150 x L 55 x T 210 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-28.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-28.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-70.jpeg"
+]},
   {
     "id": 535,
     "name": "LMP028",
@@ -5076,8 +5087,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown ",
     "size": "P 120 x L 55 x T 200 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-29.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-29.jpg",
+            "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-71.jpeg"
+ ] },
   {
     "id": 536,
     "name": "LMP029",
@@ -5087,8 +5099,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown ",
     "size": "P 100 x L 50 x T 210 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-30.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-30.jpg",
+            "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-72.jpeg"
+]},
   {
     "id": 537,
     "name": "LMP030",
@@ -5098,8 +5111,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown ",
     "size": "P 100 x L 50 x T 210 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-31.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-31.jpg",
+            "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-73.jpeg"
+]},
   {
     "id": 538,
     "name": "LMP031",
@@ -5109,8 +5123,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown ",
     "size": "P 120 x L 55 x T 210 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-32.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-32.jpg",
+            "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-74.jpeg"
+ ] },
   {
     "id": 539,
     "name": "LMP032",
@@ -5142,8 +5157,9 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown ",
     "size": "P 210 x L 55 x T 230 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-36.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-36.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-65.jpg"
+]},
   {
     "id": 554,
     "name": "LMP035",
