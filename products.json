@@ -1082,8 +1082,9 @@
   "material": "Kayu Jati Solid / Kayu Kelapa (bisa request)",
     "finishing": "Natural Brown + Duco",
     "size": "P 90 x L 30 x T 230 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-1.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-1.jpg",
+         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-21.jpg"
+]},
   {
     "id": 382,
     "name": "JHS002",
@@ -1093,8 +1094,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown + Duco",
     "size": "P 90 x L 30 x T 230 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-2.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-2.jpg",
+         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-22.jpg"
+]},
   {
     "id": 383,
     "name": "JHS003",
@@ -1104,8 +1106,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown + Duco",
     "size": "P 115 x L 35 x T 250 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-3.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-3.jpg",
+         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-20.jpg"
+]},
   {
     "id": 384,
     "name": "JHS004",
@@ -1115,8 +1118,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown + Silver Duco ",
     "size": "P 110 x L 40 x T 260 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-4.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-4.jpg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-18.jpg"
+]},
   {
     "id": 385,
     "name": "JHS005",
@@ -1126,8 +1130,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown + Duco",
     "size": "P 110 x L 40 x T 260 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-5.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-5.jpg",
+         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-jam-19.jpg"
+ ] },
   {
     "id": 714,
     "name": "JHS006",
@@ -4397,8 +4402,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown + Silver Duco ",
     "size": "P 160 x L 50 x T 200 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-1.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-1.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-34.jpg"
+]},
   {
     "id": 33,
     "name": "LMH002",
@@ -4408,8 +4414,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 100 x L 50 x T 200 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-2.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-2.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-36.jpg"
+]},
   {
     "id": 34,
     "name": "LMH003",
@@ -4419,8 +4426,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown + Duco",
     "size": "P 120 x L 45 x T 230 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-3.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-3.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-38.jpg"
+]},
   {
     "id": 35,
     "name": "LMH004",
@@ -4430,8 +4438,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown + Duco",
     "size": "P 160 x L 45 x T 230 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-4.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-4.jpg",
+            "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-37.jpg"
+]},
   {
     "id": 36,
     "name": "LMH005",
@@ -4441,8 +4450,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown + Duco",
     "size": "P 250 x L 50 x T 235 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-5.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-5.jpg",
+                "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-54.jpg"
+]},
   {
     "id": 37,
     "name": "LMH006",
@@ -4452,8 +4462,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown + Gold Duco",
     "size": "P 160 x L 50 x T 230 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-6.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-6.jpg",
+            "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-40.jpg"
+]},
   {
     "id": 38,
     "name": "LMH007",
@@ -4463,8 +4474,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown",
     "size": "P 200 x L 50 x T 200 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-7.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-7.jpg",
+                "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-52.jpg"
+]},
   {
     "id": 39,
     "name": "LMH008",
@@ -4507,8 +4519,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 90 x L 55 x T 210 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-11.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-11.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-35.jpg"
+]},
   {
     "id": 30,
     "name": "LMH012",
@@ -4518,8 +4531,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown + Duco",
     "size": "P 70 x L 55 x T 230 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-12.jpg"
-  },
+    "imagse": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-12.jpg",
+            "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-39.jpg"
+]},
   {
     "id": 31,
     "name": "LMH013",
@@ -4529,8 +4543,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown + Silver Duco ",
     "size": "P 80 x L 55 x T 210 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-13.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-13.jpg",
+                "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-41.jpg"
+]},
   {
     "id": 32,
     "name": "LMH014",
@@ -4540,8 +4555,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 70 x L 55 x T 230 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-14.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-14.jpg",
+                "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-42.jpg"
+]},
   {
     "id": 514,
     "name": "LMH015",
@@ -4562,8 +4578,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "WHite Duco + Gold ",
     "size": "P  120 x L 40 x  T 200 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-16.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-16.jpg",
+                "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-43.jpg"
+]},
    {
     "id": 516,
     "name": "LMH017",
@@ -4573,8 +4590,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown ",
     "size": "P  80 x L 55 x T 210 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-17.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-17.jpg",
+                "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-44.jpg"
+]},
    {
     "id": 517,
     "name": "LMH018",
@@ -4595,8 +4613,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Gold Duco",
     "size": "P  250 x L 45 x T 270 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-19.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-19.jpg",          
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-51.jpg"
+]},
    {
     "id": 519,
     "name": "LMH020",
@@ -4609,8 +4628,9 @@
       "Buffet : P 160 X L 45 X T 80 Cm",
       "Lemari 1 Pintu kaca : P 55 X L 45 X T 210 Cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-20.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-20.jpg",
+                "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-45.jpg"
+ ] },
    {
     "id": 520,
     "name": "LMH021",
@@ -4620,8 +4640,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown ",
     "size": "P  100 x L 45 x T 185 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-21.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-21.jpg",
+                "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-50.jpg"
+]},
    {
     "id": 521,
     "name": "LMH022",
@@ -4631,8 +4652,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown ",
     "size": "P  65 x L 65 x T 220 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-22.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-22.jpg",
+                "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-49.jpg"
+]},
    {
     "id": 522,
     "name": "LMH023",
@@ -4664,8 +4686,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown ",
     "size": "P  200 x L 45 x T 230 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-25.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-25.jpg",
+                "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-56.jpg"
+]},
    {
     "id": 525,
     "name": "LMH026",
@@ -4675,8 +4698,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown ",
     "size": "P  150 x L 50 x T 200 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-26.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-26.jpg",
+                "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-46.jpg"
+]},
    {
     "id": 526,
     "name": "LMH027",
@@ -4686,8 +4710,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown ",
     "size": "P  100 x L 45 x T 185 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-27.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-27.png",
+                "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-47.jpg"
+]},
    {
     "id": 527,
     "name": "LMH028",
@@ -4730,8 +4755,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Duco",
     "size": "P  70 x L 40 x T 180 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-31.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-31.jpg",
+                "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-57.jpeg"
+]},
    {
     "id": 532,
     "name": "LMH032",
@@ -4739,10 +4765,11 @@
     "price": "Rp 4.800.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
-    "finishing": "Duco",
+    "finishing": "Salak Brown ",
     "size": "P  150 x L 40 x T 200 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-32.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-32.jpg",
+                "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-55.jpg"
+ ] },
    {
     "id": 533,
     "name": "LMH033",
