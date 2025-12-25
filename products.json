@@ -2651,8 +2651,9 @@
       "Meja Besar: P 120 x L 80 x T 40 cm",
       "Meja Kecil : P 50 x L 50 x T 40 cm "
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-3.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-3.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-142.jpeg"
+]},
   {
     "id": 155,
     "name": "KTM004",
@@ -2680,8 +2681,9 @@
       "Sudut L : P (260 x 200) x L 55 x T 45 cm",
       "Meja: P 110 x L 60 x T 45 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-5.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-5.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-148.jpeg"
+]},
   {
     "id": 157,
     "name": "KTM006",
@@ -2819,8 +2821,9 @@
         "1 Seat = P 80 x L 85 x T 82 cm",
         "Meja = P 120 x L 58 x T 42 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-14.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-14.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-135.jpeg"
+]},
   {
     "id": 139,
     "name": "KTM015",
@@ -2833,8 +2836,9 @@
       "Sudut L : P (240x190)  x L 45  x T 45 cm",
       "Meja: P 100 x L 60 x T 45 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-15.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-15.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-134.jpg"
+]},
   {
     "id": 140,
     "name": "KTM016",
@@ -2862,8 +2866,9 @@
       "1 Seat: P 60 x L 70 x T 80 cm",
       "Meja: P 120 x L 60 x T 45 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-17.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-17.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-144.jpeg"
+]},
   {
     "id": 142,
     "name": "KTM018",
@@ -2969,8 +2974,9 @@
       "Sudut L : P (260 x 200) x L 55 x T 45 cm",
       "Meja: P 120 x L 60 x T 45 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-24.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-24.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-132.jpg"
+]},
   {
     "id": 150,
     "name": "KTM025",
@@ -2998,8 +3004,9 @@
       "Sudut L : P (250x190) x L 45 x T 40 cm",
       "Meja: P 102 x L 55 x T 43 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-26.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-26.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-139.jpeg"
+]},
   {
     "id": 152,
     "name": "KTM027",
@@ -3013,8 +3020,10 @@
       "1 Seat: P 70 x L 60 x T 85 cm",
       "Meja: P 102 x L 53 x T 33 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-27.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-27.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-133.jpeg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-143.jpeg"
+]},
   {
     "id": 153,
     "name": "KTM028",
