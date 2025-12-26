@@ -1077,6 +1077,30 @@
               "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-18.jpg"
 ]},
   {
+    "id": 835,
+    "name": "GZB012",
+    "category": "Gazebo",
+    "price": "Rp -",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid / Kayu Kelapa (bisa request)",
+    "finishing": "Salak Brown ",
+    "size": "Custom, bisa request mulai per meter (menyesuaikan kebutuhan)",
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-19.jpg",
+              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-20.jpg"
+]},
+  {
+    "id": 836,
+    "name": "GZB013",
+    "category": "Gazebo",
+    "price": "Rp -",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid / Kayu Kelapa (bisa request)",
+    "finishing": "Salak Brown ",
+    "size": "Custom, bisa request mulai per meter (menyesuaikan kebutuhan)",
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-21.jpg",
+              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-gazebo-22.jpg"
+]},
+  {
     "id": 41,
     "name": "JHS001",
     "category": "Jam Hias",
@@ -9952,7 +9976,7 @@
   {
     "id": 403,
     "name": "RH001",
-    "category": "Rak hias",
+    "category": "Rak hias",   
     "price": "Rp 2.300.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
