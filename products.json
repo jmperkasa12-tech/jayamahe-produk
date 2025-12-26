@@ -586,8 +586,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown",
     "size": "P 150 x L 45 x T 60 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-26.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-26.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/b-buffet-106.jpeg"
+]},
   {
     "id": 20,
     "name": "BUF026",
@@ -9930,6 +9931,23 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-52.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-53.jpg"]
+  },
+          {
+    "id": 834,
+    "name": "TTD037",
+    "category": "Tempat Tidur",
+    "price": "Mulai Rp 3.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": [
+      "120 x 200 cm — Rp 3.000.000",
+      "160 x 200 cm — Rp 3.800.000",
+      "180 x 200 cm — Rp 5.000.000",
+      "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-60.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-61.jpeg"]
   },
   {
     "id": 403,
