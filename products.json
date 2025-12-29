@@ -2668,8 +2668,9 @@
       "Sudut L : P (240x190)  x L 45  x T 45 cm",
       "Meja: P 100 x L 60 x T 45 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-2.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-2.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-145.jpeg"
+ ] },
   {
     "id": 154,
     "name": "KTM003",
@@ -2701,8 +2702,10 @@
       "1 Seat: P 80 x L 60 x T 90 cm",
       "Meja: P 110 x L 55 x T 45 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-4.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-4.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-150.jpeg",
+            "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-152.jpeg"
+]},
   {
     "id": 156,
     "name": "KTM005",
@@ -2763,8 +2766,9 @@
       "1 Seat: P 80 x L 55 x T 83 cm",
       "Meja:  P 105 x L 55 x T 40 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-8.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-8.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-146.jpeg"
+]},
   {
     "id": 160,
     "name": "KTM009",
@@ -2793,8 +2797,9 @@
       "1 Seat: P 60 x L 70 x T 80 cm",
       "Meja: P 120 x L 60 x T 45 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-10.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-10.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-153.jpeg"
+]},
   {
     "id": 135,
     "name": "KTM011",
@@ -2809,8 +2814,9 @@
       "1 Seat: P 60 x L 70 x T 80 cm",
       "Meja: P 120 x L 60 x T 45 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-11.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-11.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-159.jpeg"
+]},
   {
     "id": 136,
     "name": "KTM012",
@@ -2871,7 +2877,7 @@
       "Meja: P 100 x L 60 x T 45 cm"
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-15.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-134.jpg"
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-134.jpeg"
 ]},
   {
     "id": 140,
@@ -2901,7 +2907,7 @@
       "Meja: P 120 x L 60 x T 45 cm"
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-17.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-144.jpeg"
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-158.jpeg"
 ]},
   {
     "id": 142,
@@ -2931,8 +2937,9 @@
       "1 Seat: P 60 x L 60 x T 80 cm",
       "Meja: P 60 x L 60 x T 55 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-19.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-19.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-154.jpeg"
+]},
   {
     "id": 145,
     "name": "KTM020",
@@ -2962,8 +2969,9 @@
       "Sudut L : P (250x190)  x L 45  x T 45 cm",
       "Meja: P 120 x L 60 x T 45 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-21.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-21.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-147.jpeg"
+]},
   {
     "id": 147,
     "name": "KTM022",
@@ -2978,8 +2986,9 @@
       "1 Seat: P 60 x L 70 x T 80 cm",
       "Meja: P 120 x L 60 x T 45 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-22.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-22.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-156.jpeg"
+]},
   {
     "id": 148,
     "name": "KTM023",
@@ -2994,8 +3003,9 @@
       "1 Seat: P 60 x L 70 x T 80 cm",
       "Meja: P 120 x L 60 x T 45 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-23.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-23.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-157.jpeg"
+]},
   {
     "id": 149,
     "name": "KTM024",
@@ -3931,6 +3941,59 @@
   "images": [
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-130.png",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-131.png"
+  ]
+},
+{
+  "id": 837,
+  "name": "KTM076",
+  "category": "Kursi Tamu",
+  "price": "Rp 2.800.000",
+  "stock": "Pre-order",
+  "material": "Kayu Jati Solid",
+  "finishing": "Natural Brown",
+  "size": [" 2 Seat : P 130  x  L 55 x  T 80 cm",
+  " 1 Seat : P 58  x  L 55 x  T 80 cm",
+  "Meja : P 100 x L 55 x T 45 cm"
+],
+  "images": [
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-137.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-138.jpeg"
+  ]
+},
+{
+  "id": 838,
+  "name": "KTM077",
+  "category": "Kursi Tamu",
+  "price": "Rp 5.500.000",
+  "stock": "Pre-order",
+  "material": "Kayu Jati Solid",
+  "finishing": "Natural Brown",
+  "size": [
+      "3 Seat: P 180 x L 60 x T 80 cm",
+      "2 Seat = P 120 x L 60 x T 82 cm",
+      "1 Seat: P 60 x L 60 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+],
+  "images": [
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-140.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-141.jpeg"
+  ]
+},
+{
+  "id": 839,
+  "name": "KTM078",
+  "category": "Kursi Tamu",
+  "price": "Rp 5.500.000",
+  "stock": "Pre-order",
+  "material": "Kayu Jati Solid + Cushion + Rotan",
+  "finishing": "Natural Brown",
+  "size": [
+      "3 Seat: P 180 x L 85 x T 80 cm",
+      "Meja: P 120 x L 60 x T 45 cm"
+],
+  "images": [
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-160.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-161.jpeg"
   ]
 },
   {
