@@ -5102,8 +5102,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 150 x L 55 x T 210 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-27.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-27.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-77.jpeg"
+]},
   {
     "id": 534,
     "name": "LMP027",
