@@ -7429,8 +7429,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 90 x L 40 x T 75 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-5.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-5.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-47.jpg"
+]},
   {
     "id": 272,
     "name": "MJR006",
@@ -7451,8 +7452,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 100 x L 40 x T 170 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-7.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-7.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-49.jpg"
+]},
   {
     "id": 274,
     "name": "MJR008",
@@ -7473,8 +7475,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 95 x L 40 x T 120 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-9.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-9.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-46.jpg"
+]},
   {
     "id": 257,
     "name": "MJR010",
@@ -7506,8 +7509,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 100 x L 40 x T 170 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-12.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-12.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-51.jpg"
+]},
   {
     "id": 260,
     "name": "MJR013",
@@ -7539,8 +7543,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": " P 120 x L 40 x T 175 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-15.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-15.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-53.jpg"
+]},
   {
     "id": 263,
     "name": "MJR016",
@@ -7578,13 +7583,14 @@
     "id": 266,
     "name": "MJR019",
     "category": "Meja Rias",
-    "price": "Rp 0",
+    "price": "Rp 2.800.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown + Duco",
     "size": "P 90 x L 40 x T 140 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-19.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-19.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-48.jpg"
+]},
   {
     "id": 268,
     "name": "MJR020",
@@ -7605,8 +7611,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown ",
     "size": "P 100 x L 40 x T 160 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-21.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-21.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-50.jpg"
+]},
       {
     "id": 413,
     "name": "MJR022",
@@ -7638,8 +7645,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown ",
     "size": "P 80 x L 40 x T 170 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-24.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-24.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-52.jpg"
+]},
       {
     "id": 416,
     "name": "MJR025",
@@ -7703,7 +7711,58 @@
    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-36.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-37.jpg"]
 },
-
+   {
+    "id": 869,
+    "name": "MJR030",
+    "category": "Meja Rias",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size":" P 110 x L 40 x T 75 cm",
+    "images": [ 
+   "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-38.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-39.jpg"]
+},
+   {
+    "id": 870,
+    "name": "MJR031",
+    "category": "Meja Rias",
+    "price": "Rp 2.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size":" P 100 x L 40 x T 125 cm",
+    "images": [ 
+   "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-40.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-41.jpg"]
+},
+   {
+    "id": 871,
+    "name": "MJR032",
+    "category": "Meja Rias",
+    "price": "Rp 1.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Natural Brown",
+    "size":" P 120 x L 40 x T 75 cm",
+    "images": [ 
+   "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-42.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-43.jpg"]
+},
+   {
+    "id": 872,
+    "name": "MJR033",
+    "category": "Meja Rias",
+    "price": "Rp 2.600.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size":" P 120 x L 40 x T 135 cm",
+    "images": [ 
+   "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-44.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-45.jpg"]
+},
   {
     "id": 241,
     "name": "MMB001",
