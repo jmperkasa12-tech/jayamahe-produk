@@ -2540,8 +2540,10 @@
     "material": "Kayu Jati Solid + Cushion",
     "finishing": "Natural Brown ",
     "size": "P 110 x L 67 x T 110 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-1.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-1.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-11.jpg"
+  
+]},
   {
     "id": 125,
     "name": "KGY002",
@@ -2551,8 +2553,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 120 x L 50 x T 70 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-2.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-2.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-10.jpg"
+ ] },
   {
     "id": 126,
     "name": "KGY003",
@@ -2562,8 +2565,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 140 x L 75 x T 110 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-3.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-3.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-16.jpg"
+]},
   {
     "id": 127,
     "name": "KGY004",
@@ -2573,8 +2577,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 120 x L 66 x T 80 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-4.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-4.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-15.png"
+]},
   {
     "id": 128,
     "name": "KGY005",
@@ -2584,8 +2589,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 140 x L 70 x T 110 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-5.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-5.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-17.jpeg"
+ ] },
   {
     "id": 129,
     "name": "KGY006",
@@ -2595,8 +2601,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 135 x L 65 x T 85 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-6.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-6.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-14.jpg"
+]},
   {
     "id": 130,
     "name": "KGY007",
@@ -2606,19 +2613,21 @@
     "material": "Kayu Jati Solid + Cushion",
     "finishing": "Natural Brown ",
     "size": "P 100 x L 65 x T 95 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-7.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-7.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-12.jpg"
+ ] },
   {
     "id": 131,
     "name": "KGY008",
     "category": "Kursi Goyang",
-    "price": "Rp 0",
+    "price": "Rp 2.500.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Cushion",
     "finishing": "Salak Brown ",
     "size": "P 100 x L 65 x T 95 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-8.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-8.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-goyang-13.jpg"
+]},
   {
     "id": 132,
     "name": "KGY009",
