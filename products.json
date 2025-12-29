@@ -7651,6 +7651,59 @@
     "size": "P 110 x L 45 x T 175 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-25.jpg"
   },
+   {
+    "id": 865,
+    "name": "MJR026",
+    "category": "Meja Rias",
+    "price": "Rp 1.900.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Bleaching Glosy",
+    "size":" P 110 x L 45 x T 165 cm",
+    "images": [ 
+   "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-30.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-31.jpg"]
+},
+   {
+    "id": 866,
+    "name": "MJR027",
+    "category": "Meja Rias",
+    "price": "Rp 3.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Bleaching Glosy",
+    "size":" P 120 x L 40 x T 115 cm",
+    "images": [ 
+   "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-32.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-33.jpg"]
+},
+   {
+    "id": 867,
+    "name": "MJR028",
+    "category": "Meja Rias",
+    "price": "Rp 3.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size":" P 120 x L 40 x T 100 cm",
+    "images": [ 
+   "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-34.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-35.jpg"]
+},
+   {
+    "id": 868,
+    "name": "MJR029",
+    "category": "Meja Rias",
+    "price": "Rp 3.200.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size":" P 110 x L 45 x T 75 cm",
+    "images": [ 
+   "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-36.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-37.jpg"]
+},
+
   {
     "id": 241,
     "name": "MMB001",
@@ -10874,7 +10927,7 @@
    {
     "id": 864,
     "name": "MC014",
-    "category": "Meja Tamu",
+    "category": "Meja Coffe",
     "price": "Rp 1.400.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
