@@ -4507,7 +4507,7 @@
     "id": 840,
     "name": "KTR035",
     "category": "Kursi Teras",
-    "price": "Rp 3.000.000",
+    "price": "Rp 3.600.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Black Glossy",
@@ -4517,6 +4517,21 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-58.jpeg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-59.jpeg"
+]},
+  {
+    "id": 873,
+    "name": "KTR036",
+    "category": "Kursi Teras",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Glosy",
+    "size": [
+      "1 Seat: P 60 x L 50 x T 80 cm",
+      "Meja: P 50 x L 50 x T 60 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-62.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-63.jpeg"
 ]},
     {
     "id": 27,
