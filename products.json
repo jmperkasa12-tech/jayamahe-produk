@@ -5894,7 +5894,7 @@
       "Meja: P 200 x L 80 x T 75 cm"
     ],
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-1.jpg",
-    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-154.jpeg"
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-154.jpg"
 ]},
   {
     "id": 199,
@@ -5923,8 +5923,9 @@
       "1 Seat: P 60 x L 70 x T 80 cm",
       "Meja: P 120 x L 120 x T 75 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-3.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-3.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-10.jpg"
+]},
   {
     "id": 221,
     "name": "MJM004",
@@ -6024,8 +6025,9 @@
       "1 Seat: P 42 x L 42 x T 88 cm",
       "Meja: P 120 x L 120 x T 75 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-10.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-10.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-3.jpg"
+]},
   {
     "id": 190,
     "name": "MJM011",
