@@ -10868,9 +10868,22 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Glosy",
     "size": "P 50 x L 50 X T 45 cm",
-    "images":["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-17.jepg",
+    "images":["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-17.jpeg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-16.jpeg"
  ] },
+   {
+    "id": 864,
+    "name": "MC014",
+    "category": "Meja Tamu",
+    "price": "Rp 1.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size":" P 50 x L 50 x T 50 cm",
+    "images": [ 
+   "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-25.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-26.jpg"]
+},
    {
     "id": 467,
     "name": "MCF001",
