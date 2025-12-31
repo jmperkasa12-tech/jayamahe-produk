@@ -8594,8 +8594,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": " P 250 x T 180 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-1.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-1.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-40.jpg"
+]},
   {
     "id": 301,
     "name": "SKT002",
@@ -8616,8 +8617,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": " P 160 x T 180 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-3.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-3.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-43.jpg"
+]},
   {
     "id": 303,
     "name": "SKT004",
@@ -8627,8 +8629,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": " P 160 x T 180 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-4.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-4.jpg",
+            "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-47.jpg"
+]},
   {
     "id": 304,
     "name": "SKT005",
@@ -8638,8 +8641,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": " P 160 x T 180 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-5.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-5.jpg",
+            "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-48.jpg"
+ ] },
   {
     "id": 387,
     "name": "SKT006",
@@ -8649,8 +8653,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": " P 160 x T 180 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-6.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-6.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-45.jpg"
+ ] },
   {
     "id": 388,
     "name": "SKT007",
@@ -8660,8 +8665,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": " P 160 x T 180 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-7.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-7.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-41.jpg"
+]},
   {
     "id": 389,
     "name": "SKT008",
@@ -8671,8 +8677,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": " P 160 x T 180 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-8.jpg"
-  },
+    "imagea": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-8.jpg",
+            "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-46.jpg"
+]},
   {
     "id": 390,
     "name": "SKT009",
@@ -8682,8 +8689,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": " P 200 x T 180 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-9.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-9.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-42.jpg"
+]},
   {
     "id": 391,
     "name": "SKT010",
@@ -8715,8 +8723,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": " P 160 x T 180 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-12.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-12.jpg",
+        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-44.jpg"
+]},
   {
     "id": 604,
     "name": "SKT013",
