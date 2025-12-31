@@ -6112,6 +6112,30 @@
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-52.jpg"
 ]},
   {
+    "id": 890,
+    "name": "MJK032",
+    "category": "Meja Kantor",
+    "price": "Rp 1.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size":"P 120 x L 35 x T 75 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-53.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-54.jpg"
+]},
+  {
+    "id": 891,
+    "name": "MJK0313",
+    "category": "Meja Kantor",
+    "price": "Rp 2.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Besi",
+    "finishing": "Salak Brown",
+    "size":"P 130 x L 45 x T 80 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-51.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-52.jpg"
+]},
+  {
     "id": 188,
     "name": "MJM001",
     "category": "Meja Makan",
@@ -8991,8 +9015,9 @@
 
   ],
     "size": "P 150 x L 80 x T 75 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-5.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-5.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-82.jpg"
+]},
   {
     "id": 347,
     "name": "SFA004",
@@ -9011,8 +9036,9 @@
 
   ],
     "size": "P 200 x L 75 x T 45 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-7.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-7.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-83.jpg"
+]},
   {
     "id": 306,
     "name": "SFA005",
@@ -9031,8 +9057,9 @@
 
   ],
     "size": "P 180 x L 85 x T 80 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-10.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-10.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-20.jpg"
+ ] },
   {
     "id": 307,
     "name": "SFA006",
@@ -9051,8 +9078,9 @@
 
   ],
     "size": "P 160 x L 70 x T 48 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-11.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-11.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-84.jpg"
+]},
   {
     "id": 308,
     "name": "SFA007",
@@ -9071,8 +9099,9 @@
 
   ],
     "size": "P 200 x L 75 x T 90 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-12.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-12.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-85.jpg"
+ ] },
   {
     "id": 309,
     "name": "SFA008",
@@ -9091,8 +9120,9 @@
 
   ],
     "size": "P 190 x L 55 x T 85 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-13.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-13.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-69.jpeg"
+]},
   {
     "id": 310,
     "name": "SFA009",
@@ -9111,8 +9141,9 @@
 
   ],
     "size": "P 150 x L 80 x T 75 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-14.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-14.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-86.jpg"
+]},
   {
     "id": 311,
     "name": "SFA010",
@@ -9230,9 +9261,10 @@
     "Opsi Kustomisasi       : Bisa request warna finishing kayu (Duco/Walnut) dan jenis/warna kain (Bludru, Oscar, Suede, dll.) - Harga Disesuaikan"
 
   ],
-    "size": "P 180 x L 85 x T 80 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-20.jpg"
-  },
+    "size": "P 200 x L 85 x T 80 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-91.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-92.jpg"
+]},
   {
     "id": 317,
     "name": "SFA016",
@@ -9271,8 +9303,9 @@
 
   ],
     "size": "P 225 x L 180 x T 80 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-22.png"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-22.png",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-88.jpg"
+]},
   {
     "id": 319,
     "name": "SFA018",
@@ -9291,8 +9324,9 @@
 
   ],
     "size": "P 195 x L 140 x T 80 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-23.png"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-23.png",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-44.jpg"
+]},
   {
     "id": 320,
     "name": "SFA019",
@@ -9331,8 +9365,9 @@
 
   ],
     "size": "P 150 x L 75 x T 85 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-26.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-26.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-87.jpg"
+]},
   {
     "id": 323,
     "name": "SFA022",
@@ -9371,8 +9406,9 @@
 
   ],
     "size": "P 200 x L 80 x T 80 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-28.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-28.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-70.jpeg"
+]},
   {
     "id": 325,
     "name": "SFA024",
@@ -9391,8 +9427,9 @@
 
   ],
     "size": "P 165 x L 70 x T 75 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-29.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-29.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-71.jpeg"
+]},
   {
     "id": 327,
     "name": "SFA025",
@@ -9471,8 +9508,9 @@
 
   ],
     "size": "P 290 x L 230 x T 95 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-33.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-33.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-91.jpg"
+]},
   {
     "id": 331,
     "name": "SFA029",
@@ -9491,8 +9529,9 @@
 
   ],
     "size": "P 195 x L 80 x T 70 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-34.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-34.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-72.jpeg"
+]},
   {
     "id": 332,
     "name": "SFA030",
@@ -9531,8 +9570,9 @@
 
   ],
     "size": "P 290 x L 230 x T 95 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-36.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-36.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-76.jpg"
+]},
   {
     "id": 334,
     "name": "SFA032",
@@ -9571,8 +9611,9 @@
 
   ],
     "size": "P 195 x L 140 x T 80 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-38.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-38.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-42.jpg"
+]},
   {
     "id": 336,
     "name": "SFA034",
@@ -9591,8 +9632,9 @@
 
   ],
     "size": "P 190 x L 80 x T 80 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-39.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-39.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-75.jpg"
+]},
   {
     "id": 337,
     "name": "SFA035",
@@ -9611,8 +9653,9 @@
 
   ],
     "size": "P 150 x L 180 x T 80 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-40.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-40.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-77.jpg"
+]},
   {
     "id": 338,
     "name": "SFA036",
@@ -9637,7 +9680,7 @@
     "id": 339,
     "name": "SFA037",
     "category": "Sofa",
-    "price": "Rp 6.500.000",
+    "price": "Rp 7.000.000",
     "stock": "Pre-order",
     "material": [
     "Standar             : Kayu Jati Solid",
@@ -9650,9 +9693,10 @@
     "Opsi Kustomisasi       : Bisa request warna finishing kayu (Duco/Walnut) dan jenis/warna kain (Bludru, Oscar, Suede, dll.) - Harga Disesuaikan"
 
   ],
-    "size": "P 195 x L 180 x T 80 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-42.jpg"
-  },
+    "size": "Sudut L : P (220 x 160) x L 80 x T 75 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-93.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-94.jpg"
+ ] },
   {
     "id": 340,
     "name": "SFA038",
@@ -9677,7 +9721,7 @@
     "id": 341,
     "name": "SFA039",
     "category": "Sofa",
-    "price": "Rp 6.500.000",
+    "price": "Rp 13.000.000",
     "stock": "Pre-order",
     "material": [
     "Standar             : Kayu Jati Solid",
@@ -9690,9 +9734,10 @@
     "Opsi Kustomisasi       : Bisa request warna finishing kayu (Duco/Walnut) dan jenis/warna kain (Bludru, Oscar, Suede, dll.) - Harga Disesuaikan"
 
   ],
-    "size": "P 195 x L 180 x T 80 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-44.jpg"
-  },
+    "size": "Sudut L : P (280 x 180) x L 90 x T 80 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-89.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-90.jpg"
+]},
   {
     "id": 342,
     "name": "SFA040",
@@ -9711,8 +9756,9 @@
 
   ],
     "size": "P 220 x L 80 x T 80 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-45.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-45.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-78.jpg"
+]},
   {
     "id": 343,
     "name": "SFA041",
@@ -9771,8 +9817,9 @@
 
   ],
     "size": "P 210 x L 210 x T 80 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-48.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-48.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-80.jpg"
+]},
  {
     "id": 734,
     "name": "SFA044",
@@ -9874,7 +9921,132 @@
     "size": "P 210 x L 60 x T 75 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-56.jpg"
   },
+      {
+    "id": 892,
+    "name": "SFA049",
+    "category": "Sofa",
+    "price": "Rp 4.200.000",
+    "stock": "Pre-order",
+     "material": [
+    "Standar             : Kayu Jati Solid + Rotan",
+    "Opsi Material Rangka: Kayu Mahoni, Kayu Keras Lainnya (Harga Disesuaikan)"
+  ],
+    "finishing":  [
 
+    "Finishing Kayu Rangka  : Natural Brown ",
+
+    "Opsi Kustomisasi       : Bisa request warna finishing kayu (Duco/Walnut) dan jenis/warna kain (Bludru, Oscar, Suede, dll.) - Harga Disesuaikan"
+
+  ],
+    "size": "P 180 x L 70 x T 75 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-57.jpeg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-58.jpeg"
+]},
+  {
+    "id": 893,
+    "name": "SFA050",
+    "category": "Sofa",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+     "material": [
+    "Standar             : Kayu Jati Solid + Rotan",
+    "Opsi Material Rangka: Kayu Mahoni, Kayu Keras Lainnya (Harga Disesuaikan)"
+  ],
+    "finishing":  [
+
+    "Finishing Kayu Rangka  : Black Glosy ",
+
+    "Opsi Kustomisasi       : Bisa request warna finishing kayu (Duco/Walnut) dan jenis/warna kain (Bludru, Oscar, Suede, dll.) - Harga Disesuaikan"
+
+  ],
+    "size": "P 140 x L 75 x T 80 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-59.jpeg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-60.jpeg"
+]},
+  {
+    "id": 894,
+    "name": "SFA051",
+    "category": "Sofa",
+    "price": "Rp 5.000.000",
+    "stock": "Pre-order",
+     "material": [
+    "Standar             : Kayu Jati Solid + Rotan",
+    "Opsi Material Rangka: Kayu Mahoni, Kayu Keras Lainnya (Harga Disesuaikan)"
+  ],
+    "finishing":  [
+
+    "Finishing Kayu Rangka  : Black Glosy ",
+
+    "Opsi Kustomisasi       : Bisa request warna finishing kayu (Duco/Walnut) dan jenis/warna kain (Bludru, Oscar, Suede, dll.) - Harga Disesuaikan"
+
+  ],
+    "size": "P 180 x L 75 x T 80 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-61.jpeg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-62.jpeg"
+]},
+  {
+    "id": 895,
+    "name": "SFA052",
+    "category": "Sofa",
+    "price": "Rp 3.200.000",
+    "stock": "Pre-order",
+     "material": [
+    "Standar             : Kayu Jati Solid + Rotan",
+    "Opsi Material Rangka: Kayu Mahoni, Kayu Keras Lainnya (Harga Disesuaikan)"
+  ],
+    "finishing":  [
+
+    "Finishing Kayu Rangka  : Natural Brown ",
+
+    "Opsi Kustomisasi       : Bisa request warna finishing kayu (Duco/Walnut) dan jenis/warna kain (Bludru, Oscar, Suede, dll.) - Harga Disesuaikan"
+
+  ],
+    "size": "P 150 x L 70 x T 70 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-63.jpeg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-64.jpeg"
+]},
+  {
+    "id": 896,
+    "name": "SFA053",
+    "category": "Sofa",
+    "price": "Rp 5.000.000",
+    "stock": "Pre-order",
+     "material": [
+    "Standar             : Kayu Jati Solid + Rotan",
+    "Opsi Material Rangka: Kayu Mahoni, Kayu Keras Lainnya (Harga Disesuaikan)"
+  ],
+    "finishing":  [
+
+    "Finishing Kayu Rangka  : Natural Brown ",
+
+    "Opsi Kustomisasi       : Bisa request warna finishing kayu (Duco/Walnut) dan jenis/warna kain (Bludru, Oscar, Suede, dll.) - Harga Disesuaikan"
+
+  ],
+    "size": "P 180 x L 80 x T 80 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-65.jpeg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-66.jpeg"
+]},
+  {
+    "id": 897,
+    "name": "SFA054",
+    "category": "Sofa",
+    "price": "Rp 3.600.000",
+    "stock": "Pre-order",
+     "material": [
+    "Standar             : Kayu Jati Solid + Rotan",
+    "Opsi Material Rangka: Kayu Mahoni, Kayu Keras Lainnya (Harga Disesuaikan)"
+  ],
+    "finishing":  [
+
+    "Finishing Kayu Rangka  : Natural Brown ",
+
+    "Opsi Kustomisasi       : Bisa request warna finishing kayu (Duco/Walnut) dan jenis/warna kain (Bludru, Oscar, Suede, dll.) - Harga Disesuaikan"
+
+  ],
+    "size": "P 150 x L 70 x T 70 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-67.jpeg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-68.jpeg"
+]},
     {
     "id": 367,
     "name": "TTD001",
