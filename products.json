@@ -8138,7 +8138,7 @@
   },
          {
     "id": 398,
-    "name": "MMB0015",
+    "name": "MMB015",
     "category": "Mimbar",
     "price": "Rp 3.500.000",
     "stock": "Pre-order",
@@ -8149,13 +8149,13 @@
   },
   {
     "id": 400,
-    "name": "MMB0016",
+    "name": "MMB016",
     "category": "Mimbar",
     "price": "Rp 2.500.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 70 x L 50 x T 211500 cm",
+    "size": "P 70 x L 50 x T 115 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-16.jpg"
   },
   {
