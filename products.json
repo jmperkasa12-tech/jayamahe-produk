@@ -53,6 +53,32 @@
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/ayunan-6.jpg"
   ]
   },
+   {
+    "id": 889,
+    "name": "AYN005",
+    "category": "Ayunan",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid ",
+    "finishing": "Natural Brown ",
+    "size": "P 120 x L 80 x T 170 Cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/ayunan-7.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/ayunan-8.jpg"
+  ]
+  },
+     {
+    "id": 890,
+    "name": "AYN006",
+    "category": "Ayunan",
+    "price": "Rp 2.900.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid ",
+    "finishing": "Natural Brown ",
+    "size": "P 120 x L 50 x T 200 Cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/ayunan-9.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/ayunan-10.jpg"
+  ]
+  },
   {
     "id": 76,
     "name": "BBL001",
