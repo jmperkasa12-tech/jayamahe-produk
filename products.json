@@ -9386,8 +9386,9 @@
 
   ],
     "size": "P 150 x L 80 x T 80 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-27.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-27.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-102.jpg"
+]},
   {
     "id": 324,
     "name": "SFA023",
@@ -9488,8 +9489,9 @@
 
   ],
     "size": "P 150 x L 80 x T 80 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-32.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-32.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-102.jpg"
+]},
   {
     "id": 330,
     "name": "SFA028",
@@ -10046,6 +10048,69 @@
     "size": "P 150 x L 70 x T 70 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-67.jpeg",
      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-68.jpeg"
+]},
+  {
+    "id": 898,
+    "name": "SFA055",
+    "category": "Sofa",
+    "price": "Rp 7.600.000",
+    "stock": "Pre-order",
+     "material": [
+    "Standar             : Kayu Jati Solid",
+    "Opsi Material Rangka: Kayu Mahoni, Kayu Keras Lainnya (Harga Disesuaikan)"
+  ],
+    "finishing":  [
+
+    "Finishing Kayu Rangka  : Natural Brown ",
+
+    "Opsi Kustomisasi       : Bisa request warna finishing kayu (Duco/Walnut) dan jenis/warna kain (Bludru, Oscar, Suede, dll.) - Harga Disesuaikan"
+
+  ],
+    "size": "P 220 x L 85 x T 75 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-95.jpg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-96.jpg"
+]},
+  {
+    "id": 899,
+    "name": "SFA056",
+    "category": "Sofa",
+    "price": "Rp 10.000.000",
+    "stock": "Pre-order",
+     "material": [
+    "Standar             : Kayu Jati Solid",
+    "Opsi Material Rangka: Kayu Mahoni, Kayu Keras Lainnya (Harga Disesuaikan)"
+  ],
+    "finishing":  [
+
+    "Finishing Kayu Rangka  : Natural Brown ",
+
+    "Opsi Kustomisasi       : Bisa request warna finishing kayu (Duco/Walnut) dan jenis/warna kain (Bludru, Oscar, Suede, dll.) - Harga Disesuaikan"
+
+  ],
+    "size": "P 250 x L 95 x T 70 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-97.jpg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-98.jpg"
+]},
+  {
+    "id": 900,
+    "name": "SFA057",
+    "category": "Sofa",
+    "price": "Rp 8.500.000",
+    "stock": "Pre-order",
+     "material": [
+    "Standar             : Kayu Jati Solid",
+    "Opsi Material Rangka: Kayu Mahoni, Kayu Keras Lainnya (Harga Disesuaikan)"
+  ],
+    "finishing":  [
+
+    "Finishing Kayu Rangka  : Natural Brown ",
+
+    "Opsi Kustomisasi       : Bisa request warna finishing kayu (Duco/Walnut) dan jenis/warna kain (Bludru, Oscar, Suede, dll.) - Harga Disesuaikan"
+
+  ],
+    "size": "P 255 x L 90 x T 65 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-103.jpg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/r-sofa-104.jpg"
 ]},
     {
     "id": 367,
