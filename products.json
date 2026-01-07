@@ -8037,8 +8037,9 @@
     "material": "Kayu Jati Solid ",
     "finishing": "Natural Brown+ Gold Duco",
     "size": "P 70 x L 40 x T 122 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-2.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-2.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-19.jpg"
+]},
   {
     "id": 243,
     "name": "MMB003",
@@ -8048,8 +8049,9 @@
     "material": "Kayu Jati Solid ",
     "finishing": "Natural Brown+ Gold Duco",
     "size": "P 85 x L 110 x T 130 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-3.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-3.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-20.jpg"
+]},
   {
     "id": 244,
     "name": "MMB004",
@@ -8059,8 +8061,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 85 x L 85 x T 130 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-4.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-4.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-21.jpg"
+]},
   {
     "id": 245,
     "name": "MMB005",
@@ -8070,8 +8073,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 80 x L 90 x T 115 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-5.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-5.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-20.jpg"
+ ] },
   {
     "id": 246,
     "name": "MMB006",
@@ -8081,8 +8085,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 90 x L 100 x T 130 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-6.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-6.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-24.jpg"
+ ] },
   {
     "id": 248,
     "name": "MMB008",
@@ -8092,8 +8097,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 90 x L 80 x T 120 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-8.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-8.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-24.jpeg"
+]},
     {
     "id": 392,
     "name": "MMB009",
@@ -8114,19 +8120,21 @@
     "material": "Kayu Jati Solid ",
     "finishing": "Natural Brown + Gold Duco",
     "size": "P 90 x L 100 x T 120 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-10.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-10.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-23.jpg"
+]},
      {
     "id": 394,
-    "name": "MMB0011",
+    "name": "MMB011",
     "category": "Mimbar",
     "price": "Rp 2.900.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid ",
     "finishing": "Natural Brown + Gold Duco",
     "size": "P 90 x L 60 x T 130 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-11.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-11.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-22.jpg"
+ ] },
       {
     "id": 395,
     "name": "MMB012",
@@ -8136,8 +8144,9 @@
     "material": "Kayu Jati Solid ",
     "finishing": "Natural Brown+ Gold Duco",
     "size": "P 105 x L 150 x T 275 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-12.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-12.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-26.jpg"
+]},
          {
     "id": 396,
     "name": "MMB013",
@@ -8147,8 +8156,9 @@
     "material": "Kayu Jati Solid ",
     "finishing": "Natural Brown+ Gold Duco",
     "size": "P 105 x L 165 x T 265 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-13.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-13.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-27.jpg"
+]},
          {
     "id": 397,
     "name": "MMB014",
@@ -8169,8 +8179,9 @@
     "material": "Kayu Jati Solid ",
     "finishing": "Natural Brown+ Gold Duco",
     "size": "P 90 x L 100 x T 122 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-15.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-15.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-18.jpg"
+]},
   {
     "id": 400,
     "name": "MMB016",
@@ -8180,8 +8191,69 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 70 x L 50 x T 115 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-16.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-16.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-17.jpg"
+]},
+  {
+    "id": 913,
+    "name": "MMB017",
+    "category": "Mimbar",
+    "price": "Rp 3.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown + Gold Duco",
+    "size": "P 80 x L 70 x T 130 cm",
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-28.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-29.jpg"
+]},
+  {
+    "id": 914,
+    "name": "MMB018",
+    "category": "Mimbar",
+    "price": "Rp 13.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown + Gold Duco",
+    "size": "P 160 x L 100 x T 250 cm",
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-30.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-31.jpg"
+]},
+  {
+    "id": 915,
+    "name": "MMB019",
+    "category": "Mimbar",
+    "price": "Rp 12.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown + Gold Duco",
+    "size": "P 155 x L 100 x T 235 cm",
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-32.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-33.jpg"
+]},
+  {
+    "id": 916,
+    "name": "MMB020",
+    "category": "Mimbar",
+    "price": "Rp 12.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown + Gold Duco",
+    "size": "P 155 x L 100 x T 235 cm",
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-34.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-35.jpg"
+]},
+  {
+    "id": 917,
+    "name": "MMB021",
+    "category": "Mimbar",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown + Gold Duco",
+    "size": "P 100 x L 50 x T 45 cm",
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-36.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-37.jpg"
+]},
   {
     "id": 249,
     "name": "NKS001",
