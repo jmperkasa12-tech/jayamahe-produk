@@ -10877,8 +10877,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown ",
     "size": "P 90 x L 40 X T 200 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-2.jpg"
-  },
+    "images":["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-2.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-45.jpg"
+]},
     {
     "id": 405,
     "name": "RH003",
@@ -10936,7 +10937,7 @@
     "finishing": "Natural Glosy",
     "size": "P 55 x L 40 X T 180 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-7.jpg",
-       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-20.jpeg"
+       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-20.jpg"
 ]},
       {
     "id": 438,
