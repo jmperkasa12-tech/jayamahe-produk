@@ -8476,8 +8476,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 200 x L 60 x T 200 cm (Ukuran bisa custom sesuai permintaan)",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-4.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-4.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-39.jpg"
+]},
   {
     "id": 296,
     "name": "PTS005",
@@ -8721,8 +8722,8 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown + Duco",
     "size": "P 160 x L 35 x T 225 cm (Ukuran bisa custom sesuai permintaan)",
-    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-25.jpg",
-    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-26.jpeg"
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-26.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/p-partisi-27.jpeg"
 ]},
     {
     "id": 902,
