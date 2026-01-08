@@ -12513,6 +12513,36 @@
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-41.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-42.jpg"
 ]},
+ {
+    "id": 930,
+    "name": "HD019",
+    "category": "Hiasan Dinding",
+    "price": "Rp 1.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": [
+      "P 120 x T 65  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-43.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-44.jpg"
+]},
+ {
+    "id": 931,
+    "name": "HD020",
+    "category": "Hiasan Dinding",
+    "price": "Rp 1.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": [
+      "P 55 x T 45  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-45.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-46.jpg"
+]},
      {
     "id": 669,
     "name": "LG001",
