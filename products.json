@@ -5083,8 +5083,9 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown",
     "size": "P 100 x L 50 x T 210 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-12.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-12.jpg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-80.jpg"
+]},
   {
     "id": 46,
     "name": "LMP013",
@@ -5521,6 +5522,111 @@
             
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-59.jpg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-60.jpg"
+    ]
+  },
+  {
+    "id": 941,
+    "name": "LMP050",
+    "category": "Lemari Pakaian",
+    "price": "Rp 7.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": "P 150 x L 55 x T 210 Cm — Bisa custom ukuran",
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-81.jpg",
+            
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-82.jpg"
+    ]
+  },
+  {
+    "id": 942,
+    "name": "LMP0501",
+    "category": "Lemari Pakaian",
+    "price": "Rp 7.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown ",
+    "size": "P 180 x L 50 x T 200 Cm — Bisa custom ukuran",
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-83.jpg",
+            
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-84.jpg"
+    ]
+  },
+    {
+    "id": 943,
+    "name": "LMP052",
+    "category": "Lemari Pakaian",
+    "price": "Rp 4.200.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Salak Brown",
+    "size": "P 100 x L 50 x T 220 Cm — Bisa custom ukuran",
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-85.jpg",
+            
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-86.jpg"
+    ]
+  },
+  {
+    "id": 944,
+    "name": "LMP053",
+    "category": "Lemari Pakaian",
+    "price": "Rp 4.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Salak Brown",
+    "size": "P 120 x L 55 x T 200 Cm — Bisa custom ukuran",
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-87.jpg",
+            
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-88.jpg"
+    ]
+  },
+    {
+    "id": 945,
+    "name": "LMP054",
+    "category": "Lemari Pakaian",
+    "price": "Rp 7.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 150 x L 50 x T 220 Cm — Bisa custom ukuran",
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-89.jpg",
+            
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-90.jpg"
+    ]
+  },
+    {
+    "id": 946,
+    "name": "LMP055",
+    "category": "Lemari Pakaian",
+    "price": "Rp 5.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 150 x L 50 x T 200 Cm — Bisa custom ukuran",
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-91.jpg",
+            
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-92.jpg"
+    ]
+  },
+    {
+    "id": 947,
+    "name": "LMP056",
+    "category": "Lemari Pakaian",
+    "price": "Rp 5.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 150 x L 50 x T 200 Cm — Bisa custom ukuran",
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-93.jpg",
+            
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-94.jpg"
     ]
   },
   {
