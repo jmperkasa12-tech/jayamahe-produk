@@ -11429,6 +11429,30 @@
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-58.jpeg"]
   },
     {
+    "id": 965,
+    "name": "RH029",
+    "category": "Rak hias",
+    "price": "Rp 3.700.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 130 x L 35 X T 170 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-59.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-60.jpeg"]
+  },
+      {
+    "id": 966,
+    "name": "RH030",
+    "category": "Rak hias",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 50 x L 35 X T 190 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-61.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-62.jpeg"]
+  },
+    {
     "id": 441,
     "name": "MT001",
     "category": "Meja Tamu",
