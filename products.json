@@ -322,6 +322,18 @@
     ] 
   },
   {
+    "id": 977,
+    "name": "BBL016",
+    "category": "Bale Bale",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  + Cushion",
+    "finishing": "Natural Brown",
+    "size": "P 200 x  L 80 x  T 80 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-32.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-33.jpg"
+]},
+  {
     "id": 1,
     "name": "BUF001",
     "category": "Buffet",
@@ -12628,6 +12640,18 @@
     "size": "P 160 x L 70 x T 75 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-37.jpeg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-38.jpeg"
+]},
+  {
+    "id": 978,
+    "name": "MCF026",
+    "category": "Meja Cafe",
+    "price": "Rp 5.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion + Marmer",
+    "finishing": "Natural Brown",
+    "size": "P 200 x  L 80 x  T 80 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-49.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-cafe-50.jpg"
 ]},
    {
     "id": 608,
