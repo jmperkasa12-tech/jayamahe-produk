@@ -4106,6 +4106,22 @@
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-161.jpeg"
   ]
 },
+{
+    "id": 979,
+    "name": "KTM079",
+    "category": "Kursi Tamu",
+    "price": "Rp 7.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion + Rotan",
+    "finishing": "Natural Brown",
+    "size": [
+        "2 Seat: P 150 x L 70 x T 68 cm",
+        "1 Seat : P 80  x  L 70 x  T 68 cm",
+        "Meja: P 90 x L 60 x T 45 cm"
+    ],
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-163.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-tamu-162.jpg"
+]},
   {
     "id": 161,
     "name": "KTR001",
