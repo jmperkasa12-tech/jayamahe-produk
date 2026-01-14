@@ -2594,6 +2594,42 @@
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-113.jpg"
 ]},
   {
+    "id": 974,
+    "name": "KCF059",
+    "category": "Kursi Cafe",
+    "price": "Rp 480.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 45 x  L 45 x  T 75 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-113.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-114.jpg"
+]},
+  {
+    "id": 975,
+    "name": "KCF060",
+    "category": "Kursi Cafe",
+    "price": "Rp 800.000",
+    "stock": "Pre-order",
+    "material": "Rotan + Besi",
+    "finishing": "Natural Brown",
+    "size": "P 47 x  L 47 x  T 87 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-116.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-115.jpeg"
+]},
+  {
+    "id": 976,
+    "name": "KCF061",
+    "category": "Kursi Cafe",
+    "price": "Rp 800.000",
+    "stock": "Pre-order",
+    "material": "Rotan + Besi",
+    "finishing": "Natural Brown",
+    "size": "P 47 x  L 47 x  T 87 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-116.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-115.jpeg"
+]},
+  {
     "id": 124,
     "name": "KGY001",
     "category": "Kursi Goyang",
@@ -6468,8 +6504,9 @@
       " 1 Bench : P 120 x 30 x T 45 cm ",
       "Meja: P 120 x L 80 x T 75 cm"
     ],
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-13.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-13.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-175.jpg"
+]},
   {
     "id": 193,
     "name": "MJM014",
