@@ -5994,6 +5994,54 @@
     ]
   },
   {
+    "id": "1017",
+    "name": "LMP057",
+    "category": "Lemari Pakaian",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 105 x L 60 x T 180 Cm — Bisa custom ukuran",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-96.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-98.jpeg"]
+  },
+  {
+    "id": "1018",
+    "name": "LMP058",
+    "category": "Lemari Pakaian",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Bleaching Glosy",
+    "size": "P 80 x L 60 x T 210 Cm — Bisa custom ukuran",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-98.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-99.jpeg"]
+  },
+    {
+    "id": "1019",
+    "name": "LMP059",
+    "category": "Lemari Pakaian",
+    "price": "Rp 4.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 100 x L 60 x T 205 Cm — Bisa custom ukuran",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-100.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-101.jpeg"]
+  },
+  {
+    "id": "1020",
+    "name": "LMP060",
+    "category": "Lemari Pakaian",
+    "price": "Rp 4.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Natural Brown",
+    "size": "P 100 x L 60 x T 205 Cm — Bisa custom ukuran",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-100.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-101.jpeg"]
+  },
+  {
     "id": 66,
     "name": "LSP001",
     "category": "Lemari Sepatu",
