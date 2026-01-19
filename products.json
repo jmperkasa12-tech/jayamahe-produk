@@ -6893,6 +6893,18 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-71.jpeg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-72.jpeg"]
   },
+      {
+    "id": "1041",
+    "name": "MJK040",
+    "category": "Meja Kantor",
+    "price": "Rp 3.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Bleaching Glosy",
+    "size":"P 150 x L 50 x T 75 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-71.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-72.jpeg"]
+  },
   {
     "id": 188,
     "name": "MJM001",
