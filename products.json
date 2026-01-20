@@ -5312,6 +5312,30 @@
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-33.jpg"
   },
   {
+    "id": 1054,
+    "name": "LMH034",
+    "category": "Lemari Hias",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 100 x L 40 x T 180 cm",
+    "images":["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-58.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-59.jpg"
+  ]},
+  {
+    "id": 1055,
+    "name": "LMH035",
+    "category": "Lemari Hias",
+    "price": "Rp 3.300.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 90 x L 45 x T 185 cm",
+    "images":["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-60.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-61.jpg"
+  ]},
+  {
     "id": 42,
     "name": "LMP001",
     "category": "Lemari Pakaian",
