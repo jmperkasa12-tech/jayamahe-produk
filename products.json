@@ -14166,6 +14166,36 @@
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-18.jpeg"
   },
+  {
+    "id": 1052,
+    "name": "LG011",
+    "category": "Lounger",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  + Rotan + Cushion",
+    "finishing": "Bleaching Glosy",
+    "size": [
+      "P 200 x L 70 x T 35 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images":["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-19.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-20.jpg"
+  ]},
+  {
+    "id": 1053,
+    "name": "LG012",
+    "category": "Lounger",
+    "price": "Rp 3.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  + Rotan + Cushion",
+    "finishing": "Bleaching Glosy",
+    "size": [
+      "P 200 x L 70 x T 41 cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images":["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-21.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/lonjer-22.jpg"
+  ]},
     {
     "id": 681,
     "name": "MR001",
