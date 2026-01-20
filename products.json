@@ -4504,7 +4504,7 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-8.jpg",
          "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-53.jpg"
-]},
+  ]},
   {
     "id": 186,
     "name": "KTR009",
@@ -4520,7 +4520,7 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-9.jpg",
              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-55.jpg"
-]},
+  ]},
   {
     "id": 162,
     "name": "KTR010",
@@ -4535,7 +4535,7 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-10.jpg",
              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-54.png"
-]},
+  ]},
   {
     "id": 163,
     "name": "KTR011",
@@ -4550,7 +4550,7 @@
     ],
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-11.jpg",
          "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-52.jpeg"
-]},
+  ]},
   {
     "id": 164,
     "name": "KTR012",
@@ -4565,7 +4565,7 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-12.jpg",
          "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-42.jpeg"
-]},
+  ]},
   {
     "id": 165,
     "name": "KTR013",
@@ -4594,7 +4594,7 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-14.jpg",
          "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-51.jpg"
-]},
+  ]},
   {
     "id": 167,
     "name": "KTR015",
@@ -4609,7 +4609,7 @@
     ],
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-15.jpg",
      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-41.jpeg"
- ] },
+  ]},
   {
     "id": 168,
     "name": "KTR016",
@@ -4624,7 +4624,7 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-16.jpg",
          "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-50.jpg"
-]},
+  ]},
   {
     "id": 169,
     "name": "KTR017",
@@ -4667,7 +4667,7 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-19.jpg",
          "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-43.jpeg"
-]},
+  ]},
   {
     "id": 173,
     "name": "KTR020",
@@ -4682,7 +4682,7 @@
     ],
     "images":["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-20.jpg",
      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-61.jpeg"
-]},
+  ]},
   {
     "id": 174,
     "name": "KTR021",
@@ -4711,7 +4711,7 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-22.jpg",
          "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-49.jpg"
-]},
+  ]},
   {
     "id": 176,
     "name": "KTR023",
@@ -4726,7 +4726,7 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-23.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-4.jpg"
-]},
+  ]},
   {
     "id": 177,
     "name": "KTR024",
@@ -4755,7 +4755,7 @@
     ],
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-25.jpg",
          "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-47.jpg"
-]},
+  ]},
   {
     "id": 179,
     "name": "KTR026",
@@ -4785,7 +4785,7 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-27.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-28.jpg"
-]},
+  ]},
   {
     "id": 719,
     "name": "KTR028",
@@ -4800,7 +4800,7 @@
     ],
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-29.jpg"
   },
-    {
+  {
     "id": 720,
     "name": "KTR029",
     "category": "Kursi Teras",
@@ -4815,7 +4815,7 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-30.jpg",
          "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-46.jpg"
-]},
+  ]},
   {
     "id": 721,
     "name": "KTR030",
@@ -4831,7 +4831,7 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-31.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-32.jpg"
-]},
+  ]},
   {
     "id": 722,
     "name": "KTR031",
@@ -4846,7 +4846,7 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-33.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-34.jpg"
-]},
+  ]},
   {
     "id": 723,
     "name": "KTR032",
@@ -4861,7 +4861,7 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-35.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-48.jpg"
-]},
+  ]},
   {
     "id": 724,
     "name": "KTR033",
@@ -4876,7 +4876,7 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-37.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-38.jpg"
-]},
+  ]},
   {
     "id": 725,
     "name": "KTR034",
@@ -4892,7 +4892,7 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-39.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-40.jpg"
-]},
+  ]},
   {
     "id": 840,
     "name": "KTR035",
@@ -4907,7 +4907,7 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-58.jpeg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-59.jpeg"
-]},
+  ]},
   {
     "id": 873,
     "name": "KTR036",
@@ -4922,8 +4922,8 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-62.jpeg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-teras-63.jpeg"
-]},
-    {
+  ]},
+  {
     "id": 27,
     "name": "LMH001",
     "category": "Lemari Hias",
@@ -4934,7 +4934,7 @@
     "size": "P 160 x L 50 x T 200 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-1.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-34.jpg"
-]},
+  ]},
   {
     "id": 33,
     "name": "LMH002",
@@ -4946,7 +4946,7 @@
     "size": "P 100 x L 50 x T 200 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-2.jpg",
         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-36.jpg"
-]},
+  ]},
   {
     "id": 34,
     "name": "LMH003",
@@ -4958,7 +4958,7 @@
     "size": "P 120 x L 45 x T 230 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-3.jpg",
         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-38.jpg"
-]},
+  ]},
   {
     "id": 35,
     "name": "LMH004",
@@ -4970,7 +4970,7 @@
     "size": "P 160 x L 45 x T 230 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-4.jpg",
             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-37.jpg"
-]},
+  ]},
   {
     "id": 36,
     "name": "LMH005",
@@ -4982,7 +4982,7 @@
     "size": "P 250 x L 50 x T 235 cm",
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-5.jpg",
                 "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-54.jpg"
-]},
+  ]},
   {
     "id": 37,
     "name": "LMH006",
@@ -4994,7 +4994,7 @@
     "size": "P 160 x L 50 x T 230 cm",
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-6.jpg",
             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-40.jpg"
-]},
+  ]},
   {
     "id": 38,
     "name": "LMH007",
@@ -5006,7 +5006,7 @@
     "size": "P 200 x L 50 x T 200 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-7.jpg",
                 "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-52.jpg"
-]},
+  ]},
   {
     "id": 39,
     "name": "LMH008",
@@ -5051,7 +5051,7 @@
     "size": "P 90 x L 55 x T 210 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-11.jpg",
         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-35.jpg"
-]},
+  ]},
   {
     "id": 30,
     "name": "LMH012",
@@ -5063,7 +5063,7 @@
     "size": "P 70 x L 55 x T 230 cm",
     "imagse": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-12.jpg",
             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-39.jpg"
-]},
+  ]},
   {
     "id": 31,
     "name": "LMH013",
@@ -5075,7 +5075,7 @@
     "size": "P 80 x L 55 x T 210 cm",
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-13.jpg",
                 "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-41.jpg"
-]},
+  ]},
   {
     "id": 32,
     "name": "LMH014",
@@ -5087,7 +5087,7 @@
     "size": "P 70 x L 55 x T 230 cm",
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-14.jpg",
                 "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-42.jpg"
-]},
+  ]},
   {
     "id": 514,
     "name": "LMH015",
@@ -5110,8 +5110,8 @@
     "size": "P  120 x L 40 x  T 200 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-16.jpg",
                 "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-43.jpg"
-]},
-   {
+  ]},
+  {
     "id": 516,
     "name": "LMH017",
     "category": "Lemari Hias",
@@ -5122,8 +5122,8 @@
     "size": "P  80 x L 55 x T 210 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-17.jpg",
                 "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-44.jpg"
-]},
-   {
+  ]},
+  {
     "id": 517,
     "name": "LMH018",
     "category": "Lemari Hias",
@@ -5134,7 +5134,7 @@
     "size": "P  60 x L 45 x T 200 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-18.jpg"
   },
-   {
+  {
     "id": 518,
     "name": "LMH019",
     "category": "Lemari Hias",
@@ -5145,8 +5145,8 @@
     "size": "P  250 x L 45 x T 270 cm",
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-19.jpg",          
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-51.jpg"
-]},
-   {
+  ]},
+  {
     "id": 519,
     "name": "LMH020",
     "category": "Lemari Hias",
@@ -5160,8 +5160,8 @@
     ],
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-20.jpg",
                 "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-45.jpg"
- ] },
-   {
+  ]},
+  {
     "id": 520,
     "name": "LMH021",
     "category": "Lemari Hias",
@@ -5172,8 +5172,8 @@
     "size": "P  100 x L 45 x T 185 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-21.jpg",
                 "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-50.jpg"
-]},
-   {
+  ]},
+  {
     "id": 521,
     "name": "LMH022",
     "category": "Lemari Hias",
@@ -5184,8 +5184,8 @@
     "size": "P  65 x L 65 x T 220 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-22.jpg",
                 "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-49.jpg"
-]},
-   {
+  ]},
+  {
     "id": 522,
     "name": "LMH023",
     "category": "Lemari Hias",
@@ -5196,7 +5196,7 @@
     "size": "P  190 x L 45 x T 200 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-23.jpg"
   },
-   {
+  {
     "id": 523,
     "name": "LMH024",
     "category": "Lemari Hias",
@@ -5207,7 +5207,7 @@
     "size": "P  200 x L 50 x T 220 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-24.jpg"
   },
-   {
+  {
     "id": 524,
     "name": "LMH025",
     "category": "Lemari Hias",
@@ -5218,8 +5218,8 @@
     "size": "P  200 x L 45 x T 230 cm",
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-25.jpg",
                 "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-56.jpg"
-]},
-   {
+  ]},
+  {
     "id": 525,
     "name": "LMH026",
     "category": "Lemari Hias",
@@ -5230,8 +5230,8 @@
     "size": "P  150 x L 50 x T 200 cm",
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-26.jpg",
                 "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-46.jpg"
-]},
-   {
+  ]},
+  {
     "id": 526,
     "name": "LMH027",
     "category": "Lemari Hias",
@@ -5242,8 +5242,8 @@
     "size": "P  100 x L 45 x T 185 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-27.png",
                 "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-47.jpg"
-]},
-   {
+  ]},
+  {
     "id": 527,
     "name": "LMH028",
     "category": "Lemari Hias",
@@ -5254,7 +5254,7 @@
     "size": "P  150 x L 50 x T 200 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-28.jpg"
   },
-   {
+  {
     "id": 528,
     "name": "LMH029",
     "category": "Lemari Hias",
@@ -5265,7 +5265,7 @@
     "size": "P  150 x L 50 x T 200 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-29.jpg"
   },
-   {
+  {
     "id": 529,
     "name": "LMH030",
     "category": "Lemari Hias",
@@ -5276,7 +5276,7 @@
     "size": "P  170 x L 45 x T 200 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-30.jpg"
   },
-   {
+  {
     "id": 530,
     "name": "LMH031",
     "category": "Lemari Hias",
@@ -5287,8 +5287,8 @@
     "size": "P  70 x L 40 x T 180 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-31.jpg",
                 "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-57.jpeg"
-]},
-   {
+  ]},
+  {
     "id": 532,
     "name": "LMH032",
     "category": "Lemari Hias",
@@ -5299,8 +5299,8 @@
     "size": "P  150 x L 40 x T 200 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-32.jpg",
                 "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-55.jpg"
- ] },
-   {
+  ]},
+  {
     "id": 533,
     "name": "LMH033",
     "category": "Lemari Hias",
@@ -5322,7 +5322,7 @@
     "size": "P 160 x L 55 x T 200 Cm — Bisa custom ukuran",
     "images":["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-1.jpg",
             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-76.jpg"
-]},
+  ]},
   {
     "id": 53,
     "name": "LMP002",
@@ -5345,7 +5345,7 @@
     "size": "P 160 x L 50 x T 210 Cm — Bisa custom ukuran",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-3.jpg",
             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-75.jpg"
-]},
+  ]},
   {
     "id": 60,
     "name": "LMP004",
@@ -5368,7 +5368,7 @@
     "size": "P 100 x L 50 x T 190 Cm — Bisa custom ukuran",
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-5.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-61.jpg"
-]},
+  ]},
   {
     "id": 62,
     "name": "LMP006",
@@ -5402,7 +5402,7 @@
     "size": "P 150 x L 50 x T 200 Cm — Bisa custom ukuran",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-8.jpg",
         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-68.jpg"
- ] },
+  ]},
   {
     "id": 65,
     "name": "LMP009",
@@ -5425,7 +5425,7 @@
     "size": "P 100 x L 50 x T 210 Cm — Bisa custom ukuran",
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-10.jpg",
         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-67.jpg"
-]},
+  ]},
   {
     "id": 44,
     "name": "LMP011",
@@ -5437,7 +5437,7 @@
     "size": "P 100 x L 50 x T 210 Cm — Bisa custom ukuran",
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-11.jpg",
         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-66.jpg"
-]},
+  ]},
   {
     "id": 45,
     "name": "LMP012",
@@ -5449,7 +5449,7 @@
     "size": "P 100 x L 50 x T 210 Cm — Bisa custom ukuran",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-12.jpg",
      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-80.jpg"
-]},
+  ]},
   {
     "id": 46,
     "name": "LMP013",
@@ -5472,7 +5472,7 @@
     "size": "P 100 x L 50 x T 210 Cm — Bisa custom ukuran",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-14.jpg",
         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-64.jpg"
-]},
+  ]},
   {
     "id": 48,
     "name": "LMP015",
@@ -5484,7 +5484,7 @@
     "size": "P 150 x L 55 x T 210 Cm — Bisa custom ukuran",
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-15.jpg",
         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-63.jpg"
-]},
+  ]},
   {
     "id": 49,
     "name": "LMP016",
@@ -5518,7 +5518,7 @@
     "size": "P 160 x L 60 x T 200 Cm — Bisa custom ukuran",
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-19.jpg",
         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-69.jpg"
-]},
+  ]},
   {
     "id": 52,
     "name": "LMP020",
@@ -5531,7 +5531,7 @@
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-20.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-78.jpeg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-79.jpeg"
-]},
+  ]},
   {
     "id": 54,
     "name": "LMP021",
@@ -5554,7 +5554,7 @@
     "size": "P 120 x L 60 x T 220 Cm — Bisa custom ukuran",
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-23.jpg",
         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-62.jpg"
-]},
+  ]},
   {
     "id": 56,
     "name": "LMP023",
@@ -5599,7 +5599,7 @@
     "size": "P 150 x L 55 x T 210 Cm — Bisa custom ukuran",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-27.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-77.jpeg"
-]},
+  ]},
   {
     "id": 534,
     "name": "LMP027",
@@ -5611,7 +5611,7 @@
     "size": "P 150 x L 55 x T 210 Cm — Bisa custom ukuran",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-28.jpg",
         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-70.jpeg"
-]},
+  ]},
   {
     "id": 535,
     "name": "LMP028",
@@ -5623,7 +5623,7 @@
     "size": "P 120 x L 55 x T 200 Cm — Bisa custom ukuran",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-29.jpg",
             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-71.jpeg"
- ] },
+  ]},
   {
     "id": 536,
     "name": "LMP029",
@@ -5635,7 +5635,7 @@
     "size": "P 100 x L 50 x T 210 Cm — Bisa custom ukuran",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-30.jpg",
             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-72.jpeg"
-]},
+  ]},
   {
     "id": 537,
     "name": "LMP030",
@@ -5647,7 +5647,7 @@
     "size": "P 100 x L 50 x T 210 Cm — Bisa custom ukuran",
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-31.jpg",
             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-73.jpeg"
-]},
+  ]},
   {
     "id": 538,
     "name": "LMP031",
@@ -5659,7 +5659,7 @@
     "size": "P 120 x L 55 x T 210 Cm — Bisa custom ukuran",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-32.jpg",
             "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-74.jpeg"
- ] },
+  ]},
   {
     "id": 539,
     "name": "LMP032",
@@ -5693,7 +5693,7 @@
     "size": "P 210 x L 55 x T 230 Cm — Bisa custom ukuran",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-36.jpg",
         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-65.jpg"
-]},
+  ]},
   {
     "id": 554,
     "name": "LMP035",
@@ -5761,8 +5761,7 @@
     "images": [
        "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-42.jpg",
              "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-43.png"
-    ]
-  },
+  ]},
   {
     "id": 560,
     "name": "LMP041",
@@ -5798,9 +5797,8 @@
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-46.jpg",
             
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-47.png"
-    ]
-  },
-    {
+  ]},
+  {
     "id": 599,
     "name": "LMP044",
     "category": "Lemari Pakaian",
@@ -5813,9 +5811,8 @@
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-49.jpg",
             
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-50.jpg"
-    ]
-  },
-    {
+  ]},
+  {
     "id": 600,
     "name": "LMP045",
     "category": "Lemari Pakaian",
@@ -5825,9 +5822,8 @@
     "finishing": "Natural Brown + Gold Duco",
     "size": "P 160 x L 60 x T 230 Cm — Bisa custom ukuran",
     "image":
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-51.jpg"
-  },
-    {
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-51.jpg"},
+  {
     "id": 601,
     "name": "LMP046",
     "category": "Lemari Pakaian",
@@ -5839,10 +5835,8 @@
     "images": [
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-52.jpg",
             
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-53.jpg"
-    ]
-  },
-    {
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-53.jpg"]},
+  {
     "id": 638,
     "name": "LMP047",
     "category": "Lemari Pakaian",
@@ -5855,9 +5849,8 @@
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-54.jpg",
             
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-55.jpg"
-    ]
-  },
-    {
+  ]},
+  {
     "id": 639,
     "name": "LMP048",
     "category": "Lemari Pakaian",
@@ -5870,9 +5863,8 @@
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-56.jpg",
             
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-57.jpg"
-    ]
-  },
-    {
+  ]},
+  {
     "id": 640,
     "name": "LMP049",
     "category": "Lemari Pakaian",
@@ -5886,8 +5878,7 @@
             
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-59.jpg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-60.jpg"
-    ]
-  },
+  ]},
   {
     "id": 941,
     "name": "LMP050",
@@ -5901,8 +5892,7 @@
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-81.jpg",
             
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-82.jpg"
-    ]
-  },
+  ]},
   {
     "id": 942,
     "name": "LMP0501",
@@ -5916,9 +5906,8 @@
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-83.jpg",
             
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-84.jpg"
-    ]
-  },
-    {
+  ]},
+  {
     "id": 943,
     "name": "LMP052",
     "category": "Lemari Pakaian",
@@ -5931,8 +5920,7 @@
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-85.jpg",
             
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-86.jpg"
-    ]
-  },
+  ]},
   {
     "id": 944,
     "name": "LMP053",
@@ -5946,9 +5934,8 @@
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-87.jpg",
             
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-88.jpg"
-    ]
-  },
-    {
+  ]},
+  {
     "id": 945,
     "name": "LMP054",
     "category": "Lemari Pakaian",
@@ -5961,9 +5948,8 @@
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-89.jpg",
             
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-90.jpg"
-    ]
-  },
-    {
+  ]},
+  {
     "id": 946,
     "name": "LMP055",
     "category": "Lemari Pakaian",
@@ -5975,10 +5961,9 @@
     "images": [
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-91.jpg",
             
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-92.jpg"
-    ]
-  },
-    {
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-92.jpg"
+  ]},
+  {
     "id": 947,
     "name": "LMP056",
     "category": "Lemari Pakaian",
@@ -5991,8 +5976,7 @@
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-93.jpg",
             
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-94.jpg"
-    ]
-  },
+  ]},
   {
     "id": "1017",
     "name": "LMP057",
@@ -6017,7 +6001,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-98.jpeg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-99.jpeg"]
   },
-    {
+  {
     "id": "1019",
     "name": "LMP059",
     "category": "Lemari Pakaian",
@@ -6065,7 +6049,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-106.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-107.jpg"]
   },
-    {
+  {
     "id": "1023",
     "name": "LMP0603",
     "category": "Lemari Pakaian",
@@ -6089,7 +6073,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-110.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-111.jpg"]
   },
-    {
+  {
     "id": "1025",
     "name": "LMP065",
     "category": "Lemari Pakaian",
@@ -6125,7 +6109,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-116.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-117.jpg"]
   },
-    {
+  {
     "id": "1028",
     "name": "LMP068",
     "category": "Lemari Pakaian",
@@ -6137,7 +6121,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-118.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-119.jpg"]
   },
-    {
+  {
     "id": "1029",
     "name": "LMP069",
     "category": "Lemari Pakaian",
@@ -6149,7 +6133,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-120.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-121.jpg"]
   },
-    {
+  {
     "id": "1030",
     "name": "LMP070",
     "category": "Lemari Pakaian",
@@ -6161,7 +6145,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-122.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-123.jpg"]
   },
-    {
+  {
     "id": "1031",
     "name": "LMP071",
     "category": "Lemari Pakaian",
@@ -6184,8 +6168,7 @@
     "size": "P 90 x L 40 x T 120 cm",
     "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-1.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-31.jpg"
-  ]
-  },
+  ]},
   {
     "id": 68,
     "name": "LSP002",
@@ -6265,8 +6248,7 @@
     "size": "P 80 x L 40 x T 90 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-11.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-12.jpg"
-  ]
-  },
+  ]},
   {
     "id": 75,
     "name": "LSP009",
@@ -6301,8 +6283,7 @@
     "size": "P 65 x L 35 x T 100 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-13.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-14.jpg"
-  ]
-  },
+  ]},
   {
     "id": 628,
     "name": "LSP012",
@@ -6314,9 +6295,8 @@
     "size": "P 95 x L 40 x T 100 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-15.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-16.jpg"
-  ]
-  },
-    {
+  ]},
+  {
     "id": 629,
     "name": "LSP013",
     "category": "Lemari Sepatu",
@@ -6327,8 +6307,7 @@
     "size": "P 120 x L 50 x T 100 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-17.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-18.jpg"
-  ]
-  },
+  ]},
   {
     "id": 630,
     "name": "LSP014",
@@ -6340,8 +6319,7 @@
     "size": "P 80 x L 35 x T 140 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-19.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-20.jpg"
-  ]
-  },
+  ]},
   {
     "id": 631,
     "name": "LSP014",
@@ -6354,8 +6332,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-21.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-22.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-23.jpg"
-  ]
-  },
+  ]},
   {
     "id": 632,
     "name": "LSP015",
@@ -6383,7 +6360,7 @@
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-28.jpg"
   ]
   },
-    {
+  {
     "id": 634,
     "name": "LSP017",
     "category": "Lemari Sepatu",
@@ -6442,7 +6419,7 @@
     "size": "P 100 x L 50 x T 75 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-4.jpg",
         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-34.jpeg"
- ] },
+ ]},
   {
     "id": 286,
     "name": "MJK005",
@@ -6488,7 +6465,7 @@
     "size": "P 120 x L 50 x T 80 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-8.jpg",
         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-18.jpeg"
- ] },
+ ]},
   {
     "id": 290,
     "name": "MJK009",
@@ -6566,7 +6543,7 @@
     "size": "P 100 x L 50 x T 75 cm",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-15.jpg"
   },
-    {
+  {
     "id": 440,
     "name": "MJK016",
     "category": "Meja Kantor",
@@ -6577,8 +6554,8 @@
     "size": "P 140 x L 55 x T 78 cm",
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-16.jpg",
         "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-17.jpg"
- ] },
-    {
+  ]},
+  {
     "id": 874,
     "name": "MJK017",
     "category": "Meja Kantor",
@@ -6590,7 +6567,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-19.jpeg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-20.jpeg"
 ]},
-    {
+  {
     "id": 875,
     "name": "MJK018",
     "category": "Meja Kantor",
@@ -6602,7 +6579,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-22.jpeg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-21.jpeg"
 ]},
-    {
+  {
     "id": 876,
     "name": "MJK019",
     "category": "Meja Kantor",
@@ -6614,7 +6591,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-23.jpeg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-24.jpeg"
 ]},
-    {
+  {
     "id": 877,
     "name": "MJK020",
     "category": "Meja Kantor",
@@ -6626,7 +6603,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-25.jpeg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-26.jpeg"
 ]},
-    {
+  {
     "id": 878,
     "name": "MJK021",
     "category": "Meja Kantor",
@@ -6638,7 +6615,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-27.jpeg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-28.jpeg"
 ]},
-    {
+  {
     "id": 879,
     "name": "MJK022",
     "category": "Meja Kantor",
@@ -6650,7 +6627,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-29.jpeg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-30.jpeg"
 ]},
-    {
+  {
     "id": 880,
     "name": "MJK023",
     "category": "Meja Kantor",
@@ -6662,7 +6639,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-31.jpeg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-32.jpeg"
 ]},
-    {
+  {
     "id": 881,
     "name": "MJK024",
     "category": "Meja Kantor",
@@ -6677,7 +6654,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-37.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-38.jpg"
 ]},
-    {
+  {
     "id": 882,
     "name": "MJK025",
     "category": "Meja Kantor",
@@ -6689,7 +6666,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-39.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-40.jpg"
 ]},
-    {
+  {
     "id": 883,
     "name": "MJK026",
     "category": "Meja Kantor",
@@ -6701,7 +6678,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-41.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-42.jpg"
 ]},
-    {
+  {
     "id": 884,
     "name": "MJK027",
     "category": "Meja Kantor",
@@ -6713,7 +6690,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-43.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-44.jpg"
 ]},
-    {
+  {
     "id": 885,
     "name": "MJK028",
     "category": "Meja Kantor",
@@ -6725,7 +6702,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-45.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-46.jpg"
 ]},
-    {
+  {
     "id": 886,
     "name": "MJK029",
     "category": "Meja Kantor",
@@ -6869,7 +6846,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-67.jpeg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-68.jpeg"]
   },
-    {
+  {
     "id": "1039",
     "name": "MJK039",
     "category": "Meja Kantor",
@@ -6881,7 +6858,7 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-69.jpeg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-70.jpeg"]
   },
-      {
+  {
     "id": "1040",
     "name": "MJK040",
     "category": "Meja Kantor",
@@ -6893,17 +6870,17 @@
     "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-71.jpeg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-72.jpeg"]
   },
-      {
+  {
     "id": "1041",
-    "name": "MJK040",
+    "name": "MJK041",
     "category": "Meja Kantor",
-    "price": "Rp 3.500.000",
+    "price": "Rp 2.000.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
-    "finishing": "Bleaching Glosy",
-    "size":"P 150 x L 50 x T 75 cm",
-    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-71.jpeg",
-    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-72.jpeg"]
+    "finishing": "Natural Brown",
+    "size":"P 120 x L 40 x T 75 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-73.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-74.jpeg"]
   },
   {
     "id": 188,
