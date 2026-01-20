@@ -12421,8 +12421,9 @@
     "material": "Kayu Trembesi Solid",
     "finishing": "Natural Glosy",
     "size": "P 100 x L 100 X T 45 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-2.jpg"
-  }, 
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-2.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-69.png"
+  ]}, 
   {
     "id": 443,
     "name": "MT003",
@@ -12465,8 +12466,9 @@
     "material": "Kayu Jati Solid  ",
     "finishing": "Natural Glosy",
     "size": "P 120 x L 60 X T 50 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-6.jpg"
-  }, 
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-6.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-68.png"
+  ]}, 
   {
     "id": 447,
     "name": "MT007",
@@ -12476,8 +12478,9 @@
     "material": "Kayu Jati Solid  ",
     "finishing": "Natural Glosy",
     "size": "P 120 x L 60 X T 45 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-7.jpg"
-  }, 
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-7.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-73.png"
+  ]}, 
   {
     "id": 448,
     "name": "MT008",
@@ -12487,8 +12490,9 @@
     "material": "Kayu Jati Solid  ",
     "finishing": "Natural Glosy",
     "size": "P 120 x L 55 X T 45 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-8.jpg"
-  }, 
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-8.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-70.png"
+  ]}, 
   {
     "id": 449,
     "name": "MT009",
@@ -12498,8 +12502,9 @@
     "material": "Kayu Jati Solid  ",
     "finishing": "Natural Glosy",
     "size": "P 80 x L 35 X T 50 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-9.jpg"
-  }, 
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-9.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-72.png"
+  ]}, 
   {
     "id": 450,
     "name": "MT010",
@@ -12520,8 +12525,9 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Glosy",
     "size": "P 120 x L 60 X T 50 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-11.jpg"
-  }, 
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-11.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-66.png"
+  ]}, 
   {
     "id": 458,
     "name": "MT012",
@@ -12531,8 +12537,9 @@
     "material": "Kayu Jati Solid  ",
     "finishing": "Natural Glosy",
     "size": "P 120 x L 60 X T 50 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-12.jpg"
-  }, 
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-12.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-65.jpeg"
+  ]}, 
   {
     "id": 459,
     "name": "MT013",
@@ -12542,8 +12549,9 @@
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Glosy",
     "size": "P 120 x L 60 X T 43 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-13.jpg"
-  }, 
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-13.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-56.jpeg"
+]}, 
   {
     "id": 460,
     "name": "MT014",
@@ -12575,8 +12583,9 @@
     "material": "Kayu Jati Solid  ",
     "finishing": "Natural Glosy",
     "size": "P 120 x L 60 X T 40 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-16.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-16.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-67.png"
+  ]},
   {
     "id": 463,
     "name": "MT017",
@@ -12586,8 +12595,9 @@
     "material": "Kayu Jati Solid  ",
     "finishing": "Natural Glosy",
     "size": "P 120 x L 60 X T 45 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-17.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-17.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-71.png"
+  ]},
   {
     "id": 845,
     "name": "MT018",
@@ -12761,7 +12771,7 @@
     "id": 858,
     "name": "MT030",
     "category": "Meja Tamu",
-    "price": "Rp 3.300.000",
+    "price": "Rp 1.800.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown",
@@ -12774,7 +12784,7 @@
     "id": 859,
     "name": "MT031",
     "category": "Meja Tamu",
-    "price": "Rp 2.900.000",
+    "price": "Rp 1.900.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
@@ -12800,7 +12810,7 @@
     "id": 861,
     "name": "MT033",
     "category": "Meja Tamu",
-    "price": "Rp 3.100.000",
+    "price": "Rp 2.500.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown",
@@ -12813,7 +12823,7 @@
     "id": 862,
     "name": "MT034",
     "category": "Meja Tamu",
-    "price": "Rp 2.500.000",
+    "price": "Rp 2.000.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
@@ -12826,7 +12836,7 @@
     "id": 863,
     "name": "MT035",
     "category": "Meja Tamu",
-    "price": "Rp 2.200.000",
+    "price": "Rp 1.800.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
@@ -12834,7 +12844,55 @@
     "images": [ 
    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-53.jpg",
     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-54.jpg"]
-},
+  },
+  {
+    "id": "1048",
+    "name": "MT036",
+    "category": "Meja Tamu",
+    "price": "Rp 2.200.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Salak Brown",
+    "size":"P 120 x L 60 x T 45 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-58.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-57.jpeg"]
+  }, 
+  {
+    "id": "1049",
+    "name": "MT037",
+    "category": "Meja Tamu",
+    "price": "Rp 1.850.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size":"P 85 x L 75 x T 45 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-60.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-59.jpeg"]
+  },
+  {
+    "id": "1050",
+    "name": "MT038",
+    "category": "Meja Tamu",
+    "price": "Rp 2.100.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Black Glossy",
+    "size":"P 80 x L 80 x T 40 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-61.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-62.jpeg"]
+  },  
+  {
+    "id": "1051",
+    "name": "MT039",
+    "category": "Meja Tamu",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size":"P 120 x L 55 x T 45 cm",
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-63.jpeg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-64.jpeg"]
+  },
   {
     "id": 452,
     "name": "MC001",
