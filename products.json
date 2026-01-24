@@ -9845,7 +9845,7 @@
     "id": 1082,
     "name": "MJM0121",
     "category": "Meja Makan",
-    "price": "Rp 2.900.000",
+    "price": "Rp 9.000.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid  + Rope",
     "finishing": "Natural Bleaching",
@@ -9863,18 +9863,190 @@
     "id": 1082,
     "name": "MJM0121",
     "category": "Meja Makan",
-    "price": "Rp 2.900.000",
+    "price": "Rp 6.800.000",
     "stock": "Pre-order",
-    "material": "Kayu Jati Solid  + Rope",
+    "material": "Kayu Jati Solid",
     "finishing": "Natural Bleaching",
     "size": [
-      "1 Seat: P 58 x L 60 x T 89 Cm",
-      "Meja: P 160 x L 90 x T 76 cm",
-      "Meja: P 210 x L 90 x T 76 cm"
+      "1 Seat: P 59 x L 56 x T 79 Cm",
+      "Meja: P 200 x L 110 x T 80 cm"
     ],
     "images": [
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-214.jpeg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-215.jpeg"
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-216.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-217.jpg"
+    ]
+  },
+  {
+    "id": 1083,
+    "name": "MJM0122",
+    "category": "Meja Makan",
+    "price": "Rp 4.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Natural Bleaching",
+    "size": [
+      "1 Seat: P 52 x L 5 x T 79 Cm",
+      "Meja: P 120 x L 120 x T 73 cm"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-218.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-219.jpg"
+    ]
+  },  
+  {
+    "id": 1084,
+    "name": "MJM0123",
+    "category": "Meja Makan",
+    "price": "Rp 3.300.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Natural Brown",
+    "size": [
+      "1 Seat: P 43 x L 48 x T 80 Cm",
+      "Meja: P 160 x L 80 x T 75 cm"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-220.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-221.jpg"
+    ]
+  },
+  {
+    "id": 1085,
+    "name": "MJM0124",
+    "category": "Meja Makan",
+    "price": "Rp 1.900.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Natural Brown",
+    "size": [
+      "1 Seat: P 43 x L 48 x T 80 Cm",
+      "Meja: P 80 x L 80 x T 75 cm"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-222.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-223.jpg"
+    ]
+  },
+  {
+    "id": 1086,
+    "name": "MJM0125",
+    "category": "Meja Makan",
+    "price": "Rp 3.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Trembesi + Jati Solid",
+    "finishing": "Natural Brown",
+    "size": [
+      "1 Seat: P 43 x L 48 x T 80 Cm",
+      "Meja: P 150 x L 65 x T 75 cm"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-224.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-225.jpg"
+    ]
+  }, 
+  {
+    "id": 1087,
+    "name": "MJM0126",
+    "category": "Meja Makan",
+    "price": "Rp 6.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Natural Bleaching",
+    "size": [
+      "1 Seat: P 54 x L 52 x T 80 Cm",
+      "1 Bench : P 180 x 30 x T 45 cm ",
+      "Meja: P 180 x L 90 x T 75 cm"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-226.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-227.jpg"
+    ]
+  },
+  {
+    "id": 1088,
+    "name": "MJM0127",
+    "category": "Meja Makan",
+    "price": "Rp 4.700.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Salak Brown",
+    "size": [
+      "1 Seat: P 43 x L 48 x T 80 Cm",
+      "Meja: P 140 x L 80 x T 75 cm"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-228.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-229.jpeg"
+    ]
+  },
+  {
+    "id": 1089,
+    "name": "MJM0128",
+    "category": "Meja Makan",
+    "price": "Rp 5.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Black Glossy",
+    "size": [
+      "1 Seat: P 54 x L 52 x T 80 Cm",
+      " 1 Bench : P 180 x 40 x T 45 cm ",
+      "Meja: P 180 x L 80 x T 75 cm"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-230.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-231.jpeg"
+    ]
+  },
+  {
+    "id": 1090,
+    "name": "MJM0129",
+    "category": "Meja Makan",
+    "price": "Rp 6.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion + Rotan",
+    "finishing": "Natural Bleaching",
+    "size": [
+      "1 Seat: P 41 x L 41 x T 80 Cm",
+      "Meja: P 180 x L 100 x T 75 cm"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-232.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-233.jpg"
+    ]
+  },
+  {
+    "id": 1091,
+    "name": "MJM0130",
+    "category": "Meja Makan",
+    "price": "Rp 5.900.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Black Glossy",
+    "size": [
+      "1 Seat: P 63 x L 53 x T 85 Cm",
+      " 1 Bench : P 140 x 30 x T 45 cm ",
+      "Meja: P 140 x L 80 x T 75 cm"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-234.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-235.jpeg"
+    ]
+  },
+  {
+    "id": 1092,
+    "name": "MJM0131",
+    "category": "Meja Makan",
+    "price": "Rp 6.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Natural Bleaching",
+    "size": [
+      "1 Seat: P 41 x L 41 x T 80 Cm",
+      "Meja: P 180 x L 100 x T 75 cm"
+    ],
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-234.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-235.jpg"
     ]
   },
   {
