@@ -3283,6 +3283,76 @@
     ]
   },
   {
+    "id": 1094,
+    "name": "KCF073",
+    "category": "Kursi Cafe",
+    "price": "Rp 800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Natural Bleaching",
+    "size": "P 53 x L 52 x T 76 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-145.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-146.jpeg"
+    ]
+  },
+  {
+    "id": 1095,
+    "name": "KCF074",
+    "category": "Kursi Cafe",
+    "price": "Rp 850.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Natural Bleaching",
+    "size": "P 51 x L 58 x T 76 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-147.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-148.jpeg"
+    ]
+  },
+  {
+    "id": 1096,
+    "name": "KCF075",
+    "category": "Kursi Cafe",
+    "price": "Rp 850.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan Sintetis",
+    "finishing": "Natural Bleaching",
+    "size": "P 50 x L 50 x T 75 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-149.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-150.jpeg"
+    ]
+  },
+  {
+    "id": 1097,
+    "name": "KCF076",
+    "category": "Kursi Cafe",
+    "price": "Rp 950.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Natural Bleaching",
+    "size": "P 59 x L 54 x T 77 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-151.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-152.jpg"
+    ]
+  },
+  {
+    "id": 1097,
+    "name": "KCF076",
+    "category": "Kursi Cafe",
+    "price": "Rp 950.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Natural Bleaching",
+    "size": "P 59 x L 54 x T 77 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-151.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-152.jpg"
+    ]
+  }, 
+  {
     "id": 124,
     "name": "KGY001",
     "category": "Kursi Goyang",
@@ -10036,17 +10106,34 @@
     "id": 1092,
     "name": "MJM0131",
     "category": "Meja Makan",
-    "price": "Rp 6.500.000",
+    "price": "Rp 3.500.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Rotan",
     "finishing": "Natural Bleaching",
     "size": [
-      "1 Seat: P 41 x L 41 x T 80 Cm",
-      "Meja: P 180 x L 100 x T 75 cm"
+      "1 Seat: P 55 x L 43 x T 80 Cm",
+      "Meja: P 140 x L 80 x T 75 cm"
     ],
     "images": [ 
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-234.jpg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-235.jpg"
+    ]
+  },
+  {
+    "id": 1093,
+    "name": "MJM0132",
+    "category": "Meja Makan",
+    "price": "Rp 3.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Natural Bleaching",
+    "size": [
+      "1 Seat: P 47 x L 52 x T 71 Cm",
+      "Meja: P 120 x L 80 x T 75 cm"
+    ],
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-236.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-237.jpg"
     ]
   },
   {
