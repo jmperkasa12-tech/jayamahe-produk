@@ -14294,7 +14294,7 @@
     "category": "Rak hias",
     "price": "Rp 750.000",
     "stock": "Pre-order",
-    "material": "Kayu Jati Solid ",
+    "material": "Kayu Jati Solid",
     "finishing": "Black Glossy",
     "size": "P 58 x L 59 x T 82 Cm",
     "images": [ 
@@ -16573,6 +16573,62 @@
     "images": [
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/cermin-37.jpg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/cermin-38.jpg"
+    ]
+  },
+ {
+    "id": 1107,
+    "name": "KBNT001",
+    "category": "Kabinet",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  + Rotan + Besi",
+    "finishing": "Black Glossy",
+    "size": "P 76 x L 40 x T 93 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-001.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-002.jpeg"
+    ]
+  },
+ {
+    "id": 1108,
+    "name": "KBNT002",
+    "category": "Kabinet",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  + Rotan + Besi",
+    "finishing": "Black Glossy",
+    "size": "P 76 x L 40 x T 93 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-093.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-004.jpeg"
+    ]
+  },
+ {
+    "id": 1109,
+    "name": "KBNT003",
+    "category": "Kabinet",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  + Rotan + Besi",
+    "finishing": "Black Glossy",
+    "size": "P 76 x L 40 x T 93 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-001.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-002.jpeg"
+    ]
+  },
+ {
+    "id": 1110,
+    "name": "KBNT001",
+    "category": "Kabinet",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  + Rotan + Besi",
+    "finishing": "Black Glossy",
+    "size": "P 76 x L 40 x T 93 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-001.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-002.jpeg"
     ]
   },
   {
