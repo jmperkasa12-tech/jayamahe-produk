@@ -14274,6 +14274,48 @@
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-62.jpeg"
     ]
   },
+ {
+    "id": 1104,
+    "name": "RH031",
+    "category": "Rak hias",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid ",
+    "finishing": "Natural Bleaching",
+    "size": "P 90 x L 40 x T 200 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-63.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-64.jpg"
+    ]
+  },
+ {
+    "id": 1105,
+    "name": "RH032",
+    "category": "Rak hias",
+    "price": "Rp 750.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid ",
+    "finishing": "Black Glossy",
+    "size": "P 58 x L 59 x T 82 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-65.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-66.jpg"
+    ]
+  },
+ {
+    "id": 1106,
+    "name": "RH033",
+    "category": "Rak hias",
+    "price": "Rp 750.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  + Rotan",
+    "finishing": "Black Glossy",
+    "size": "P 58 x L 59 x T 82 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-67.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/rak-hias-68.jpg"
+    ]
+  },
   {
     "id": 441,
     "name": "MT001",
