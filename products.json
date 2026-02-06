@@ -3422,6 +3422,20 @@
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-164.jpg"
     ]
   },
+ {
+    "id": 1142,
+    "name": "KCF083",
+    "category": "Kursi Cafe",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  + Rotan",
+    "finishing": "Duco",
+    "size": "P 80 x L 40 x T 100 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-164.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-165.jpg"
+    ]
+  },
   {
     "id": 124,
     "name": "KGY001",
@@ -16915,11 +16929,11 @@
     "id": 1131,
     "name": "LL025",
     "category": "Drawer / Lemari Laci",
-    "price": "Rp 2.800.000",
+    "price": "Rp 2.500.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Rotan",
     "finishing": "Natural Bleaching",
-    "size": "P 80 x L 40 x T 100 Cm",
+    "size": "P 80 x L 30 x T 85 Cm",
     "images": [ 
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-049.jpeg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-050.jpeg"
@@ -16933,7 +16947,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid  + Rotan + Besi",
     "finishing": "Black Glossy",
-    "size": "P 80 x L 40 x T 100 Cm",
+    "size": "P 95 x L 45 x T 85 Cm",
     "images": [ 
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-051.jpeg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-052.jpeg"
@@ -16943,11 +16957,11 @@
     "id": 1133,
     "name": "LL027",
     "category": "Drawer / Lemari Laci",
-    "price": "Rp 2.800.000",
+    "price": "Rp 2.300.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Rotan",
     "finishing": "Natural Bleaching",
-    "size": "P 80 x L 40 x T 100 Cm",
+    "size": "P 70 x L 40 x T 85 Cm",
     "images": [ 
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-053.jpeg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-054.jpeg"
@@ -16961,7 +16975,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid  + Rotan + Besi",
     "finishing": "Natural Bleaching",
-    "size": "P 80 x L 40 x T 100 Cm",
+    "size": "P 70 x L 40 x T 105 Cm",
     "images": [ 
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-055.jpeg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-056.jpeg"
@@ -16971,11 +16985,11 @@
     "id": 1135,
     "name": "LL029",
     "category": "Drawer / Lemari Laci",
-    "price": "Rp 2.800.000",
+    "price": "Rp 2.850.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Rotan",
     "finishing": "Black Glossy",
-    "size": "P 80 x L 40 x T 100 Cm",
+    "size": "P 90 x L 36 x T 117 Cm",
     "images": [ 
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-057.jpeg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-058.jpg"
@@ -16985,11 +16999,11 @@
     "id": 1136,
     "name": "LL030",
     "category": "Drawer / Lemari Laci",
-    "price": "Rp 2.800.000",
+    "price": "Rp 2.700.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Rotan",
     "finishing": "Black Glossy",
-    "size": "P 80 x L 40 x T 100 Cm",
+    "size": "P 80 x L 45 x T 100 Cm",
     "images": [ 
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-059.jpg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-060.jpg"
@@ -16999,11 +17013,11 @@
     "id": 1137,
     "name": "LL031",
     "category": "Drawer / Lemari Laci",
-    "price": "Rp 2.800.000",
+    "price": "Rp 3.500.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Rotan",
     "finishing": "Black Glossy",
-    "size": "P 80 x L 40 x T 100 Cm",
+    "size": "P 100 x L 45 x T 85 Cm",
     "images": [ 
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-061.jpg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-062.jpg"
@@ -17017,7 +17031,7 @@
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Rotan",
     "finishing": "Duco",
-    "size": "P 80 x L 40 x T 100 Cm",
+    "size": "P 70 x L 40 x T 90 Cm",
     "images": [ 
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-063.jpg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-064.jpg"
@@ -17027,11 +17041,11 @@
     "id": 1139,
     "name": "LL033",
     "category": "Drawer / Lemari Laci",
-    "price": "Rp 2.800.000",
+    "price": "Rp 2.900.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Rotan",
     "finishing": "Black Glossy",
-    "size": "P 80 x L 40 x T 100 Cm",
+    "size": "P 76 x L 40 x T 108 Cm",
     "images": [ 
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-065.jpg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-066.jpg"
@@ -17041,11 +17055,11 @@
     "id": 1140,
     "name": "LL034",
     "category": "Drawer / Lemari Laci",
-    "price": "Rp 2.800.000",
+    "price": "Rp 3.200.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid  + Rotan + Besi",
     "finishing": "Black Glossy",
-    "size": "P 80 x L 40 x T 100 Cm",
+    "size": "P 104 x L 40 x T 88 Cm",
     "images": [ 
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-067.jpg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-068.jpeg"
@@ -17055,11 +17069,11 @@
     "id": 1141,
     "name": "LL035",
     "category": "Drawer / Lemari Laci",
-    "price": "Rp 2.800.000",
+    "price": "Rp 3.000.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid  + Rotan",
     "finishing": "Duco",
-    "size": "P 80 x L 40 x T 100 Cm",
+    "size": "P 60 x L 30 x T 90 Cm",
     "images": [ 
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-069.jpeg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-070.jpg"
