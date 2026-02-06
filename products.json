@@ -3428,12 +3428,124 @@
     "category": "Kursi Cafe",
     "price": "Rp 2.800.000",
     "stock": "Pre-order",
-    "material": "Kayu Jati Solid  + Rotan",
-    "finishing": "Duco",
+    "material": "Kayu Jati Solid  + Cushion",
+    "finishing": "Natural Bleaching",
     "size": "P 80 x L 40 x T 100 Cm",
     "images": [ 
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-164.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-165.jpg"
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-165.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-166.jpg"
+    ]
+  },
+ {
+    "id": 1143,
+    "name": "KCF084",
+    "category": "Kursi Cafe",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  + Cushion + Rotan",
+    "finishing": "Black Glossy",
+    "size": "P 80 x L 40 x T 100 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-167.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-168.jpg"
+    ]
+  },
+ {
+    "id": 1144,
+    "name": "KCF085",
+    "category": "Kursi Cafe",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  + Cushion",
+    "finishing": "Natural Bleaching",
+    "size": "P 80 x L 40 x T 100 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-169.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-170.jpg"
+    ]
+  },
+ {
+    "id": 1145,
+    "name": "KCF086",
+    "category": "Kursi Cafe",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  + Cushion",
+    "finishing": "Natural Brown",
+    "size": "P 80 x L 40 x T 100 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-173.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-174.jpg"
+    ]
+  },
+ {
+    "id": 1146,
+    "name": "KCF087",
+    "category": "Kursi Cafe",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  + Cushion",
+    "finishing": "Black Glossy",
+    "size": "P 61 x L 58 x T 79 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-175.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-176.jpeg"
+    ]
+  },
+ {
+    "id": 1147,
+    "name": "KCF088",
+    "category": "Kursi Cafe",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  + Cushion",
+    "finishing": "Natural Brown",
+    "size": "P 80 x L 40 x T 100 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-177.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-178.jpg"
+    ]
+  },
+ {
+    "id": 1148,
+    "name": "KCF089",
+    "category": "Kursi Cafe",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 80 x L 40 x T 100 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-179.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-180.jpg"
+    ]
+  },
+ {
+    "id": 1149,
+    "name": "KCF090",
+    "category": "Kursi Cafe",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion",
+    "finishing": "Natural Brown",
+    "size": "P 80 x L 40 x T 100 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-181.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-182.jpg"
+    ]
+  },
+ {
+    "id": 1150,
+    "name": "KCF091",
+    "category": "Kursi Cafe",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Cushion + Besi",
+    "finishing": "Black Glossy",
+    "size": "P 80 x L 40 x T 100 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-183.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-184.jpg"
     ]
   },
   {
