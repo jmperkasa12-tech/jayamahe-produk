@@ -17244,6 +17244,300 @@
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/KBNT-070.jpg"
     ]
   },
+ {
+    "id": 1155,
+    "name": "BN001",
+    "category": "Bench",
+    "price": "Rp 1.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Black Glossy",
+    "size": "P 150 x L 45 x T 45 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN001.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN002.jpeg"
+    ]
+  },
+ {
+    "id": 1156,
+    "name": "BN002",
+    "category": "Bench",
+    "price": "Rp 1.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Mahoni + Cushion",
+    "finishing": "Salak Brown",
+    "size": "P 120 x L 45 x T 50 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN003.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN004.jpeg"
+    ]
+  },
+ {
+    "id": 1157,
+    "name": "BN003",
+    "category": "Bench",
+    "price": "Rp 2.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Mahoni + Cushion",
+    "finishing": "Natural Brown",
+    "size": "P 140 x L 55 x T 45 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN005.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN006.jpeg"
+    ]
+  },
+ {
+    "id": 1158,
+    "name": "BN004",
+    "category": "Bench",
+    "price": "Rp 1.600.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid + Rotan",
+    "finishing": "Natural Bleaching",
+    "size": "P 120 x L 40 x T 45 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN007.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN008.jpeg"
+    ]
+  },
+ {
+    "id": 1159,
+    "name": "BN005",
+    "category": "Bench",
+    "price": "Rp 1.900.000",
+    "stock": "Pre-order",
+    "material": "Kayu Mahoni + Cushion",
+    "finishing": "Salak Brown",
+    "size": "P 140 x L 45 x T 45 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN009.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN010.jpeg"
+    ]
+  },
+ {
+    "id": 1160,
+    "name": "BN006",
+    "category": "Bench",
+    "price": "Rp 1.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Mahoni + Cushion",
+    "finishing": "Salak Brown",
+    "size": "P 120 x L 45 x T 45 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN011.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN012.jpeg"
+    ]
+  },
+ {
+    "id": 1161,
+    "name": "BN007",
+    "category": "Bench",
+    "price": "Rp 1.300.000",
+    "stock": "Pre-order",
+    "material": "Kayu Mahoni + Cushion",
+    "finishing": "Natural Brown",
+    "size": "P 120 x L 40 x T 45 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN013.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN014.jpeg"
+    ]
+  },
+ {
+    "id": 1162,
+    "name": "BN008",
+    "category": "Bench",
+    "price": "Rp 950.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 120 x L 35 x T 60 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN015.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN016.jpg"
+    ]
+  },
+ {
+    "id": 1163,
+    "name": "BN009",
+    "category": "Bench",
+    "price": "Rp 1.200.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 140 x L 40 x T 45 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN017.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN018.jpg"
+    ]
+  },
+ {
+    "id": 1164,
+    "name": "BN010",
+    "category": "Bench",
+    "price": "Rp 2.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Mahoni + Cushion",
+    "finishing": "Salak Brown",
+    "size": "P 140 x L 55 x T 45 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN019.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN020.jpg"
+    ]
+  },
+ {
+    "id": 1165,
+    "name": "BN011",
+    "category": "Bench",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  + Cushion",
+    "finishing": "Salak Brown",
+    "size": "P 120 x L 40 x T 45 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN021.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN022.jpg"
+    ]
+  },
+ {
+    "id": 1166,
+    "name": "BN012",
+    "category": "Bench",
+    "price": "Rp 2.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  + Cushion",
+    "finishing": "Salak Brown",
+    "size": "P 120 x L 40 x T 45 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN023.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN024.jpg"
+    ]
+  },
+ {
+    "id": 1167,
+    "name": "BN013",
+    "category": "Bench",
+    "price": "Rp 2.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  + Cushion",
+    "finishing": "Salak Brown",
+    "size": "P 140 x L 45 x T 45 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN025.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN026.jpg"
+    ]
+  },
+ {
+    "id": 1168,
+    "name": "BN014",
+    "category": "Bench",
+    "price": "Rp 2.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  + Cushion",
+    "finishing": "Salak Brown",
+    "size": "P 140 x L 45 x T 45 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN027.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN028.jpg"
+    ]
+  },
+ {
+    "id": 1169,
+    "name": "BN015",
+    "category": "Bench",
+    "price": "Rp 1.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Trembesi Solid",
+    "finishing": "Natural Brown",
+    "size": "P 150 x L 30 x T 45 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN029.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN030.jpg"
+    ]
+  },
+ {
+    "id": 1170,
+    "name": "BN016",
+    "category": "Bench",
+    "price": "Rp 2.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 150 x L 40 x T 50 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN031.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN032.jpg"
+    ]
+  },
+ {
+    "id": 1171,
+    "name": "BN017",
+    "category": "Bench",
+    "price": "Rp 1.400.000",
+    "stock": "Pre-order",
+    "material": "Kayu Trembesi Solid + Besi",
+    "finishing": "Natural Brown",
+    "size": "P 150 x L 40 x T 50 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN033.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN034.jpg"
+    ]
+  },
+ {
+    "id": 1172,
+    "name": "BN018",
+    "category": "Bench",
+    "price": "Rp 750.000",
+    "stock": "Pre-order",
+    "material": "Kayu Trembesi Solid",
+    "finishing": "Natural Brown",
+    "size": "P 120 x L 40 x T 50 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN035.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN036.jpg"
+    ]
+  },
+ {
+    "id": 1173,
+    "name": "BN019",
+    "category": "Bench",
+    "price": "Rp 1.600.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": "P 120 x L 35 x T 45 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN037.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN038.jpg"
+    ]
+  },
+ {
+    "id": 1174,
+    "name": "BN020",
+    "category": "Bench",
+    "price": "Rp 2.100.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  + Cushion",
+    "finishing": "Natural Brown",
+    "size": "P 110 x L 35 x T 45 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN039.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN040.jpg"
+    ]
+  },
+ {
+    "id": 1175,
+    "name": "BN021",
+    "category": "Bench",
+    "price": "Rp 2.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid  + Cushion",
+    "finishing": "Natural Brown",
+    "size": "P 140 x L 40 x T 40 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN041.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN042.jpg"
+    ]
+  },
   {
     "id": 374,
     "name": "testi",
