@@ -17538,6 +17538,132 @@
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN042.jpg"
     ]
   },
+ {
+    "id": 1176,
+    "name": "LP001",
+    "category": "Lemari Piring",
+    "price": "Rp 4.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Bleaching",
+    "size": "P 120 x L 40 x T 190 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/LP001.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/LP002.jpg"
+    ]
+  },
+ {
+    "id": 1177,
+    "name": "LP002",
+    "category": "Lemari Piring",
+    "price": "Rp 4.200.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Bleaching",
+    "size": "P 100 x L 45 x T 190 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/LP003.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/LP004.jpg"
+    ]
+  },
+ {
+    "id": 1178,
+    "name": "LP003",
+    "category": "Lemari Piring",
+    "price": "Rp 4.700.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Bleaching",
+    "size": "P 100 x L 40 x T 200 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/LP005.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/LP006.jpg"
+    ]
+  },
+ {
+    "id": 1176,
+    "name": "LP004",
+    "category": "Lemari Piring",
+    "price": "Rp 4.300.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Bleaching",
+    "size": "P 120 x L 40 x T 180 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/LP007.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/LP008.jpg"
+    ]
+  },
+ {
+    "id": 1177,
+    "name": "LP005",
+    "category": "Lemari Piring",
+    "price": "Rp 2.300.000",
+    "stock": "Pre-order",
+    "material": "Kayu Mahoni",
+    "finishing": "Natural Brown",
+    "size": "P 100 x L 35 x T 100 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/LP009.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/LP010.jpg"
+    ]
+  },
+ {
+    "id": 1178,
+    "name": "LP006",
+    "category": "Lemari Piring",
+    "price": "Rp 3.300.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Salak Rustic",
+    "size": "P 120 x L 40 x T 130 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/LP011.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/LP012.jpg"
+    ]
+  },
+ {
+    "id": 1179,
+    "name": "LP007",
+    "category": "Lemari Piring",
+    "price": "Rp 3.500.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Salak Rustic",
+    "size": "P 150 x L 45 x T 100 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/LP013.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/LP014.jpg"
+    ]
+  },
+ {
+    "id": 1180,
+    "name": "LP008",
+    "category": "Lemari Piring",
+    "price": "Rp 2.600.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Bleaching",
+    "size": "P 120 x L 40 x T 95 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/LP015.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/LP016.jpg"
+    ]
+  },
+ {
+    "id": 1181,
+    "name": "LP009",
+    "category": "Lemari Piring",
+    "price": "Rp 2.800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Bleaching",
+    "size": "P 90 x L 45 x T 200 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/LP017.jpeg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/LP018.jpg"
+    ]
+  },
   {
     "id": 374,
     "name": "testi",
