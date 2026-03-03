@@ -10372,8 +10372,8 @@
     "material": "Kayu Trembesi Solid + Besi + Cushion",
     "finishing": "Natural Brown",
     "size": [
-      "1 Seat: P 47 x L 52 x T 71 Cm",
-      "Meja: P 120 x L 80 x T 75 cm"
+      "1 Seat: P 50 x L 55 x T 71 Cm",
+      "Meja: P 180 x L 90 x T 75 cm"
     ],
     "images": [ 
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-makan-240.jpeg",
@@ -10384,9 +10384,9 @@
     "id": 1153,
     "name": "MJM0135",
     "category": "Meja Makan",
-    "price": "Rp 2.800.000",
+    "price": "Rp 14.000.000",
     "stock": "Pre-order",
-    "material": "Kayu Jati Solid + Rotan",
+    "material": "Kayu Jati Solid + Cushion + Marmer",
     "finishing": "Natural Brown",
     "size": [
       "1 Seat: 76 x L 54 x T 58 Cm",
@@ -10403,7 +10403,7 @@
     "category": "Meja Makan",
     "price": "Rp 10.000.000",
     "stock": "Pre-order",
-    "material": "Kayu Jati Solid + Rotan",
+    "material": "Kayu Jati Solid + Cushion + Marmer",
     "finishing": "Natural Brown",
     "size": [
       "1 Seat: 76 x L 54 x T 77 Cm",
