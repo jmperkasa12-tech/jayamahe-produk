@@ -83,6 +83,20 @@
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/ayunan-10.jpg"
     ]
   },
+ {
+    "id": 1182,
+    "name": "AYN007",
+    "category": "Ayunan",
+    "price": "Rp 3.000.000",
+    "stock": "Pre-order",
+    "material": "Rotan Sintetis + Besi",
+    "finishing": "Natural Bleaching",
+    "size": "P 135 x L 65 x T 115 Cm",
+    "images": [ 
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/ayunan-11.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/ayunan-12.jpg"
+    ]
+  },
   {
     "id": 76,
     "name": "BBL001",
