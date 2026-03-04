@@ -3101,22 +3101,8 @@
     ]
   },
   {
-    "id": 976,
-    "name": "KCF061",
-    "category": "Kursi Cafe",
-    "price": "Rp 800.000",
-    "stock": "Pre-order",
-    "material": "Rotan + Besi",
-    "finishing": "Natural Brown",
-    "size": "P 47 x  L 47 x  T 87 cm",
-    "images": [
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-116.jpeg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-115.jpeg"
-    ]
-  },
-  {
     "id": "995",
-    "name": "KCF062",
+    "name": "KCF061",
     "category": "Kursi Cafe",
     "price": "Rp 700.000",
     "stock": "Pre-order",
@@ -3130,7 +3116,7 @@
   },
   {
     "id": "996",
-    "name": "KCF063",
+    "name": "KCF062",
     "category": "Kursi Cafe",
     "price": "Rp 820.000",
     "stock": "Pre-order",
@@ -3144,7 +3130,7 @@
   },
   {
     "id": "997",
-    "name": "KCF064",
+    "name": "KCF063",
     "category": "Kursi Cafe",
     "price": "Rp 700.000",
     "stock": "Pre-order",
@@ -3158,7 +3144,7 @@
   },
   {
     "id": "998",
-    "name": "KCF065",
+    "name": "KCF064",
     "category": "Kursi Cafe",
     "price": "Rp 700.000",
     "stock": "Pre-order",
@@ -3172,7 +3158,7 @@
   },
   {
     "id": "999",
-    "name": "KCF066",
+    "name": "KCF065",
     "category": "Kursi Cafe",
     "price": "Rp 750.000",
     "stock": "Pre-order",
@@ -3186,7 +3172,7 @@
   },
   {
     "id": "1000",
-    "name": "KCF067",
+    "name": "KCF066",
     "category": "Kursi Cafe",
     "price": "Rp 750.000",
     "stock": "Pre-order",
@@ -3200,7 +3186,7 @@
   },
   {
     "id": "1001",
-    "name": "KCF068",
+    "name": "KCF067",
     "category": "Kursi Cafe",
     "price": "Rp 670.000",
     "stock": "Pre-order",
@@ -3214,7 +3200,7 @@
   },
   {
     "id": "1002",
-    "name": "KCF069",
+    "name": "KCF068",
     "category": "Kursi Cafe",
     "price": "Rp 780.000",
     "stock": "Pre-order",
@@ -3228,7 +3214,7 @@
   },
   {
     "id": "1003",
-    "name": "KCF070",
+    "name": "KCF069",
     "category": "Kursi Cafe",
     "price": "Rp 1.150.000",
     "stock": "Pre-order",
@@ -3242,7 +3228,7 @@
   },
   {
     "id": "1004",
-    "name": "KCF071",
+    "name": "KCF070",
     "category": "Kursi Cafe",
     "price": "Rp 750.000",
     "stock": "Pre-order",
@@ -3256,7 +3242,7 @@
   },
   {
     "id": "1005",
-    "name": "KCF072",
+    "name": "KCF071",
     "category": "Kursi Cafe",
     "price": "Rp 1.000.000",
     "stock": "Pre-order",
@@ -3270,7 +3256,7 @@
   },
   {
     "id": "1006",
-    "name": "KCF071",
+    "name": "KCF072",
     "category": "Kursi Cafe",
     "price": "Rp 850.000",
     "stock": "Pre-order",
@@ -3284,7 +3270,7 @@
   },
   {
     "id": "1007",
-    "name": "KCF072",
+    "name": "KCF073",
     "category": "Kursi Cafe",
     "price": "Rp 874.000",
     "stock": "Pre-order",
@@ -3298,7 +3284,7 @@
   },
   {
     "id": 1094,
-    "name": "KCF073",
+    "name": "KCF074",
     "category": "Kursi Cafe",
     "price": "Rp 800.000",
     "stock": "Pre-order",
@@ -3312,7 +3298,7 @@
   },
   {
     "id": 1095,
-    "name": "KCF074",
+    "name": "KCF075",
     "category": "Kursi Cafe",
     "price": "Rp 850.000",
     "stock": "Pre-order",
@@ -3326,7 +3312,7 @@
   },
   {
     "id": 1096,
-    "name": "KCF075",
+    "name": "KCF076",
     "category": "Kursi Cafe",
     "price": "Rp 850.000",
     "stock": "Pre-order",
@@ -3340,7 +3326,7 @@
   },
   {
     "id": 1097,
-    "name": "KCF076",
+    "name": "KCF077",
     "category": "Kursi Cafe",
     "price": "Rp 870.000",
     "stock": "Pre-order",
@@ -3354,7 +3340,7 @@
   },
   {
     "id": 1098,
-    "name": "KCF077",
+    "name": "KCF078",
     "category": "Kursi Cafe",
     "price": "Rp 890.000",
     "stock": "Pre-order",
@@ -3368,7 +3354,7 @@
   },
  {
     "id": 1099,
-    "name": "KCF078",
+    "name": "KCF079",
     "category": "Kursi Cafe",
     "price": "Rp 800.000",
     "stock": "Pre-order",
@@ -3382,7 +3368,7 @@
   }, 
  {
     "id": 1100,
-    "name": "KCF079",
+    "name": "KCF080",
     "category": "Kursi Cafe",
     "price": "Rp 1.200.000",
     "stock": "Pre-order",
@@ -3396,7 +3382,7 @@
   },
  {
     "id": 1101,
-    "name": "KCF080",
+    "name": "KCF081",
     "category": "Kursi Cafe",
     "price": "Rp 860.000",
     "stock": "Pre-order",
@@ -3410,7 +3396,7 @@
   },
  {
     "id": 1102,
-    "name": "KCF081",
+    "name": "KCF082",
     "category": "Kursi Cafe",
     "price": "Rp 1.500.000",
     "stock": "Pre-order",
@@ -3424,7 +3410,7 @@
   },
  {
     "id": 1103,
-    "name": "KCF082",
+    "name": "KCF083",
     "category": "Kursi Cafe",
     "price": "Rp 750.000",
     "stock": "Pre-order",
@@ -3438,7 +3424,7 @@
   },
  {
     "id": 1142,
-    "name": "KCF083",
+    "name": "KCF084",
     "category": "Kursi Cafe",
     "price": "Rp 900.000",
     "stock": "Pre-order",
@@ -3452,7 +3438,7 @@
   },
  {
     "id": 1143,
-    "name": "KCF084",
+    "name": "KCF085",
     "category": "Kursi Cafe",
     "price": "Rp 850.000",
     "stock": "Pre-order",
@@ -3466,7 +3452,7 @@
   },
  {
     "id": 1144,
-    "name": "KCF085",
+    "name": "KCF086",
     "category": "Kursi Cafe",
     "price": "Rp 1.200.000",
     "stock": "Pre-order",
@@ -3480,7 +3466,7 @@
   },
  {
     "id": 1145,
-    "name": "KCF086",
+    "name": "KCF087",
     "category": "Kursi Cafe",
     "price": "Rp 1.800.000",
     "stock": "Pre-order",
@@ -3494,7 +3480,7 @@
   },
  {
     "id": 1146,
-    "name": "KCF087",
+    "name": "KCF088",
     "category": "Kursi Cafe",
     "price": "Rp 1.200.000",
     "stock": "Pre-order",
@@ -3508,7 +3494,7 @@
   },
  {
     "id": 1147,
-    "name": "KCF088",
+    "name": "KCF089",
     "category": "Kursi Cafe",
     "price": "Rp 950.000",
     "stock": "Pre-order",
@@ -3522,7 +3508,7 @@
   },
  {
     "id": 1148,
-    "name": "KCF089",
+    "name": "KCF090",
     "category": "Kursi Cafe",
     "price": "Rp 2.800.000",
     "stock": "Pre-order",
@@ -3536,7 +3522,7 @@
   },
  {
     "id": 1149,
-    "name": "KCF090",
+    "name": "KCF091",
     "category": "Kursi Cafe",
     "price": "Rp 2.800.000",
     "stock": "Pre-order",
@@ -3550,7 +3536,7 @@
   },
  {
     "id": 1150,
-    "name": "KCF091",
+    "name": "KCF092",
     "category": "Kursi Cafe",
     "price": "Rp 2.800.000",
     "stock": "Pre-order",
@@ -17505,7 +17491,7 @@
     "size": "P 120 x L 35 x T 45 Cm",
     "images": [ 
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN037.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN038.jpg"
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/BN038.png"
     ]
   },
  {
