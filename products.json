@@ -3482,21 +3482,21 @@
     "id": 1145,
     "name": "KCF086",
     "category": "Kursi Cafe",
-    "price": "Rp 2.800.000",
+    "price": "Rp 1.800.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid  + Cushion",
     "finishing": "Natural Brown",
-    "size": "P 57 x L 50 x T 103 Cm",
+    "size": "P 55 x L 64 x T 96 Cm",
     "images": [ 
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-171.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-17.jpg"
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-cafe-172.jpg"
     ]
   },
  {
     "id": 1146,
     "name": "KCF087",
     "category": "Kursi Cafe",
-    "price": "Rp 2.800.000",
+    "price": "Rp 1.200.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid  + Cushion",
     "finishing": "Black Glossy",
@@ -3510,7 +3510,7 @@
     "id": 1147,
     "name": "KCF088",
     "category": "Kursi Cafe",
-    "price": "Rp 2.800.000",
+    "price": "Rp 950.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid  + Cushion",
     "finishing": "Natural Brown",
@@ -16169,7 +16169,7 @@
     ]
   },
   {
-    "id": 923,
+    "id": 925,
     "name": "HD014",
     "category": "Hiasan Dinding",
     "price": "Rp 7.500.000",
@@ -16186,7 +16186,7 @@
     ]
   },
   {
-    "id": 924,
+    "id": 926,
     "name": "HD015",
     "category": "Hiasan Dinding",
     "price": "Rp 1.900.000",
@@ -16203,7 +16203,7 @@
     ]
   },
   {
-    "id": 925,
+    "id": 927,
     "name": "HD016",
     "category": "Hiasan Dinding",
     "price": "Rp 500.000",
@@ -16220,7 +16220,7 @@
     ]
   },
   {
-    "id": 926,
+    "id": 928,
     "name": "HD017",
     "category": "Hiasan Dinding",
     "price": "Rp 1.400.000",
@@ -16234,40 +16234,6 @@
     "images": [
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-39.jpg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-40.jpg"
-    ]
-  },
-  {
-    "id": 927,
-    "name": "HD018",
-    "category": "Hiasan Dinding",
-    "price": "Rp 800.000",
-    "stock": "Pre-order",
-    "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": [
-      "P 60 x T 80  cm",
-      "Custom ukuran bisa disesuaikan permintaan"
-    ],
-    "images": [
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-41.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-42.jpg"
-    ]
-  },
-  {
-    "id": 928,
-    "name": "HD019",
-    "category": "Hiasan Dinding",
-    "price": "Rp 1.000.000",
-    "stock": "Pre-order",
-    "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": [
-      "P 120 x T 60  cm",
-      "Custom ukuran bisa disesuaikan permintaan"
-    ],
-    "images": [
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-43.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-44.jpg"
     ]
   },
   {
@@ -16288,7 +16254,41 @@
     ]
   },
   {
+    "id": 930,
+    "name": "HD019",
+    "category": "Hiasan Dinding",
+    "price": "Rp 1.000.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": [
+      "P 120 x T 60  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-43.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-44.jpg"
+    ]
+  },
+  {
     "id": 931,
+    "name": "HD018",
+    "category": "Hiasan Dinding",
+    "price": "Rp 800.000",
+    "stock": "Pre-order",
+    "material": "Kayu Jati Solid",
+    "finishing": "Natural Brown",
+    "size": [
+      "P 60 x T 80  cm",
+      "Custom ukuran bisa disesuaikan permintaan"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-41.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/h-dinding-42.jpg"
+    ]
+  },
+  {
+    "id": 932,
     "name": "HD020",
     "category": "Hiasan Dinding",
     "price": "Rp 1.000.000",
