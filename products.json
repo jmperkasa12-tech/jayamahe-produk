@@ -7734,22 +7734,8 @@
     ]
   },
   {
-    "id": 891,
-    "name": "MJK031",
-    "category": "Meja Kantor",
-    "price": "Rp 2.500.000",
-    "stock": "Pre-order",
-    "material": "Kayu Jati Solid + Besi",
-    "finishing": "Salak Brown",
-    "size": "P 130 x L 45 x T 80 cm",
-    "images": [
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-51.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/mejakantor-52.jpg"
-    ]
-  },
-  {
     "id": "1032",
-    "name": "MJK032",
+    "name": "MJK033",
     "category": "Meja Kantor",
     "price": "Rp 2.000.000",
     "stock": "Pre-order",
@@ -7763,7 +7749,7 @@
   },
   {
     "id": "1033",
-    "name": "MJK033",
+    "name": "MJK034",
     "category": "Meja Kantor",
     "price": "Rp 3.500.000",
     "stock": "Pre-order",
@@ -7777,7 +7763,7 @@
   },
   {
     "id": "1034",
-    "name": "MJK034",
+    "name": "MJK035",
     "category": "Meja Kantor",
     "price": "Rp 4.000.000",
     "stock": "Pre-order",
@@ -7791,7 +7777,7 @@
   },
   {
     "id": "1035",
-    "name": "MJK035",
+    "name": "MJK036",
     "category": "Meja Kantor",
     "price": "Rp 2.800.000",
     "stock": "Pre-order",
@@ -7805,7 +7791,7 @@
   },
   {
     "id": "1036",
-    "name": "MJK036",
+    "name": "MJK037",
     "category": "Meja Kantor",
     "price": "Rp 3.200.000",
     "stock": "Pre-order",
@@ -7819,7 +7805,7 @@
   },
   {
     "id": "1037",
-    "name": "MJK037",
+    "name": "MJK038",
     "category": "Meja Kantor",
     "price": "Rp 3.000.000",
     "stock": "Pre-order",
@@ -7833,7 +7819,7 @@
   },
   {
     "id": "1038",
-    "name": "MJK038",
+    "name": "MJK039",
     "category": "Meja Kantor",
     "price": "Rp 2.700.000",
     "stock": "Pre-order",
@@ -7847,7 +7833,7 @@
   },
   {
     "id": "1039",
-    "name": "MJK039",
+    "name": "MJK040",
     "category": "Meja Kantor",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -7861,7 +7847,7 @@
   },
   {
     "id": "1040",
-    "name": "MJK040",
+    "name": "MJK041",
     "category": "Meja Kantor",
     "price": "Rp 3.500.000",
     "stock": "Pre-order",
@@ -7875,7 +7861,7 @@
   },
   {
     "id": "1041",
-    "name": "MJK041",
+    "name": "MJK042",
     "category": "Meja Kantor",
     "price": "Rp 2.000.000",
     "stock": "Pre-order",
@@ -7889,7 +7875,7 @@
   },
   {
     "id": "1042",
-    "name": "MJK042",
+    "name": "MJK043",
     "category": "Meja Kantor",
     "price": "Rp 5.000.000",
     "stock": "Pre-order",
@@ -7906,7 +7892,7 @@
   },
   {
     "id": "1043",
-    "name": "MJK043",
+    "name": "MJK044",
     "category": "Meja Kantor",
     "price": "Rp 2.800.000",
     "stock": "Pre-order",
@@ -7920,7 +7906,7 @@
   },
   {
     "id": "1044",
-    "name": "MJK044",
+    "name": "MJK045",
     "category": "Meja Kantor",
     "price": "Rp 3.200.000",
     "stock": "Pre-order",
@@ -7934,7 +7920,7 @@
   },
   {
     "id": "1045",
-    "name": "MJK045",
+    "name": "MJK046",
     "category": "Meja Kantor",
     "price": "Rp 2.000.000",
     "stock": "Pre-order",
@@ -7948,7 +7934,7 @@
   },
   {
     "id": "1046",
-    "name": "MJK046",
+    "name": "MJK047",
     "category": "Meja Kantor",
     "price": "Rp 2.000.000",
     "stock": "Pre-order",
@@ -7962,7 +7948,7 @@
   },
   {
     "id": "1047",
-    "name": "MJK047",
+    "name": "MJK048",
     "category": "Meja Kantor",
     "price": "Rp 2.300.000",
     "stock": "Pre-order",
@@ -10281,19 +10267,8 @@
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-2.jpg"
   },
   {
-    "id": 269,
-    "name": "MJR003",
-    "category": "Meja Rias",
-    "price": "Rp 3.000.000",
-    "stock": "Pre-order",
-    "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 100 x L 40 x T 180 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-3.jpg"
-  },
-  {
     "id": 270,
-    "name": "MJR004",
+    "name": "MJR003",
     "category": "Meja Rias",
     "price": "Rp 3.600.000",
     "stock": "Pre-order",
@@ -10304,7 +10279,7 @@
   },
   {
     "id": 271,
-    "name": "MJR005",
+    "name": "MJR004",
     "category": "Meja Rias",
     "price": "Rp 2.600.000",
     "stock": "Pre-order",
@@ -10318,7 +10293,7 @@
   },
   {
     "id": 272,
-    "name": "MJR006",
+    "name": "MJR005",
     "category": "Meja Rias",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -10329,7 +10304,7 @@
   },
   {
     "id": 273,
-    "name": "MJR007",
+    "name": "MJR006",
     "category": "Meja Rias",
     "price": "Rp 2.600.000",
     "stock": "Pre-order",
@@ -10343,18 +10318,19 @@
   },
   {
     "id": 274,
-    "name": "MJR008",
+    "name": "MJR007",
     "category": "Meja Rias",
     "price": "Rp 3.000.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 100 x L 40 x T 75 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-8.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-8.jpg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-10.jpg"
+]},
   {
     "id": 275,
-    "name": "MJR009",
+    "name": "MJR008",
     "category": "Meja Rias",
     "price": "Rp 1.200.000",
     "stock": "Pre-order",
@@ -10367,19 +10343,8 @@
     ]
   },
   {
-    "id": 257,
-    "name": "MJR010",
-    "category": "Meja Rias",
-    "price": "Rp 3.000.000",
-    "stock": "Pre-order",
-    "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 100 x L 40 x T 75 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-rias-10.jpg"
-  },
-  {
     "id": 258,
-    "name": "MJR011",
+    "name": "MJR009",
     "category": "Meja Rias",
     "price": "Rp 1.600.000",
     "stock": "Pre-order",
@@ -10390,7 +10355,7 @@
   },
   {
     "id": 259,
-    "name": "MJR012",
+    "name": "MJR010",
     "category": "Meja Rias",
     "price": "Rp 2.900.000",
     "stock": "Pre-order",
@@ -10404,7 +10369,7 @@
   },
   {
     "id": 260,
-    "name": "MJR013",
+    "name": "MJR011",
     "category": "Meja Rias",
     "price": "Rp 1.800.000",
     "stock": "Pre-order",
@@ -10415,7 +10380,7 @@
   },
   {
     "id": 261,
-    "name": "MJR014",
+    "name": "MJR012",
     "category": "Meja Rias",
     "price": "Rp 3.600.000",
     "stock": "Pre-order",
@@ -10426,7 +10391,7 @@
   },
   {
     "id": 262,
-    "name": "MJR015",
+    "name": "MJR013",
     "category": "Meja Rias",
     "price": "Rp 2.800.000",
     "stock": "Pre-order",
@@ -10440,7 +10405,7 @@
   },
   {
     "id": 263,
-    "name": "MJR016",
+    "name": "MJR014",
     "category": "Meja Rias",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -10451,7 +10416,7 @@
   },
   {
     "id": 264,
-    "name": "MJR017",
+    "name": "MJR015",
     "category": "Meja Rias",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -10462,7 +10427,7 @@
   },
   {
     "id": 265,
-    "name": "MJR018",
+    "name": "MJR016",
     "category": "Meja Rias",
     "price": "Rp 2.800.000",
     "stock": "Pre-order",
@@ -10473,7 +10438,7 @@
   },
   {
     "id": 266,
-    "name": "MJR019",
+    "name": "MJR017",
     "category": "Meja Rias",
     "price": "Rp 2.800.000",
     "stock": "Pre-order",
@@ -10487,7 +10452,7 @@
   },
   {
     "id": 268,
-    "name": "MJR020",
+    "name": "MJR018",
     "category": "Meja Rias",
     "price": "Rp 3.500.000",
     "stock": "Pre-order",
@@ -10498,7 +10463,7 @@
   },
   {
     "id": 412,
-    "name": "MJR021",
+    "name": "MJR019",
     "category": "Meja Rias",
     "price": "Rp 2.900.000",
     "stock": "Pre-order",
@@ -10512,7 +10477,7 @@
   },
   {
     "id": 413,
-    "name": "MJR022",
+    "name": "MJR020",
     "category": "Meja Rias",
     "price": "Rp 2.800.000",
     "stock": "Pre-order",
@@ -10523,7 +10488,7 @@
   },
   {
     "id": 414,
-    "name": "MJR023",
+    "name": "MJR021",
     "category": "Meja Rias",
     "price": "Rp 1.800.000",
     "stock": "Pre-order",
@@ -10534,7 +10499,7 @@
   },
   {
     "id": 415,
-    "name": "MJR024",
+    "name": "MJR022",
     "category": "Meja Rias",
     "price": "Rp 2.800.000",
     "stock": "Pre-order",
@@ -10548,7 +10513,7 @@
   },
   {
     "id": 416,
-    "name": "MJR025",
+    "name": "MJR023",
     "category": "Meja Rias",
     "price": "Rp 3.500.000",
     "stock": "Pre-order",
@@ -10559,7 +10524,7 @@
   },
   {
     "id": 865,
-    "name": "MJR026",
+    "name": "MJR024",
     "category": "Meja Rias",
     "price": "Rp 1.900.000",
     "stock": "Pre-order",
@@ -10573,7 +10538,7 @@
   },
   {
     "id": 866,
-    "name": "MJR027",
+    "name": "MJR025",
     "category": "Meja Rias",
     "price": "Rp 3.400.000",
     "stock": "Pre-order",
@@ -10587,7 +10552,7 @@
   },
   {
     "id": 867,
-    "name": "MJR028",
+    "name": "MJR026",
     "category": "Meja Rias",
     "price": "Rp 3.400.000",
     "stock": "Pre-order",
@@ -10601,7 +10566,7 @@
   },
   {
     "id": 868,
-    "name": "MJR029",
+    "name": "MJR027",
     "category": "Meja Rias",
     "price": "Rp 3.200.000",
     "stock": "Pre-order",
@@ -10615,7 +10580,7 @@
   },
   {
     "id": 869,
-    "name": "MJR030",
+    "name": "MJR028",
     "category": "Meja Rias",
     "price": "Rp 2.800.000",
     "stock": "Pre-order",
@@ -10629,7 +10594,7 @@
   },
   {
     "id": 870,
-    "name": "MJR031",
+    "name": "MJR029",
     "category": "Meja Rias",
     "price": "Rp 2.400.000",
     "stock": "Pre-order",
@@ -10643,7 +10608,7 @@
   },
   {
     "id": 871,
-    "name": "MJR032",
+    "name": "MJR030",
     "category": "Meja Rias",
     "price": "Rp 1.800.000",
     "stock": "Pre-order",
@@ -10657,7 +10622,7 @@
   },
   {
     "id": 872,
-    "name": "MJR033",
+    "name": "MJR031",
     "category": "Meja Rias",
     "price": "Rp 2.600.000",
     "stock": "Pre-order",
@@ -10723,22 +10688,8 @@
     ]
   },
   {
-    "id": 245,
-    "name": "MMB005",
-    "category": "Mimbar",
-    "price": "Rp 2.600.000",
-    "stock": "Pre-order",
-    "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 80 x L 90 x T 115 cm",
-    "images": [
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-5.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-20.jpg"
-    ]
-  },
-  {
     "id": 246,
-    "name": "MMB006",
+    "name": "MMB005",
     "category": "Mimbar",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -10752,7 +10703,7 @@
   },
   {
     "id": 248,
-    "name": "MMB008",
+    "name": "MMB006",
     "category": "Mimbar",
     "price": "Rp 2.600.000",
     "stock": "Pre-order",
@@ -10766,7 +10717,7 @@
   },
   {
     "id": 392,
-    "name": "MMB009",
+    "name": "MMB007",
     "category": "Mimbar",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -10776,22 +10727,8 @@
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-9.jpg"
   },
   {
-    "id": 393,
-    "name": "MMB010",
-    "category": "Mimbar",
-    "price": "Rp 3.000.000",
-    "stock": "Pre-order",
-    "material": "Kayu Jati Solid ",
-    "finishing": "Natural Brown + Gold Duco",
-    "size": "P 90 x L 100 x T 120 cm",
-    "images": [
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-10.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-mimbar-23.jpg"
-    ]
-  },
-  {
     "id": 394,
-    "name": "MMB011",
+    "name": "MMB008",
     "category": "Mimbar",
     "price": "Rp 2.900.000",
     "stock": "Pre-order",
@@ -10805,7 +10742,7 @@
   },
   {
     "id": 395,
-    "name": "MMB012",
+    "name": "MMB009",
     "category": "Mimbar",
     "price": "Rp 12.500.000",
     "stock": "Pre-order",
@@ -10819,7 +10756,7 @@
   },
   {
     "id": 396,
-    "name": "MMB013",
+    "name": "MMB010",
     "category": "Mimbar",
     "price": "Rp 13.500.000",
     "stock": "Pre-order",
@@ -10833,7 +10770,7 @@
   },
   {
     "id": 397,
-    "name": "MMB014",
+    "name": "MMB011",
     "category": "Mimbar",
     "price": "Rp 14.000.000",
     "stock": "Pre-order",
@@ -10844,7 +10781,7 @@
   },
   {
     "id": 398,
-    "name": "MMB015",
+    "name": "MMB012",
     "category": "Mimbar",
     "price": "Rp 3.500.000",
     "stock": "Pre-order",
@@ -10858,7 +10795,7 @@
   },
   {
     "id": 400,
-    "name": "MMB016",
+    "name": "MMB013",
     "category": "Mimbar",
     "price": "Rp 2.500.000",
     "stock": "Pre-order",
@@ -10872,7 +10809,7 @@
   },
   {
     "id": 913,
-    "name": "MMB017",
+    "name": "MMB014",
     "category": "Mimbar",
     "price": "Rp 3.000.000",
     "stock": "Pre-order",
@@ -10886,7 +10823,7 @@
   },
   {
     "id": 914,
-    "name": "MMB018",
+    "name": "MMB015",
     "category": "Mimbar",
     "price": "Rp 13.000.000",
     "stock": "Pre-order",
@@ -10900,7 +10837,7 @@
   },
   {
     "id": 915,
-    "name": "MMB019",
+    "name": "MMB016",
     "category": "Mimbar",
     "price": "Rp 12.000.000",
     "stock": "Pre-order",
@@ -10914,7 +10851,7 @@
   },
   {
     "id": 916,
-    "name": "MMB020",
+    "name": "MMB017",
     "category": "Mimbar",
     "price": "Rp 12.000.000",
     "stock": "Pre-order",
@@ -10928,7 +10865,7 @@
   },
   {
     "id": 917,
-    "name": "MMB021",
+    "name": "MMB018",
     "category": "Mimbar",
     "price": "Rp 2.000.000",
     "stock": "Pre-order",
@@ -10951,7 +10888,7 @@
     "size": "P 90 x L 40 x T 75 cm",
     "images": [
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-1.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-29.jpg"
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-29.jpeg"
     ]
   },
   {
@@ -10965,7 +10902,7 @@
     "size": "P 50 x L 40 x T 60 cm",
     "images": [
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-2.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-28.jpg"
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-28.jpeg"
     ]
   },
   {
@@ -10983,22 +10920,8 @@
     ]
   },
   {
-    "id": 252,
-    "name": "NKS004",
-    "category": "Nakas",
-    "price": "Rp 950.000",
-    "stock": "Pre-order",
-    "material": "Kayu Jati Solid  + Rotan",
-    "finishing": "Natural Brown",
-    "size": "P 50 x L 40 x T 60 cm",
-    "images": [
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-4.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-nakas-26.jpg"
-    ]
-  },
-  {
     "id": 253,
-    "name": "NKS005",
+    "name": "NKS004",
     "category": "Nakas",
     "price": "Rp 900.000",
     "stock": "Pre-order",
@@ -11009,7 +10932,7 @@
   },
   {
     "id": 254,
-    "name": "NKS006",
+    "name": "NKS005",
     "category": "Nakas",
     "price": "Rp 900.000",
     "stock": "Pre-order",
@@ -11023,7 +10946,7 @@
   },
   {
     "id": 255,
-    "name": "NKS007",
+    "name": "NKS006",
     "category": "Nakas",
     "price": "Rp 950.000",
     "stock": "Pre-order",
@@ -11037,7 +10960,7 @@
   },
   {
     "id": 410,
-    "name": "NKS008",
+    "name": "NKS007",
     "category": "Nakas",
     "price": "Rp 950.000",
     "stock": "Pre-order",
@@ -11051,7 +10974,7 @@
   },
   {
     "id": 411,
-    "name": "NKS009",
+    "name": "NKS008",
     "category": "Nakas",
     "price": "Rp 1.000.000",
     "stock": "Pre-order",
@@ -11062,7 +10985,7 @@
   },
   {
     "id": 675,
-    "name": "NKS010",
+    "name": "NKS009",
     "category": "Nakas",
     "price": "Rp 950.000",
     "stock": "Pre-order",
@@ -11076,7 +10999,7 @@
   },
   {
     "id": 676,
-    "name": "NKS011",
+    "name": "NKS010",
     "category": "Nakas",
     "price": "Rp 1.200.000",
     "stock": "Pre-order",
@@ -11090,7 +11013,7 @@
   },
   {
     "id": 677,
-    "name": "NKS012",
+    "name": "NKS011",
     "category": "Nakas",
     "price": "Rp 1.400.000",
     "stock": "Pre-order",
@@ -11737,7 +11660,7 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": " P 160 x T 180 cm",
-    "imagea": [
+    "images": [
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-8.jpg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/q-sketsel-46.jpg"
     ]
@@ -13325,7 +13248,7 @@
       "180 x 200 cm — Rp 4.500.000",
       "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan. Harga menyesuaikan tingkat kerumitan desain."
     ],
-    "image": [
+    "images": [
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-11.jpg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-46.jpeg"
     ]
@@ -13363,8 +13286,8 @@
       "180 x 200 cm — Rp 4.500.000",
       "Custom ukuran dan tambahan fitur (seperti laci) bisa disesuaikan permintaan. Harga menyesuaikan tingkat kerumitan desain."
     ],
-    "imagse": [
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-13.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produks/main/images/s-tidur-13.jpg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/s-tidur-44.jpg"
     ]
   },
@@ -14413,22 +14336,12 @@
     "material": "Kayu Jati Solid  ",
     "finishing": "Natural Glosy",
     "size": "P 120 x L 60 X T 45 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-4.jpg"
-  },
-  {
-    "id": 445,
-    "name": "MT005",
-    "category": "Meja Tamu",
-    "price": "Rp 1.500.000",
-    "stock": "Pre-order",
-    "material": "Kayu Jati Solid  ",
-    "finishing": "Natural Glosy",
-    "size": "P 120 x L 60 X T 45 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-5.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-4.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-5.jpg"
+]},
   {
     "id": 446,
-    "name": "MT006",
+    "name": "MT005",
     "category": "Meja Tamu",
     "price": "Rp 1.550.000",
     "stock": "Pre-order",
@@ -14442,7 +14355,7 @@
   },
   {
     "id": 447,
-    "name": "MT007",
+    "name": "MT006",
     "category": "Meja Tamu",
     "price": "Rp 1.500.000",
     "stock": "Pre-order",
@@ -14456,7 +14369,7 @@
   },
   {
     "id": 448,
-    "name": "MT008",
+    "name": "MT007",
     "category": "Meja Tamu",
     "price": "Rp 1.600.000",
     "stock": "Pre-order",
@@ -14470,7 +14383,7 @@
   },
   {
     "id": 449,
-    "name": "MT009",
+    "name": "MT008",
     "category": "Meja Tamu",
     "price": "Rp 1.250.000",
     "stock": "Pre-order",
@@ -14484,7 +14397,7 @@
   },
   {
     "id": 450,
-    "name": "MT010",
+    "name": "MT009",
     "category": "Meja Tamu",
     "price": "Rp 1.700.000",
     "stock": "Pre-order",
@@ -14495,7 +14408,7 @@
   },
   {
     "id": 451,
-    "name": "MT011",
+    "name": "MT010",
     "category": "Meja Tamu",
     "price": "Rp 1.900.000",
     "stock": "Pre-order",
@@ -14509,7 +14422,7 @@
   },
   {
     "id": 458,
-    "name": "MT012",
+    "name": "MT011",
     "category": "Meja Tamu",
     "price": "Rp 1.800.000",
     "stock": "Pre-order",
@@ -14518,12 +14431,12 @@
     "size": "P 120 x L 60 X T 50 cm",
     "images": [
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-12.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-65.jpeg"
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-65.jpg"
     ]
   },
   {
     "id": 459,
-    "name": "MT013",
+    "name": "MT012",
     "category": "Meja Tamu",
     "price": "Rp 2.000.000",
     "stock": "Pre-order",
@@ -14537,7 +14450,7 @@
   },
   {
     "id": 460,
-    "name": "MT014",
+    "name": "MT013",
     "category": "Meja Tamu",
     "price": "Rp 1.800.000",
     "stock": "Pre-order",
@@ -14548,7 +14461,7 @@
   },
   {
     "id": 461,
-    "name": "MT015",
+    "name": "MT014",
     "category": "Meja Tamu",
     "price": "Rp 3.200.000",
     "stock": "Pre-order",
@@ -14559,7 +14472,7 @@
   },
   {
     "id": 462,
-    "name": "MT016",
+    "name": "MT015",
     "category": "Meja Tamu",
     "price": "Rp 1.500.000",
     "stock": "Pre-order",
@@ -14573,7 +14486,7 @@
   },
   {
     "id": 463,
-    "name": "MT017",
+    "name": "MT016",
     "category": "Meja Tamu",
     "price": "Rp 1.600.000",
     "stock": "Pre-order",
@@ -14587,7 +14500,7 @@
   },
   {
     "id": 845,
-    "name": "MT018",
+    "name": "MT017",
     "category": "Meja Tamu",
     "price": "Rp 2.900.000",
     "stock": "Pre-order",
@@ -14601,7 +14514,7 @@
   },
   {
     "id": 846,
-    "name": "MT019",
+    "name": "MT018",
     "category": "Meja Tamu",
     "price": "Rp 3.200.000",
     "stock": "Pre-order",
@@ -14615,7 +14528,7 @@
   },
   {
     "id": 847,
-    "name": "MT020",
+    "name": "MT019",
     "category": "Meja Tamu",
     "price": "Rp 2.400.000",
     "stock": "Pre-order",
@@ -14629,7 +14542,7 @@
   },
   {
     "id": 848,
-    "name": "MT021",
+    "name": "MT018",
     "category": "Meja Tamu",
     "price": "Rp 2.200.000",
     "stock": "Pre-order",
@@ -14643,7 +14556,7 @@
   },
   {
     "id": 849,
-    "name": "MT022",
+    "name": "MT019",
     "category": "Meja Tamu",
     "price": "Rp 2.600.000",
     "stock": "Pre-order",
@@ -14657,7 +14570,7 @@
   },
   {
     "id": 850,
-    "name": "MT023",
+    "name": "MT020",
     "category": "Meja Tamu",
     "price": "Rp 3.200.000",
     "stock": "Pre-order",
@@ -14671,7 +14584,7 @@
   },
   {
     "id": 851,
-    "name": "MT024",
+    "name": "MT021",
     "category": "Meja Tamu",
     "price": "Rp 2.900.000",
     "stock": "Pre-order",
@@ -14685,7 +14598,7 @@
   },
   {
     "id": 852,
-    "name": "MT025",
+    "name": "MT022",
     "category": "Meja Tamu",
     "price": "Rp 2.400.000",
     "stock": "Pre-order",
@@ -14699,7 +14612,7 @@
   },
   {
     "id": 853,
-    "name": "MT026",
+    "name": "MT023",
     "category": "Meja Tamu",
     "price": "Rp 2.500.000",
     "stock": "Pre-order",
@@ -14713,7 +14626,7 @@
   },
   {
     "id": 854,
-    "name": "MT027",
+    "name": "MT024",
     "category": "Meja Tamu",
     "price": "Rp 3.000.000",
     "stock": "Pre-order",
@@ -14727,7 +14640,7 @@
   },
   {
     "id": 855,
-    "name": "MT028",
+    "name": "MT025",
     "category": "Meja Tamu",
     "price": "Rp 3.500.000",
     "stock": "Pre-order",
@@ -14741,7 +14654,7 @@
   },
   {
     "id": 856,
-    "name": "MT029",
+    "name": "MT026",
     "category": "Meja Tamu",
     "price": "Rp 3.000.000",
     "stock": "Pre-order",
@@ -14755,7 +14668,7 @@
   },
   {
     "id": 857,
-    "name": "MT029",
+    "name": "MT027",
     "category": "Meja Tamu",
     "price": "Rp 2.200.000",
     "stock": "Pre-order",
@@ -14769,7 +14682,7 @@
   },
   {
     "id": 858,
-    "name": "MT030",
+    "name": "MT028",
     "category": "Meja Tamu",
     "price": "Rp 1.800.000",
     "stock": "Pre-order",
@@ -14783,7 +14696,7 @@
   },
   {
     "id": 859,
-    "name": "MT031",
+    "name": "MT029",
     "category": "Meja Tamu",
     "price": "Rp 1.900.000",
     "stock": "Pre-order",
@@ -14797,7 +14710,7 @@
   },
   {
     "id": 860,
-    "name": "MT032",
+    "name": "MT030",
     "category": "Meja Tamu",
     "price": "Rp 2.900.000",
     "stock": "Pre-order",
@@ -14811,7 +14724,7 @@
   },
   {
     "id": 861,
-    "name": "MT033",
+    "name": "MT031",
     "category": "Meja Tamu",
     "price": "Rp 2.500.000",
     "stock": "Pre-order",
@@ -14825,7 +14738,7 @@
   },
   {
     "id": 862,
-    "name": "MT034",
+    "name": "MT023",
     "category": "Meja Tamu",
     "price": "Rp 2.000.000",
     "stock": "Pre-order",
@@ -14839,7 +14752,7 @@
   },
   {
     "id": 863,
-    "name": "MT035",
+    "name": "MT033",
     "category": "Meja Tamu",
     "price": "Rp 1.800.000",
     "stock": "Pre-order",
@@ -14847,13 +14760,13 @@
     "finishing": "Natural Brown",
     "size": " P 110 x L 55 x T 40 cm",
     "images": [
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-53.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-55.jpg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-tamu-54.jpg"
     ]
   },
   {
     "id": "1048",
-    "name": "MT036",
+    "name": "MT034",
     "category": "Meja Tamu",
     "price": "Rp 2.200.000",
     "stock": "Pre-order",
@@ -14867,7 +14780,7 @@
   },
   {
     "id": "1049",
-    "name": "MT037",
+    "name": "MT035",
     "category": "Meja Tamu",
     "price": "Rp 1.850.000",
     "stock": "Pre-order",
@@ -14881,7 +14794,7 @@
   },
   {
     "id": "1050",
-    "name": "MT038",
+    "name": "MT036",
     "category": "Meja Tamu",
     "price": "Rp 2.100.000",
     "stock": "Pre-order",
@@ -14895,7 +14808,7 @@
   },
   {
     "id": "1051",
-    "name": "MT039",
+    "name": "MT037",
     "category": "Meja Tamu",
     "price": "Rp 2.000.000",
     "stock": "Pre-order",
@@ -14964,22 +14877,8 @@
     ]
   },
   {
-    "id": 456,
-    "name": "MC005",
-    "category": "Meja Coffe",
-    "price": "Rp 500.000",
-    "stock": "Pre-order",
-    "material": "Kayu Jati Solid   ",
-    "finishing": "Natural Glosy",
-    "size": "P 55 x L 55 X T 55 cm",
-    "images": [
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-5.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-20.jpeg"
-    ]
-  },
-  {
     "id": 457,
-    "name": "MC006",
+    "name": "MC005",
     "category": "Meja Coffe",
     "price": "Rp 1.800.000",
     "stock": "Pre-order",
@@ -14993,7 +14892,7 @@
   },
   {
     "id": 457,
-    "name": "MC007",
+    "name": "MC006",
     "category": "Meja Coffe",
     "price": "Rp 600.000",
     "stock": "Pre-order",
@@ -15004,7 +14903,7 @@
   },
   {
     "id": 464,
-    "name": "MC008",
+    "name": "MC007",
     "category": "Meja Coffe",
     "price": "Rp 2.000.000",
     "stock": "Pre-order",
@@ -15018,7 +14917,7 @@
   },
   {
     "id": 465,
-    "name": "MC009",
+    "name": "MC008",
     "category": "Meja Coffe",
     "price": "Rp 2.800.000",
     "stock": "Pre-order",
@@ -15032,7 +14931,7 @@
   },
   {
     "id": 466,
-    "name": "MC010",
+    "name": "MC009",
     "category": "Meja Coffe",
     "price": "Rp 800.000",
     "stock": "Pre-order",
@@ -15043,7 +14942,7 @@
   },
   {
     "id": 817,
-    "name": "MC011",
+    "name": "MC010",
     "category": "Meja Coffe",
     "price": "Rp 2.000.000",
     "stock": "Pre-order",
@@ -15051,13 +14950,13 @@
     "finishing": "Natural Glosy",
     "size": "P 100 x L 55 X T 45 cm",
     "images": [
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-12.jepg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-12.jpeg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-13.jpeg"
     ]
   },
   {
     "id": 818,
-    "name": "MC012",
+    "name": "MC011",
     "category": "Meja Coffe",
     "price": "Rp 700.000",
     "stock": "Pre-order",
@@ -15065,13 +14964,13 @@
     "finishing": "Natural Glosy",
     "size": "P 50 x L 50 X T 45 cm",
     "images": [
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-15.jepg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-15.jpeg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/m-coffe-14.jpeg"
     ]
   },
   {
     "id": 819,
-    "name": "MC013",
+    "name": "MC012",
     "category": "Meja Coffe",
     "price": "Rp 850.000",
     "stock": "Pre-order",
@@ -15085,7 +14984,7 @@
   },
   {
     "id": 864,
-    "name": "MC014",
+    "name": "MC013",
     "category": "Meja Coffe",
     "price": "Rp 1.400.000",
     "stock": "Pre-order",
@@ -15099,7 +14998,7 @@
   },
   {
     "id": 905,
-    "name": "MC015",
+    "name": "MC014",
     "category": "Meja Coffe",
     "price": "Rp 650.000",
     "stock": "Pre-order",
@@ -15113,7 +15012,7 @@
   },
   {
     "id": 906,
-    "name": "MC016",
+    "name": "MC015",
     "category": "Meja Coffe",
     "price": "Rp 1.200.000",
     "stock": "Pre-order",
@@ -15127,7 +15026,7 @@
   },
   {
     "id": 907,
-    "name": "MC017",
+    "name": "MC016",
     "category": "Meja Coffe",
     "price": "Rp 1.300.000",
     "stock": "Pre-order",
@@ -15141,7 +15040,7 @@
   },
   {
     "id": 908,
-    "name": "MC018",
+    "name": "MC017",
     "category": "Meja Coffe",
     "price": "Rp 700.000",
     "stock": "Pre-order",
@@ -15155,7 +15054,7 @@
   },
   {
     "id": 909,
-    "name": "MC019",
+    "name": "MC018",
     "category": "Meja Coffe",
     "price": "Rp 800.000",
     "stock": "Pre-order",
@@ -15169,7 +15068,7 @@
   },
   {
     "id": 910,
-    "name": "MC020",
+    "name": "MC019",
     "category": "Meja Coffe",
     "price": "Rp 700.000",
     "stock": "Pre-order",
@@ -15183,7 +15082,7 @@
   },
   {
     "id": 911,
-    "name": "MC021",
+    "name": "MC020",
     "category": "Meja Coffe",
     "price": "Rp 1.000.000",
     "stock": "Pre-order",
@@ -15197,7 +15096,7 @@
   },
   {
     "id": 912,
-    "name": "MC022",
+    "name": "MC021",
     "category": "Meja Coffe",
     "price": "Rp 1.100.000",
     "stock": "Pre-order",
