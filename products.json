@@ -6355,7 +6355,7 @@
     "id": 48,
     "name": "LMP014",
     "category": "Lemari Pakaian",
-    "price": "Rp 4.700.000",
+    "price": "Rp 5.500.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
@@ -6369,24 +6369,26 @@
     "id": 49,
     "name": "LMP015",
     "category": "Lemari Pakaian",
-    "price": "Rp 4.700.000",
+    "price": "Rp 5.500.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 150 x L 50 x T 210 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-16.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-16.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-174.jpg"
+]},
   {
     "id": 87,
     "name": "LMP016",
     "category": "Lemari Pakaian",
     "price": "Rp 2.800.000",
-    "stock": "Ready",
+    "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown ",
     "size": "P 50 x L 55 x T 190 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-18.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-18.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-172.jpg"
+]},
   {
     "id": 51,
     "name": "LMP017",
@@ -6425,8 +6427,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 50 x L 55 x T 190 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-21.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-21.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-171.jpg"
+]},
   {
     "id": 55,
     "name": "LMP020",
@@ -6456,22 +6459,22 @@
     "id": 57,
     "name": "LMP022",
     "category": "Lemari Pakaian",
-    "price": "Rp 4.900.000",
+    "price": "Rp 5.500.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown ",
-    "size": "P 150 x L 55 x T 200 Cm — Bisa custom ukuran",
+    "size": "P 150 x L 50 x T 210 Cm — Bisa custom ukuran",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-25.jpg"
   },
   {
     "id": 58,
     "name": "LMP023",
     "category": "Lemari Pakaian",
-    "price": "Rp 5.000.000",
+    "price": "Rp 5.500.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 160 x L 55 x T 220 Cm — Bisa custom ukuran",
+    "size": "P 160 x L 50 x T 210 Cm — Bisa custom ukuran",
     "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-26.jpg"
   },
   {
@@ -6573,7 +6576,7 @@
     "id": 552,
     "name": "LMP031",
     "category": "Lemari Pakaian",
-    "price": "Rp 6.000.000",
+    "price": "Rp 6.300.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid + Rotan ",
     "finishing": "Natural Brown ",
@@ -6875,7 +6878,7 @@
     "finishing": "Natural Brown",
     "size": "P 150 x L 50 x T 200 Cm — Bisa custom ukuran",
     "images": [
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-93.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-95.jpg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-94.jpg"
     ]
   },
@@ -6890,7 +6893,7 @@
     "size": "P 105 x L 60 x T 180 Cm — Bisa custom ukuran",
     "images": [
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-96.jpeg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-98.jpeg"
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-97.jpeg"
     ]
   },
   {
@@ -7104,30 +7107,20 @@
     ]
   },
   {
-    "id": 68,
-    "name": "LSP002",
-    "category": "Lemari Sepatu",
-    "price": "Rp 2.500.000",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 90 x L 40 x T 120 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-2.jpg"
-  },
-  {
     "id": 69,
-    "name": "LSP003",
+    "name": "LSP002",
     "category": "Lemari Sepatu",
     "price": "Rp 2.500.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Salak Brown ",
     "size": "P 90 x L 40 x T 201200 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-3.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-3.jpg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-34.jpg"
+]},
   {
     "id": 70,
-    "name": "LSP004",
+    "name": "LSP003",
     "category": "Lemari Sepatu",
     "price": "Rp 2.000.000",
     "stock": "Ready",
@@ -7141,18 +7134,19 @@
   },
   {
     "id": 71,
-    "name": "LSP005",
+    "name": "LSP004",
     "category": "Lemari Sepatu",
-    "price": "Rp 1.500.000",
+    "price": "Rp 2.200.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
-    "finishing": "Non Finishing",
-    "size": "P 120 x L 50 x T 200 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-5.jpg"
-  },
+    "finishing": "Natural Brown",
+    "size": "P 90 x L 40 x T 120 cm",
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-35.jpg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-37.jpg"
+]},
   {
     "id": 72,
-    "name": "LSP006",
+    "name": "LSP005",
     "category": "Lemari Sepatu",
     "price": "Rp 3.000.000",
     "stock": "Pre-order",
@@ -7166,18 +7160,19 @@
   },
   {
     "id": 73,
-    "name": "LSP007",
+    "name": "LSP006",
     "category": "Lemari Sepatu",
     "price": "Rp 2.300.000",
     "stock": "Ready",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 75 x L 40 x T 130 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-7.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-7.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-36.jpg"
+]},
   {
     "id": 74,
-    "name": "LSP008",
+    "name": "LSP007",
     "category": "Lemari Sepatu",
     "price": "Rp 2.500.000",
     "stock": "Pre-order",
@@ -7190,19 +7185,8 @@
     ]
   },
   {
-    "id": 75,
-    "name": "LSP009",
-    "category": "Lemari Sepatu",
-    "price": "Rp 2.700.000",
-    "stock": "Pre-order",
-    "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 90 x L 40 x T 120 cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-sepatu-9.jpg"
-  },
-  {
     "id": 67,
-    "name": "LSP010",
+    "name": "LSP008",
     "category": "Lemari Sepatu",
     "price": "Rp 2.500.000",
     "stock": "Pre-order",
@@ -7216,7 +7200,7 @@
   },
   {
     "id": 627,
-    "name": "LSP011",
+    "name": "LSP009",
     "category": "Lemari Sepatu",
     "price": "Rp 2.300.000",
     "stock": "Pre-order",
@@ -7230,7 +7214,7 @@
   },
   {
     "id": 628,
-    "name": "LSP012",
+    "name": "LSP010",
     "category": "Lemari Sepatu",
     "price": "Rp 3.000.000",
     "stock": "Pre-order",
@@ -7244,7 +7228,7 @@
   },
   {
     "id": 629,
-    "name": "LSP013",
+    "name": "LSP011",
     "category": "Lemari Sepatu",
     "price": "Rp 4.200.000",
     "stock": "Pre-order",
@@ -7258,7 +7242,7 @@
   },
   {
     "id": 630,
-    "name": "LSP014",
+    "name": "LSP012",
     "category": "Lemari Sepatu",
     "price": "Rp 3.600.000",
     "stock": "Pre-order",
@@ -7272,7 +7256,7 @@
   },
   {
     "id": 631,
-    "name": "LSP014",
+    "name": "LSP013",
     "category": "Lemari Sepatu",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -7287,7 +7271,7 @@
   },
   {
     "id": 632,
-    "name": "LSP015",
+    "name": "LSP014",
     "category": "Lemari Sepatu",
     "price": "Rp 2.800.000",
     "stock": "Pre-order",
@@ -7301,7 +7285,7 @@
   },
   {
     "id": 633,
-    "name": "LSP016",
+    "name": "LSP015",
     "category": "Lemari Sepatu",
     "price": "Rp 4.400.000",
     "stock": "Pre-order",
@@ -7316,7 +7300,7 @@
   },
   {
     "id": 634,
-    "name": "LSP017",
+    "name": "LSP016",
     "category": "Lemari Sepatu",
     "price": "Rp 4.500.000",
     "stock": "Pre-order",
