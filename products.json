@@ -24,7 +24,7 @@
     "size": "P 120 x L 50 x T 200 Cm ",
     "images": [
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/ayunan-2.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/ayunan-2.jpg"
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/ayunan-13.jpg"
     ]
   },
   {
@@ -106,8 +106,10 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 200 x L 80 Cm x  T 75 Cm ",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-1.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-1.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-32.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-11.jpg"
+]},
   {
     "id": 77,
     "name": "BBL002",
@@ -117,8 +119,9 @@
     "material": "Kayu Jati Solid + Cushion",
     "finishing": "Natural Brown + Duco",
     "size": "P 180 x L 60 x  T 75 Cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-10.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-10.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-32.jpg"
+]},
   {
     "id": 78,
     "name": "BBL003",
@@ -128,8 +131,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 200 x L 80 x  T 75 Cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-2.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-2.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-38.jpg"
+]},
   {
     "id": 982,
     "name": "BBL004",
@@ -139,8 +143,9 @@
     "material": "Kayu Jati Solid + Cushion",
     "finishing": "Natural Brown",
     "size": "P 200 x L 80 x  T 75 Cm",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-3.jpg"
-  },
+    "images": ["https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-3.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-33.png"
+]},
   {
     "id": 983,
     "name": "BBL005",
@@ -162,8 +167,9 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 200 x L 100 x  T 75 Cm ",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-5.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-5.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-35.jpeg"
+]},
   {
     "id": 985,
     "name": "BBL007",
@@ -187,8 +193,10 @@
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
     "size": "P 200 x L 80 x  T 75 Cm ",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-7.jpg"
-  },
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-7.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-37.jpg",
+    "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-39.jpeg"
+]},
   {
     "id": 479,
     "name": "BBL009",
@@ -200,7 +208,7 @@
     "size": "P 200 x L 80 x  T 75 Cm ",
     "images": [
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-12.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-12.jpg"
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-34.jpeg"
     ]
   },
   {
@@ -328,20 +336,6 @@
     "images": [
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-30.jpg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-31.jpg"
-    ]
-  },
-  {
-    "id": 977,
-    "name": "BBL016",
-    "category": "Bale Bale",
-    "price": "Rp 2.800.000",
-    "stock": "Pre-order",
-    "material": "Kayu Jati Solid  + Cushion",
-    "finishing": "Natural Brown",
-    "size": "P 200 x  L 80 x  T 80 cm",
-    "images": [
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-32.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/k-balebale-33.jpg"
     ]
   },
   {
