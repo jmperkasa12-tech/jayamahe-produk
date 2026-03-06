@@ -5896,22 +5896,8 @@
     ]
   },
   {
-    "id": 30,
-    "name": "LMH012",
-    "category": "Lemari Hias",
-    "price": "Rp 2.700.000",
-    "stock": "Ready",
-    "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown + Duco",
-    "size": "P 70 x L 55 x T 230 cm",
-    "imagse": [
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-12.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-39.jpg"
-    ]
-  },
-  {
     "id": 31,
-    "name": "LMH013",
+    "name": "LMH012",
     "category": "Lemari Hias",
     "price": "Rp 2.700.000",
     "stock": "Pre-order",
@@ -5920,12 +5906,13 @@
     "size": "P 80 x L 55 x T 210 cm",
     "images": [
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-13.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-41.jpg"
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-41.jpg",
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-17.jpg"
     ]
   },
   {
     "id": 32,
-    "name": "LMH014",
+    "name": "LMH013",
     "category": "Lemari Hias",
     "price": "Rp 2.600.000",
     "stock": "Ready",
@@ -5934,12 +5921,12 @@
     "size": "P 70 x L 55 x T 230 cm",
     "images": [
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-14.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-42.jpg"
+      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-12.jpg"
     ]
   },
   {
     "id": 514,
-    "name": "LMH015",
+    "name": "LMH014",
     "category": "Lemari Hias",
     "price": "Rp 7.500.000",
     "stock": "Pre-order",
@@ -5950,7 +5937,7 @@
   },
   {
     "id": 515,
-    "name": "LMH016",
+    "name": "LMH015",
     "category": "Lemari Hias",
     "price": "Rp 6.000.000",
     "stock": "Pre-order",
@@ -5963,22 +5950,8 @@
     ]
   },
   {
-    "id": 516,
-    "name": "LMH017",
-    "category": "Lemari Hias",
-    "price": "Rp 2.700.000",
-    "stock": "Pre-order",
-    "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown ",
-    "size": "P  80 x L 55 x T 210 cm",
-    "images": [
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-17.jpg",
-      "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-hias-44.jpg"
-    ]
-  },
-  {
     "id": 517,
-    "name": "LMH018",
+    "name": "LMH016",
     "category": "Lemari Hias",
     "price": "Rp 2.500.000",
     "stock": "Pre-order",
@@ -5989,7 +5962,7 @@
   },
   {
     "id": 518,
-    "name": "LMH019",
+    "name": "LMH017",
     "category": "Lemari Hias",
     "price": "Rp 20.000.000",
     "stock": "Pre-order",
@@ -6003,7 +5976,7 @@
   },
   {
     "id": 519,
-    "name": "LMH020",
+    "name": "LMH018",
     "category": "Lemari Hias",
     "price": "Rp 12.000.000",
     "stock": "Pre-order",
@@ -6020,7 +5993,7 @@
   },
   {
     "id": 520,
-    "name": "LMH021",
+    "name": "LMH019",
     "category": "Lemari Hias",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -6034,7 +6007,7 @@
   },
   {
     "id": 521,
-    "name": "LMH022",
+    "name": "LMH020",
     "category": "Lemari Hias",
     "price": "Rp 5.500.000",
     "stock": "Pre-order",
@@ -6048,7 +6021,7 @@
   },
   {
     "id": 522,
-    "name": "LMH023",
+    "name": "LMH021",
     "category": "Lemari Hias",
     "price": "Rp 6.500.000",
     "stock": "Pre-order",
@@ -6059,7 +6032,7 @@
   },
   {
     "id": 523,
-    "name": "LMH024",
+    "name": "LMH022",
     "category": "Lemari Hias",
     "price": "Rp 13.000.000",
     "stock": "Pre-order",
@@ -6070,7 +6043,7 @@
   },
   {
     "id": 524,
-    "name": "LMH025",
+    "name": "LMH023",
     "category": "Lemari Hias",
     "price": "Rp 12.000.000",
     "stock": "Pre-order",
@@ -6084,7 +6057,7 @@
   },
   {
     "id": 525,
-    "name": "LMH026",
+    "name": "LMH024",
     "category": "Lemari Hias",
     "price": "Rp 4.700.000",
     "stock": "Pre-order",
@@ -6098,7 +6071,7 @@
   },
   {
     "id": 526,
-    "name": "LMH027",
+    "name": "LMH025",
     "category": "Lemari Hias",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -6112,7 +6085,7 @@
   },
   {
     "id": 527,
-    "name": "LMH028",
+    "name": "LMH026",
     "category": "Lemari Hias",
     "price": "Rp 4.800.000",
     "stock": "Pre-order",
@@ -6123,7 +6096,7 @@
   },
   {
     "id": 528,
-    "name": "LMH029",
+    "name": "LMH027",
     "category": "Lemari Hias",
     "price": "Rp 4.800.000",
     "stock": "Pre-order",
@@ -6134,7 +6107,7 @@
   },
   {
     "id": 529,
-    "name": "LMH030",
+    "name": "LMH028",
     "category": "Lemari Hias",
     "price": "Rp 10.500.000",
     "stock": "Pre-order",
@@ -6145,7 +6118,7 @@
   },
   {
     "id": 530,
-    "name": "LMH031",
+    "name": "LMH029",
     "category": "Lemari Hias",
     "price": "Rp 3.500.000",
     "stock": "Pre-order",
@@ -6159,7 +6132,7 @@
   },
   {
     "id": 532,
-    "name": "LMH032",
+    "name": "LMH030",
     "category": "Lemari Hias",
     "price": "Rp 4.800.000",
     "stock": "Pre-order",
@@ -6173,7 +6146,7 @@
   },
   {
     "id": 533,
-    "name": "LMH033",
+    "name": "LMH031",
     "category": "Lemari Hias",
     "price": "Rp 3.300.000",
     "stock": "Pre-order",
@@ -6184,7 +6157,7 @@
   },
   {
     "id": 1054,
-    "name": "LMH034",
+    "name": "LMH032",
     "category": "Lemari Hias",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -6198,7 +6171,7 @@
   },
   {
     "id": 1055,
-    "name": "LMH035",
+    "name": "LMH033",
     "category": "Lemari Hias",
     "price": "Rp 3.300.000",
     "stock": "Pre-order",
@@ -6214,7 +6187,7 @@
     "id": 42,
     "name": "LMP001",
     "category": "Lemari Pakaian",
-    "price": "Rp 4.700.000",
+    "price": "Rp 5.500.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
@@ -6228,7 +6201,7 @@
     "id": 53,
     "name": "LMP002",
     "category": "Lemari Pakaian",
-    "price": "Rp 3.800.000",
+    "price": "Rp 4.000.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
@@ -6239,7 +6212,7 @@
     "id": 59,
     "name": "LMP003",
     "category": "Lemari Pakaian",
-    "price": "Rp 5.000.000",
+    "price": "Rp 5.900.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
@@ -6289,22 +6262,23 @@
     "id": 63,
     "name": "LMP007",
     "category": "Lemari Pakaian",
-    "price": "Rp 4.900.000",
+    "price": "Rp 5.500.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 150 x L 50 x T 200 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-7.jpg"
-  },
+    "size": "P 150 x L 50 x T 210 Cm — Bisa custom ukuran",
+    "images":[ "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-7.jpg",
+     "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-170.jpeg"
+]},
   {
     "id": 64,
     "name": "LMP008",
     "category": "Lemari Pakaian",
-    "price": "Rp 4.700.000",
+    "price": "Rp 5.500.000",
     "stock": "Pre-order",
     "material": "Kayu Jati Solid",
     "finishing": "Natural Brown",
-    "size": "P 150 x L 50 x T 200 Cm — Bisa custom ukuran",
+    "size": "P 150 x L 50 x T 210 Cm — Bisa custom ukuran",
     "images": [
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-8.jpg",
       "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-68.jpg"
@@ -6364,19 +6338,8 @@
     ]
   },
   {
-    "id": 46,
-    "name": "LMP013",
-    "category": "Lemari Pakaian",
-    "price": "Rp 4.700.000",
-    "stock": "Pre-order",
-    "material": "Kayu Jati Solid",
-    "finishing": "Natural Brown",
-    "size": "P 150 x L 55 x T 220 Cm — Bisa custom ukuran",
-    "image": "https://raw.githubusercontent.com/jmperkasa12-tech/jayamahe-produk/main/images/g-pakaian-13.jpg"
-  },
-  {
     "id": 47,
-    "name": "LMP014",
+    "name": "LMP013",
     "category": "Lemari Pakaian",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -6390,7 +6353,7 @@
   },
   {
     "id": 48,
-    "name": "LMP015",
+    "name": "LMP014",
     "category": "Lemari Pakaian",
     "price": "Rp 4.700.000",
     "stock": "Pre-order",
@@ -6404,7 +6367,7 @@
   },
   {
     "id": 49,
-    "name": "LMP016",
+    "name": "LMP015",
     "category": "Lemari Pakaian",
     "price": "Rp 4.700.000",
     "stock": "Pre-order",
@@ -6415,7 +6378,7 @@
   },
   {
     "id": 87,
-    "name": "LMP018",
+    "name": "LMP016",
     "category": "Lemari Pakaian",
     "price": "Rp 2.800.000",
     "stock": "Ready",
@@ -6426,7 +6389,7 @@
   },
   {
     "id": 51,
-    "name": "LMP019",
+    "name": "LMP017",
     "category": "Lemari Pakaian",
     "price": "Rp 5.500.000",
     "stock": "Pre-order",
@@ -6440,7 +6403,7 @@
   },
   {
     "id": 52,
-    "name": "LMP020",
+    "name": "LMP018",
     "category": "Lemari Pakaian",
     "price": "Rp 3.800.000",
     "stock": "Ready",
@@ -6455,7 +6418,7 @@
   },
   {
     "id": 54,
-    "name": "LMP021",
+    "name": "LMP019",
     "category": "Lemari Pakaian",
     "price": "Rp 2.800.000",
     "stock": "Pre-order",
@@ -6466,7 +6429,7 @@
   },
   {
     "id": 55,
-    "name": "LMP022",
+    "name": "LMP020",
     "category": "Lemari Pakaian",
     "price": "Rp 4.500.000",
     "stock": "Pre-order",
@@ -6480,7 +6443,7 @@
   },
   {
     "id": 56,
-    "name": "LMP023",
+    "name": "LMP021",
     "category": "Lemari Pakaian",
     "price": "Rp 6.700.000",
     "stock": "Pre-order",
@@ -6491,7 +6454,7 @@
   },
   {
     "id": 57,
-    "name": "LMP024",
+    "name": "LMP022",
     "category": "Lemari Pakaian",
     "price": "Rp 4.900.000",
     "stock": "Pre-order",
@@ -6502,7 +6465,7 @@
   },
   {
     "id": 58,
-    "name": "LMP025",
+    "name": "LMP023",
     "category": "Lemari Pakaian",
     "price": "Rp 5.000.000",
     "stock": "Pre-order",
@@ -6513,7 +6476,7 @@
   },
   {
     "id": 486,
-    "name": "LMP026",
+    "name": "LMP024",
     "category": "Lemari Pakaian",
     "price": "Rp 5.500.000",
     "stock": "Pre-order",
@@ -6527,7 +6490,7 @@
   },
   {
     "id": 534,
-    "name": "LMP027",
+    "name": "LMP025",
     "category": "Lemari Pakaian",
     "price": "Rp 5.500.000",
     "stock": "Pre-order",
@@ -6541,7 +6504,7 @@
   },
   {
     "id": 535,
-    "name": "LMP028",
+    "name": "LMP026",
     "category": "Lemari Pakaian",
     "price": "Rp 4.300.000",
     "stock": "Pre-order",
@@ -6555,7 +6518,7 @@
   },
   {
     "id": 536,
-    "name": "LMP029",
+    "name": "LMP027",
     "category": "Lemari Pakaian",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -6569,7 +6532,7 @@
   },
   {
     "id": 537,
-    "name": "LMP030",
+    "name": "LMP028",
     "category": "Lemari Pakaian",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -6583,7 +6546,7 @@
   },
   {
     "id": 538,
-    "name": "LMP031",
+    "name": "LMP029",
     "category": "Lemari Pakaian",
     "price": "Rp 4.500.000",
     "stock": "Pre-order",
@@ -6597,7 +6560,7 @@
   },
   {
     "id": 539,
-    "name": "LMP032",
+    "name": "LMP030",
     "category": "Lemari Pakaian",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -6608,7 +6571,7 @@
   },
   {
     "id": 552,
-    "name": "LMP033",
+    "name": "LMP031",
     "category": "Lemari Pakaian",
     "price": "Rp 6.000.000",
     "stock": "Pre-order",
@@ -6619,7 +6582,7 @@
   },
   {
     "id": 553,
-    "name": "LMP034",
+    "name": "LMP032",
     "category": "Lemari Pakaian",
     "price": "Rp 12.500.000",
     "stock": "Pre-order",
@@ -6633,7 +6596,7 @@
   },
   {
     "id": 554,
-    "name": "LMP035",
+    "name": "LMP033",
     "category": "Lemari Pakaian",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -6644,7 +6607,7 @@
   },
   {
     "id": 555,
-    "name": "LMP036",
+    "name": "LMP034",
     "category": "Lemari Pakaian",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -6655,7 +6618,7 @@
   },
   {
     "id": 556,
-    "name": "LMP037",
+    "name": "LMP035",
     "category": "Lemari Pakaian",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -6666,7 +6629,7 @@
   },
   {
     "id": 557,
-    "name": "LMP038",
+    "name": "LMP036",
     "category": "Lemari Pakaian",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -6677,7 +6640,7 @@
   },
   {
     "id": 558,
-    "name": "LMP039",
+    "name": "LMP037",
     "category": "Lemari Pakaian",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -6688,7 +6651,7 @@
   },
   {
     "id": 559,
-    "name": "LMP040",
+    "name": "LMP038",
     "category": "Lemari Pakaian",
     "price": "Rp 11.800.000",
     "stock": "Pre-order",
@@ -6702,7 +6665,7 @@
   },
   {
     "id": 560,
-    "name": "LMP041",
+    "name": "LMP039",
     "category": "Lemari Pakaian",
     "price": "Rp 7.000.000",
     "stock": "Pre-order",
@@ -6713,7 +6676,7 @@
   },
   {
     "id": 561,
-    "name": "LMP042",
+    "name": "LMP040",
     "category": "Lemari Pakaian",
     "price": "Rp 5.800.000",
     "stock": "Pre-order",
@@ -6724,7 +6687,7 @@
   },
   {
     "id": 562,
-    "name": "LMP043",
+    "name": "LMP041",
     "category": "Lemari Pakaian",
     "price": "Rp 4.000.000",
     "stock": "Pre-order",
@@ -6738,7 +6701,7 @@
   },
   {
     "id": 599,
-    "name": "LMP044",
+    "name": "LMP042",
     "category": "Lemari Pakaian",
     "price": "Rp 8.000.000",
     "stock": "Pre-order",
@@ -6752,7 +6715,7 @@
   },
   {
     "id": 600,
-    "name": "LMP045",
+    "name": "LMP043",
     "category": "Lemari Pakaian",
     "price": "Rp 7.000.000",
     "stock": "Pre-order",
@@ -6763,7 +6726,7 @@
   },
   {
     "id": 601,
-    "name": "LMP046",
+    "name": "LMP044",
     "category": "Lemari Pakaian",
     "price": "Rp 8.000.000",
     "stock": "Pre-order",
@@ -6777,7 +6740,7 @@
   },
   {
     "id": 638,
-    "name": "LMP047",
+    "name": "LMP045",
     "category": "Lemari Pakaian",
     "price": "Rp 7.500.000",
     "stock": "Pre-order",
@@ -6791,7 +6754,7 @@
   },
   {
     "id": 639,
-    "name": "LMP048",
+    "name": "LMP046",
     "category": "Lemari Pakaian",
     "price": "Rp 6.000.000",
     "stock": "Pre-order",
@@ -6805,7 +6768,7 @@
   },
   {
     "id": 640,
-    "name": "LMP049",
+    "name": "LMP047",
     "category": "Lemari Pakaian",
     "price": "Rp 6.000.000",
     "stock": "Pre-order",
@@ -6820,7 +6783,7 @@
   },
   {
     "id": 941,
-    "name": "LMP050",
+    "name": "LMP048",
     "category": "Lemari Pakaian",
     "price": "Rp 7.800.000",
     "stock": "Pre-order",
@@ -6834,7 +6797,7 @@
   },
   {
     "id": 942,
-    "name": "LMP0501",
+    "name": "LMP049",
     "category": "Lemari Pakaian",
     "price": "Rp 7.500.000",
     "stock": "Pre-order",
@@ -6848,7 +6811,7 @@
   },
   {
     "id": 943,
-    "name": "LMP052",
+    "name": "LMP050",
     "category": "Lemari Pakaian",
     "price": "Rp 4.200.000",
     "stock": "Pre-order",
@@ -6862,7 +6825,7 @@
   },
   {
     "id": 944,
-    "name": "LMP053",
+    "name": "LMP051",
     "category": "Lemari Pakaian",
     "price": "Rp 4.800.000",
     "stock": "Pre-order",
@@ -6876,7 +6839,7 @@
   },
   {
     "id": 945,
-    "name": "LMP054",
+    "name": "LMP052",
     "category": "Lemari Pakaian",
     "price": "Rp 7.000.000",
     "stock": "Pre-order",
@@ -6890,7 +6853,7 @@
   },
   {
     "id": 946,
-    "name": "LMP055",
+    "name": "LMP053",
     "category": "Lemari Pakaian",
     "price": "Rp 5.500.000",
     "stock": "Pre-order",
@@ -6904,7 +6867,7 @@
   },
   {
     "id": 947,
-    "name": "LMP056",
+    "name": "LMP054",
     "category": "Lemari Pakaian",
     "price": "Rp 5.500.000",
     "stock": "Pre-order",
@@ -6918,7 +6881,7 @@
   },
   {
     "id": "1017",
-    "name": "LMP057",
+    "name": "LMP055",
     "category": "Lemari Pakaian",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -6932,7 +6895,7 @@
   },
   {
     "id": "1018",
-    "name": "LMP058",
+    "name": "LMP056",
     "category": "Lemari Pakaian",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -6946,7 +6909,7 @@
   },
   {
     "id": "1019",
-    "name": "LMP059",
+    "name": "LMP057",
     "category": "Lemari Pakaian",
     "price": "Rp 4.000.000",
     "stock": "Pre-order",
@@ -6960,7 +6923,7 @@
   },
   {
     "id": "1020",
-    "name": "LMP060",
+    "name": "LMP058",
     "category": "Lemari Pakaian",
     "price": "Rp 4.200.000",
     "stock": "Pre-order",
@@ -6974,7 +6937,7 @@
   },
   {
     "id": "1021",
-    "name": "LMP061",
+    "name": "LMP059",
     "category": "Lemari Pakaian",
     "price": "Rp 4.000.000",
     "stock": "Pre-order",
@@ -6988,7 +6951,7 @@
   },
   {
     "id": "1022",
-    "name": "LMP062",
+    "name": "LMP060",
     "category": "Lemari Pakaian",
     "price": "Rp 4.000.000",
     "stock": "Pre-order",
@@ -7002,7 +6965,7 @@
   },
   {
     "id": "1023",
-    "name": "LMP0603",
+    "name": "LMP061",
     "category": "Lemari Pakaian",
     "price": "Rp 3.900.000",
     "stock": "Pre-order",
@@ -7016,7 +6979,7 @@
   },
   {
     "id": "1024",
-    "name": "LMP064",
+    "name": "LMP062",
     "category": "Lemari Pakaian",
     "price": "Rp 4.700.000",
     "stock": "Pre-order",
@@ -7030,7 +6993,7 @@
   },
   {
     "id": "1025",
-    "name": "LMP065",
+    "name": "LMP063",
     "category": "Lemari Pakaian",
     "price": "Rp 3.300.000",
     "stock": "Pre-order",
@@ -7044,7 +7007,7 @@
   },
   {
     "id": "1026",
-    "name": "LMP066",
+    "name": "LMP064",
     "category": "Lemari Pakaian",
     "price": "Rp 3.800.000",
     "stock": "Pre-order",
@@ -7058,7 +7021,7 @@
   },
   {
     "id": "1027",
-    "name": "LMP067",
+    "name": "LMP065",
     "category": "Lemari Pakaian",
     "price": "Rp 3.700.000",
     "stock": "Pre-order",
@@ -7072,7 +7035,7 @@
   },
   {
     "id": "1028",
-    "name": "LMP068",
+    "name": "LMP066",
     "category": "Lemari Pakaian",
     "price": "Rp 4.000.000",
     "stock": "Pre-order",
@@ -7086,7 +7049,7 @@
   },
   {
     "id": "1029",
-    "name": "LMP069",
+    "name": "LMP067",
     "category": "Lemari Pakaian",
     "price": "Rp 6.000.000",
     "stock": "Pre-order",
@@ -7100,7 +7063,7 @@
   },
   {
     "id": "1030",
-    "name": "LMP070",
+    "name": "LMP068",
     "category": "Lemari Pakaian",
     "price": "Rp 4.200.000",
     "stock": "Pre-order",
@@ -7114,7 +7077,7 @@
   },
   {
     "id": "1031",
-    "name": "LMP071",
+    "name": "LMP069",
     "category": "Lemari Pakaian",
     "price": "Rp 3.200.000",
     "stock": "Pre-order",
